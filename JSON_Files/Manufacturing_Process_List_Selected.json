@@ -1,0 +1,33 @@
+{
+    "Manufacturing Processes": {
+        "Additive Manufacturing": {
+            "Directed Energy Deposition": [],
+            "Powder Bed Fusion": [],
+            "Fused Deposition Modelling": [],
+            "Binder Jetting": [],
+            "Selective Laser Sintering": []
+        },
+        "Subtractive Manufacturing": {
+            "Milling": [],
+            "Turning": [],
+            "Drilling": [],
+            "Abrasive Flow Machining": []
+        },
+        "Metal Forming": {
+            "Forging": [],
+            "Rheo Forming": [],
+            "Rolling ('Hot Rolling', 'Cold Rolling')": [],
+            "Extrusion ('Hot Extrusion', 'Cold Extrusion')": [],
+            "Drawing ('Wire Drawing', 'Bar Drawing')": [],
+            "Sheet Metal Forming": []
+        },
+        "Casting": [],
+        "Other Polymer-based Manufacturing Processes": {
+            "Thermoforming": [],
+            "Blow Molding": [],
+            "Compression Molding": [],
+            "Rotational Molding": [],
+            "Injection Molding": []
+        }
+    }
+}

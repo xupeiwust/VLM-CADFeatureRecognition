@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Gusset",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "quantity": 2
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "quantity": 1
+    }
+  ]
+}

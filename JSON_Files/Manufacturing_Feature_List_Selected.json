@@ -1,0 +1,32 @@
+{
+    "Manufacturing Features": {
+        "Machining Features": {
+            "Hole (Through / Blind Hole)": [],
+            "Slot (Through / Blind / T-Slot / Dovetail)": [],
+            "Step (Through / Blind Step)": [],
+            "Pocket (Blind / Through / Circular End Pocket)": [],
+            "Edges & Contours": {
+                "Chamfer / Bevel (Sharp Edge)": [],
+                "Fillet / Round (Concave / Convex)": []
+            },
+            "Threads & Spirals": {
+                "Threaded Feature": [],
+                "Gear Teeth": []
+            },
+            "Additional Machining Features": {
+                "Neck": []
+            }
+        },
+        "Extrusion Features": {
+            "Pipe / Tube": [],
+            "Boss (Circular / Obround / Irregular / Rectangular, etc)": []
+        },
+        "Freeform Features (Depression, Protrusion)": [],
+        "Molding & Casting Features": {
+            "Rib": [],
+            "Gusset": [],
+            "Draft": []
+        },
+        "Sheet Metal Features": []
+    }
+}

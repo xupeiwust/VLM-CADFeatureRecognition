@@ -69,11 +69,11 @@ To set up the environment, follow these steps:
 
 1. **Download the MFCAD-VLM Dataset**:
 
-   Access and download the dataset from [Zenodo](https://zenodo.org/record/14038050). Extract the contents to a directory of your choice.
+   Access and download the dataset from [Zenodo](https://zenodo.org/record/14038050). Extract the contents to `"Dataset"` directory.
 
 2. **Configure the Dataset Path**:
 
-   In the project's configuration file or script, set the path to the directory where the MFCAD-VLM dataset is located.
+   Set the path to the directory where the MFCAD-VLM dataset is located.
 
 3. **Run Experiments**:
 

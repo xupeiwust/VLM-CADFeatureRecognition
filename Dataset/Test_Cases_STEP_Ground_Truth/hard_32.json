@@ -1,0 +1,20 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "quantity": 6
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "quantity": 2
+    },
+    {
+      "feature_name": "Gusset",
+      "quantity": 2
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "quantity": 1
+    }
+  ]
+}

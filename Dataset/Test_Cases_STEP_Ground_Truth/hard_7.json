@@ -1,0 +1,20 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "quantity": 119
+    },
+    {
+      "feature_name": "Sheet Metal Features",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "quantity": 4
+    }
+  ]
+}

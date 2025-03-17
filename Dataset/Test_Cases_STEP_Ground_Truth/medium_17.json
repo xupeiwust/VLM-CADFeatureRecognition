@@ -1,0 +1,12 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "quantity": 16
+    },
+    {
+      "feature_name": "Sheet Metal Features",
+      "quantity": 1
+    }
+  ]
+}

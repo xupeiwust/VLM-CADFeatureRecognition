@@ -1,0 +1,12 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "quantity": 1
+    }
+  ]
+}

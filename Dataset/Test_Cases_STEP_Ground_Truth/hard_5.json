@@ -1,0 +1,20 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Sheet Metal Features",
+      "quantity":1
+    },
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "quantity": 11
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "quantity": 4
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "quantity": 1
+    }
+  ]
+}

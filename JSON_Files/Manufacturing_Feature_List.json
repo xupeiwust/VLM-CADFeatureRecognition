@@ -1,0 +1,111 @@
+{
+    "Manufacturing Features": {
+        "Machining Features": {
+            "Holes": {
+                "Through Hole": [],
+                "Blind Hole ('Pointed bottom', 'Flat bottom')": [],
+                "Counterbore": [],
+                "Countersink": [],
+                "Threaded Hole": [],
+                "Spotface": [],
+                "Tapered Hole": [],
+                "Step Drill": []
+            },
+            "Slots": {
+                "Triangular Through Slot": [],
+                "Rectangular Through Slot": [],
+                "Rectangular Blind Slot": [],
+                "Circular Through Slot": [],
+                "Vertical Circular End Blind Slot": [],
+                "Horizontal Circular End Blind Slot": [],
+                "T-Slot": [],
+                "Undercut": [],
+                "Groove": [],
+                "Dovetail Slot": []
+            },
+            "Steps": {
+                "2-Sides Through Step": [],
+                "Slanted Through Step": [],
+                "Rectangular Through Step": [],
+                "Triangular Blind Step": [],
+                "Circular Blind Step": [],
+                "Rectangular Blind Step": []
+            },
+            "Pockets": {
+                "Triangular blind Pocket": [],
+                "Rectangular Pocket": [],
+                "6-Sides Pocket": [],
+                "5-Sides Pocket": [],
+                "Circular End Pocket": [],
+                "Slot Hole ('Circular End Through Pocket')": [],
+                "Triangular Through pocket": [],
+                "Rectangular Through pocket": [],
+                "6-Sides Through pocket": [],
+                "5-Sides Through pocket": []
+            },
+            "Edges & Contours": {
+                "Chamfer": [],
+                "Round": [],
+                "Fillet": [],
+                "Bevel": []
+            },
+            "Threads & Spirals": {
+                "External Thread": [],
+                "Internal Thread": [],
+                "Spline": [],
+                "Helical Profile": [],
+                "Gear Teeth": []
+            },
+            "Additional Machining Features": {
+                "Knurl": [],
+                "Lug": [],
+                "Neck": [],
+                "Pad": [],
+                "Kerf": [],
+                "Boss": []
+            }
+        },
+        "Extrusion Features": {
+            "Standard Shapes": {
+                "Extruded Cylinder": [],
+                "Extruded Rectangle": [],
+                "Extruded Triangle": [],
+                "Extruded Hexagon": [],
+                "Extruded Pentagon": [],
+                "Obround Boss": []
+            },
+            "Tubes & Profiles": {
+                "Rod": [],
+                "Beam": [],
+                "Tube ('Pipe')": [],
+                "Complex Multi-void Profile": [],
+                "Interlocking Section": [],
+                "Custom Rail Guide": [],
+                "Snap-fit Profile": []
+            },
+            "Layered Structures": {
+                "Honeycomb Structure": [],
+                "Stacked Array": [],
+                "Gradient Density Structure": []
+            },
+            "Overhang": [],
+            "Support Structure": [],
+            "Lattice Structure": []
+        },
+        "Freeform Features": {
+            "Freeform Passage": [],
+            "Freeform Depression": [],
+            "Freeform Protrusion": [],
+            "Freeform Compound class": [],
+            "Surface Texture": []
+        },
+        "Molding & Casting Features": {
+            "Rib": [],
+            "Gusset": [],
+            "Draft": [],
+            "Core": [],
+            "Parting Line": [],
+            "Cavity": []
+        }
+    }
+}

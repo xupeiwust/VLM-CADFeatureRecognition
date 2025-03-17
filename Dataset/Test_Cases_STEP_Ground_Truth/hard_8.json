@@ -1,0 +1,20 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Pipe / Tube",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "quantity": 8
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "quantity": 2
+    },
+    {
+      "feature_name": "Sheet Metal Features",
+      "quantity": 1
+    }
+  ]
+}

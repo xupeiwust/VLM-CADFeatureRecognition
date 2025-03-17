@@ -1,0 +1,12 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "quantity": 1
+    }
+  ]
+}

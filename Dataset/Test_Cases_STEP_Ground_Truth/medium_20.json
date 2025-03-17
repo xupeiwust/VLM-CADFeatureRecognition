@@ -1,0 +1,36 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "quantity": 3
+    },
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "quantity": 4
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "quantity": 4
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "quantity": 1
+    }
+  ]
+}
