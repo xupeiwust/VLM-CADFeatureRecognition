@@ -79,18 +79,13 @@ To set up the environment, follow these steps:
 
    Execute the provided scripts to perform feature recognition tasks as described in the paper. For example:
 
-   ```bash
-   python run_experiment.py --config configs/experiment_config.yaml
-   ```
-
-   Replace `configs/experiment_config.yaml` with the path to your specific configuration file.
 
 ## Citation
 
 If you find this repository or the MFCAD-VLM dataset useful in your research, please cite the following paper:
 
 ```bibtex
-@article{khan2024leveraging,
+@article{
   title={Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs},
   author={Khan, Muhammad Tayyab and Chen, Lequn and Ng, Ye Han and Feng, Wenhe and Tan, Nicholas Yew Jin and Moon, Seung Ki},
   journal={arXiv preprint arXiv:2411.02810},
