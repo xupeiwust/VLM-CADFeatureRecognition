@@ -13,7 +13,7 @@ Automatic Feature Recognition (AFR) is crucial for converting design knowledge i
   <em>Figure 1: Overview of VLM-based AFR approach</em>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="doc/Prompt_engineering-few-shot-2.png" alt="Few-Shot Prompt Engineering" width="80%">
   <br>
   <em>Figure 2: Few-shot learning for VLM-driven AFR</em>
@@ -35,7 +35,7 @@ Automatic Feature Recognition (AFR) is crucial for converting design knowledge i
   <img src="doc/Dataset-Hard-1.png" alt="Example of Hard Dataset" width="80%">
   <br>
   <em>Figure 5: Example of a complex CAD feature recognition task</em>
-</p>
+</p> -->
 
 ## MFCAD-VLM Dataset
 
