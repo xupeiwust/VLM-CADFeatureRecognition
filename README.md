@@ -48,6 +48,11 @@ The study utilizes the [MFCAD-VLM dataset](https://zenodo.org/record/14038050), 
 
 ## Installation
 
+### Requirements
+- Python >= 3.9
+- PyTorch >= 1.8.0
+- CUDA-compatible GPU (recommended) with appropriate CUDA drivers installed
+
 To set up the environment, follow these steps:
 
 1. **Clone the repository**:
@@ -57,9 +62,44 @@ To set up the environment, follow these steps:
    cd VLM-CADFeatureRecognition
    ```
 
-2. **Install the required Python libraries**:
+2. **Create and activate a conda environment**:
 
-   Ensure you have Python installed, then run:
+   ```bash
+   conda create -n vlm_afr python=3.9
+   conda activate vlm_afr
+   ```
+
+3. **Install pyocc using conda**:
+
+   ```bash
+   conda install -c conda-forge pythonocc-core=7.8.1
+   ```
+
+4. **Install PyTorch**:
+
+   To check your CUDA version:
+   ```bash
+   nvidia-smi
+   ```
+
+   IMPORTANT: PyTorch installation depends on your CUDA version. Choose the appropriate command:
+
+   For CUDA 12.1:
+   ```bash
+   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+   ```
+
+   For CUDA 11.8:
+   ```bash
+   pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
+   ```
+
+   For CPU only:
+   ```bash
+   pip install torch torchvision torchaudio
+   ```
+
+5. **Install other requirements**:
 
    ```bash
    pip install -r requirements.txt
