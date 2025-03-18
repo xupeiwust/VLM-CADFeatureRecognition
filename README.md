@@ -1,6 +1,10 @@
 # VLM-CADFeatureRecognition
+[![Dataset](https://img.shields.io/badge/Dataset-MFCAD--VLM-green)](https://zenodo.org/records/14038050)
+
 
 This repository contains the code and resources accompanying the paper "[Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs](https://arxiv.org/abs/2411.02810)". The study explores the application of vision-language models (VLMs) to automate the recognition of various manufacturing features in CAD designs without extensive training datasets or predefined rules.
+
+**Link to Download the Dataset:** https://zenodo.org/records/14038050
 
 ## Overview
 
