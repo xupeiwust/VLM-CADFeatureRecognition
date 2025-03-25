@@ -6,6 +6,9 @@ This repository contains the code and resources accompanying the paper "[Leverag
 
 **Link to Download the Dataset:** https://zenodo.org/records/14038050
 
+**Authors:** [Chen Lequn](https://github.com/Davidlequnchen), [Muhammad Tayyab Khan](https://github.com/tayyabkhan3)
+
+
 ## Overview
 
 Automatic Feature Recognition (AFR) is crucial for converting design knowledge into actionable manufacturing information. Traditional AFR methods often rely on predefined geometric rules and large datasets, which can be time-consuming and may lack generalizability across different manufacturing features. This project investigates the use of VLMs, employing prompt engineering techniques such as multi-view query images, few-shot learning, sequential reasoning, and chain-of-thought, to recognize a wide range of manufacturing features in CAD designs.
