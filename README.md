@@ -124,7 +124,7 @@ To set up the environment, follow these steps:
 
 3. **Run Experiments**:
 
-   Execute the provided scripts to perform feature recognition tasks as described in the paper. For example:
+   Execute the provided scripts to perform feature recognition tasks as described in the paper. 
 
 
 ## Citation
