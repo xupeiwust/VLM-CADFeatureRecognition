@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A central through hole is visible in the center of the gear."
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The entire outer circumference of the part consists of gear teeth."
+    }
+  ]
+}

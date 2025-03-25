@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two through holes are visible in the clevis-like part."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Rounded fillets are present on the inner and outer edges of the forked end."
+    }
+  ]
+}

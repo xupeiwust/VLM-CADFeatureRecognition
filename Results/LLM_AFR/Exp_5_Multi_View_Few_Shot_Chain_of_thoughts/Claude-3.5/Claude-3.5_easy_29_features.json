@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Four circular holes visible on the surface of the disc."
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A step is visible around the edge of the disc."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "One circular boss visible in the center of the disc."
+    }
+  ]
+}

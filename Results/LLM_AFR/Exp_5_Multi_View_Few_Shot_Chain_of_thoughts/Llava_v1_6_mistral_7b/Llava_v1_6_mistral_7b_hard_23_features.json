@@ -1,0 +1,76 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Pocket",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "three circular end pockets."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "three sharp edges."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "three concave and convex fillets."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "three irregular bosses."
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one set of gear teeth."
+    },
+    {
+      "feature_name": "Neck",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one neck feature."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one pipe feature."
+    },
+    {
+      "feature_name": "Freeform Features (Depression, Protrusion)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one freeform feature."
+    },
+    {
+      "feature_name": "Rib",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one rib feature."
+    },
+    {
+      "feature_name": "Gusset",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one gusset feature."
+    },
+    {
+      "feature_name": "Draft",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one draft feature."
+    },
+    {
+      "feature_name": "Sheet Metal Features",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one sheet metal feature."
+    }
+  ]
+}

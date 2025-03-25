@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "There is a cylindrical through hole in the center of the part."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "The top and bottom edges of the part have convex rounded fillets."
+    }
+  ]
+}

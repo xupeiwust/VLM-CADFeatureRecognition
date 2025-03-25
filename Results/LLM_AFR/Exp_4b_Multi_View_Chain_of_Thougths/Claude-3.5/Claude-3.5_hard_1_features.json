@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two circular holes are visible on the main body of the part."
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A step feature is visible at one end of the part."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Rounded edges are visible at both ends of the part."
+    }
+  ]
+}

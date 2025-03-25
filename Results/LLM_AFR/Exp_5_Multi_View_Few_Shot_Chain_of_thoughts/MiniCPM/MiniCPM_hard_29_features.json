@@ -1,0 +1,34 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Four holes are visible on the parts."
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A step is visible on one of the parts."
+    },
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two pockets are visible on the parts."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "Three chamfers are visible on the edges of the parts."
+    },
+    {
+      "feature_name": "Sheet Metal Features",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The parts appear to be made of sheet metal."
+    }
+  ]
+}

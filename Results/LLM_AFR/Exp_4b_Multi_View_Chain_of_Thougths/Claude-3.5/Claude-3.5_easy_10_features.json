@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A small square hole is visible on the top surface of the part."
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two rectangular slots are visible, one on the side and one on the bottom of the part."
+    }
+  ]
+}

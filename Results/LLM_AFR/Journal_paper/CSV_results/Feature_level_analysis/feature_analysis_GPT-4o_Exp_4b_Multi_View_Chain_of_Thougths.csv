@@ -1,0 +1,17 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.5,0.16666666666666666,1.0,0.125,0.3333333333333333,0.125,0.5,0.21428571428571427,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Chamfer / Bevel (Sharp Edge),0.4166666666666667,0.0,0.5,0.0,0.3333333333333333,0.0,0.0,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Draft,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Fillet / Round (Concave / Convex),0.6728971962616822,0.12087912087912088,0.9166666666666666,0.25,0.7142857142857143,0.041666666666666664,0.6119402985074627,0.11764705882352941,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.8461538461538461,1.0,0.3333333333333333,0.0,1.0,0.0,1.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Gusset,0.75,0.18181818181818182,0.0,0.0,0.0,0.0,0.8181818181818182,0.18181818181818182,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Hole (Through / Blind Hole),0.6255924170616114,0.018115942028985508,0.8913043478260869,0.045454545454545456,0.8235294117647058,0.02857142857142857,0.48638132295719844,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Neck,1.0,0.5,1.0,0.0,0.0,0.0,0.0,1.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Pipe / Tube,0.38461538461538464,0.16666666666666666,0.0,0.0,0.0,1.0,0.5,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Pocket (Blind / Through / Circular End Pocket),0.34,0.10526315789473684,0.3157894736842105,0.14285714285714285,0.21052631578947367,0.2,0.5833333333333334,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Rib,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Sheet Metal Features,0.375,0.0,0.0,0.0,0.5,0.0,0.3333333333333333,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Slot (Through / Blind / T-Slot / Dovetail),0.7647058823529411,0.11538461538461539,0.5625,0.18181818181818182,0.7692307692307693,0.047619047619047616,0.8372093023255814,0.13043478260869565,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Step (Through / Blind Step),0.4583333333333333,0.3333333333333333,0.6666666666666666,0.5,0.5454545454545454,0.3,0.3,0.25,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Threaded Feature,0.7777777777777778,0.0,1.0,0.0,0.75,0.0,0.6666666666666666,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths

@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 12,
+      "reasoning": "The outer edge of the gear has a series of evenly spaced teeth, which are characteristic of gear teeth."
+    }
+  ]
+}

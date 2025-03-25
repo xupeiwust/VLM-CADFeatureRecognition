@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Observed one through hole on the smaller end of the conical section."
+    },
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed one circular end pocket on the larger end of the conical section."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Observed one convex fillet around the base of the conical section."
+    }
+  ]
+}

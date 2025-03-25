@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A circular hole is visible on the left side of the part."
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A U-shaped slot is present on the top of the part."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Rounded edges are visible on the left side and top right of the part."
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A cylindrical hole is visible on the top of the part."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A fillet is visible where the cylindrical part meets the base."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The cylindrical protrusion resembles a pipe or tube feature."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The cylindrical protrusion can be considered a circular boss."
+    }
+  ]
+}

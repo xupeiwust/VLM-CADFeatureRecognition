@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two triangular pockets observed, one on the top surface and one on the side surface."
+    }
+  ]
+}

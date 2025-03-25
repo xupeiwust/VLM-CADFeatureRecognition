@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "There are three through holes visible on the top surface of the object."
+    }
+  ]
+}

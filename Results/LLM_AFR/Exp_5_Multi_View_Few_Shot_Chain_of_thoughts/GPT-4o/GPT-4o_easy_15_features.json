@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A rectangular through pocket is visible in the model."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two chamfers are present on the top edges of the model."
+    }
+  ]
+}

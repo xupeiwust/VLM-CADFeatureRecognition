@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 8,
+      "reasoning": "Multiple circular holes visible on the part, appearing to be through holes."
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A step-like feature is visible at the top of the part."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A curved profile is visible on one side of the part, suggesting a fillet or round."
+    }
+  ]
+}

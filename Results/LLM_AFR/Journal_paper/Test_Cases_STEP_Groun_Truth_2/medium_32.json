@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "quantity": 4
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "quantity": 2
+    }
+  ]
+}

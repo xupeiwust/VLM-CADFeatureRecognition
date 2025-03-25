@@ -1,0 +1,28 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A circular hole is visible on the front face of the object in the second image."
+    },
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A triangular pocket is visible on the front face in the first image."
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The circular hole on the front face appears to have internal threads."
+    },
+    {
+      "feature_name": "Freeform Features (Depression, Protrusion)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "An irregular protrusion is visible below the triangular pocket in the first image."
+    }
+  ]
+}

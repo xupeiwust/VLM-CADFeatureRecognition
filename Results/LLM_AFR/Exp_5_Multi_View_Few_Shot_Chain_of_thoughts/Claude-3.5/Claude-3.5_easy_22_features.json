@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two circular holes visible on the rectangular block, one at each end."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "One cylindrical protrusion visible, resembling a pipe or tube feature."
+    }
+  ]
+}

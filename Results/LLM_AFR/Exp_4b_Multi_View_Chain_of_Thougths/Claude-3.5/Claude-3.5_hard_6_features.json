@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Four circular holes are visible on the flat surfaces of the part."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The central circular feature resembles a pipe or tube."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "Three circular boss-like protrusions are visible on the part."
+    }
+  ]
+}

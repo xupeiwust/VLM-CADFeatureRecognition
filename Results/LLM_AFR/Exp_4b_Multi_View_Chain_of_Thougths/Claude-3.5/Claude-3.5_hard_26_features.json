@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two circular openings are visible on the main body, likely through holes."
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Four slot-like features are visible at the ends of the part, likely for attachment or alignment purposes."
+    }
+  ]
+}

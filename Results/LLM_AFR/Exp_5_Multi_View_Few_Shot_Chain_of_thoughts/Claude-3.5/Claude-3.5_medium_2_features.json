@@ -1,0 +1,28 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A circular opening is visible at one end of the part, indicating a through hole."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A rounded edge is visible where the flange meets the cylindrical body."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The main body of the part is a cylindrical tube-like structure."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A circular flange at one end of the part can be considered a boss feature."
+    }
+  ]
+}

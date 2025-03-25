@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two circular holes are visible, likely through holes for mounting or alignment"
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A rectangular slot is present, likely a through slot for mating with another part"
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Rounded fillets are visible on the corners, likely for smooth mating and stress reduction"
+    }
+  ]
+}

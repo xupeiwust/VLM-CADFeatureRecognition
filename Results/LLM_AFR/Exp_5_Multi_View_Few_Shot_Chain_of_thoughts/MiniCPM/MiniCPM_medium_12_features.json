@@ -1,0 +1,40 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Four through holes on the top surface."
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A step feature on the side of the part."
+    },
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two circular end pockets on the bottom surface."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "Three chamfers on the edges of the base."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "One boss feature on the top surface."
+    },
+    {
+      "feature_name": "Freeform Features (Depression, Protrusion)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "One freeform depression on the top surface."
+    }
+  ]
+}

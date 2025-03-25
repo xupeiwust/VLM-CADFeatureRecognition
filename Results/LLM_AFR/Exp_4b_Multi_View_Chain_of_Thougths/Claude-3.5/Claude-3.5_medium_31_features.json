@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two circular features visible on one side of the part, likely representing through holes."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Rounded corners visible at the top and bottom of the part's profile."
+    }
+  ]
+}

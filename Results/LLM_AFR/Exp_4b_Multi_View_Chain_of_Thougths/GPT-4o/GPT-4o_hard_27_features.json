@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 5,
+      "reasoning": "Observed five through holes on the top surface."
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Noticed four through slots on the sides."
+    }
+  ]
+}

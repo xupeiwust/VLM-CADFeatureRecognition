@@ -1,0 +1,24 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 3
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1
+    }
+  ]
+}

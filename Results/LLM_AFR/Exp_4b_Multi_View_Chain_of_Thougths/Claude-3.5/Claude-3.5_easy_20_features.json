@@ -1,0 +1,28 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A curved slot is visible on one side of the part, extending from top to bottom."
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two step features are visible, one at the top and one at the bottom of the part."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Rounded edges are visible on the curved slot and on the steps."
+    },
+    {
+      "feature_name": "Freeform Features (Depression, Protrusion)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The curved slot can be considered a freeform depression feature."
+    }
+  ]
+}

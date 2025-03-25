@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "There are 6 circular holes visible on the top surface of the part, likely through holes based on the consistent shading."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "The 6 protruding features around the circumference of the part have rounded or filleted edges and corners."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "There are 6 rounded, protruding boss features evenly spaced around the outer edge of the part."
+    }
+  ]
+}

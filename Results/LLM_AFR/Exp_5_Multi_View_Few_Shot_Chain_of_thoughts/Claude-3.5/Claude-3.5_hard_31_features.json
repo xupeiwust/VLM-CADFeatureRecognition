@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "Multiple circular holes visible on the flange surface."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The main body of the component appears to be a cylindrical tube or pipe."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The flange at one end of the pipe can be considered a circular boss."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "There is a single through hole visible in the center of the object."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "The object has rounded edges and corners, likely from fillets, on all 4 sides."
+    }
+  ]
+}

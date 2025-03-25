@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "Observed circular openings on different faces of the cube, indicating through or blind holes."
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed a long, narrow cut on the top surface, characteristic of a slot feature."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Observed a small triangular feature on one edge, indicating a chamfer or bevel."
+    }
+  ]
+}

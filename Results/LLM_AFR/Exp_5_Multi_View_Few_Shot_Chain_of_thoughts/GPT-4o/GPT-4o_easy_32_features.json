@@ -1,0 +1,28 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Observed one threaded hole on the side surface."
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Observed one threaded hole on the side surface."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Observed one irregular boss feature on the front surface."
+    },
+    {
+      "feature_name": "Freeform Features (Depression, Protrusion)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Observed two freeform protrusions on the front surface."
+    }
+  ]
+}

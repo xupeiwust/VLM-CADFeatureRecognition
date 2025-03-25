@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 10,
+      "reasoning": "Multiple through holes are present on the top surface of the part."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two chamfers are present at the edges where the part is cut off from a larger piece."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "Three bosses are present: one large circular boss and two smaller ones with irregular shapes."
+    }
+  ]
+}

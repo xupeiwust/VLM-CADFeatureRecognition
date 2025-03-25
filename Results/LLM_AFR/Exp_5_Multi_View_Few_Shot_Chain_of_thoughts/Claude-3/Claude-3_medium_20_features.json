@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "Multiple cylindrical holes are visible on the faces of the object."
+    }
+  ]
+}

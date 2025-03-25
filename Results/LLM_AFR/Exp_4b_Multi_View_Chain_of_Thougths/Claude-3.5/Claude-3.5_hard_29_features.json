@@ -1,0 +1,28 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "Three circular openings visible: two through holes and one blind hole."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Chamfers visible on the outer corners of the bracket."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Inner corner of the bracket appears to have a fillet."
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "One of the holes appears to have internal threads."
+    }
+  ]
+}

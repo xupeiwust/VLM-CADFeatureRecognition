@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 12,
+      "reasoning": "Multiple circular holes are visible on the surface of the flange, likely through holes based on the consistent shading inside the holes."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "The inner and outer edges of the flange are rounded, indicating the presence of fillets or rounds."
+    }
+  ]
+}

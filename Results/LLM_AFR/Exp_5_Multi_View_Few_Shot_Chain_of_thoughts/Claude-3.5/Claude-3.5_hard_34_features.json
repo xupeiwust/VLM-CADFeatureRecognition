@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "Three circular openings visible: one large central hole and two smaller holes on the flanges."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Rounded edges visible on the corners of the main body and flanges."
+    }
+  ]
+}

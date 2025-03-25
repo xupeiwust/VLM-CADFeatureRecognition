@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "There are 4 through holes visible on the top face of the part."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 8,
+      "reasoning": "The part has rounded corners, likely from fillets, on all 8 edges."
+    }
+  ]
+}

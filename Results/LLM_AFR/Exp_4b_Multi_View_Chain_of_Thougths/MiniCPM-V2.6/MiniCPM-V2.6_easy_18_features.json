@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 12,
+      "reasoning": "The object has a series of teeth around its circumference, characteristic of gear teeth."
+    }
+  ]
+}

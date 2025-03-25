@@ -1,0 +1,16 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.26,0.6153846153846154,0.5714285714285714,0.3333333333333333,0.14285714285714285,0.6923076923076923,0.2727272727272727,0.65,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.9295774647887324,0.5,0.925,0.8333333333333334,0.8627450980392157,0.0,1.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.3333333333333333,0.9047619047619048,0.0,1.0,0.0,1.0,0.4,0.7142857142857143,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Gear Teeth,0.5,0.0,0.5,0.0,0.0,0.0,0.5,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.495260663507109,0.1076388888888889,0.8913043478260869,0.2777777777777778,0.5798319327731093,0.11,0.3852140077821012,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Neck,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.26,0.765625,0.2631578947368421,0.6666666666666666,0.21052631578947367,0.75,0.3333333333333333,0.8461538461538461,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Sheet Metal Features,0.125,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.09411764705882353,0.35,0.1875,0.25,0.0,0.0,0.11627906976744186,0.4166666666666667,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Step (Through / Blind Step),0.375,0.8648648648648649,1.0,0.88,0.18181818181818182,0.9,0.4,0.8275862068965517,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Threaded Feature,0.1111111111111111,0.6666666666666666,0.0,0.0,0.25,0.5,0.0,1.0,MiniCPM,Exp_4a_Multi_View_Few_Shot

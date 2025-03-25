@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "The model has three circular holes that appear to go all the way through the part."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "The model has rounded edges and transitions between faces, likely from fillets."
+    }
+  ]
+}

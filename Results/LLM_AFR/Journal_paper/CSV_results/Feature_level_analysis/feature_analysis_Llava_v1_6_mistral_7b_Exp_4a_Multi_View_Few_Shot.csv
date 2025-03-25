@@ -1,0 +1,17 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.4166666666666667,0.8888888888888888,0.3333333333333333,0.8666666666666667,0.5,0.8333333333333334,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Draft,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Gear Teeth,0.25,0.5,0.0,0.0,0.0,0.0,0.5,0.5,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Gusset,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.12559241706161137,0.3111111111111111,0.17391304347826086,0.6666666666666666,0.18487394957983194,0.2222222222222222,0.08949416342412451,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Neck,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Rib,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Sheet Metal Features,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Step (Through / Blind Step),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Threaded Feature,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot

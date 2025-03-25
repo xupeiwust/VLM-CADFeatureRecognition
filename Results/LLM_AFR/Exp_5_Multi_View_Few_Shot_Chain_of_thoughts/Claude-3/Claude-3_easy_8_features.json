@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The model is a gear with teeth around its circumference, forming a single set of gear teeth."
+    }
+  ]
+}

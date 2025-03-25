@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Gear Teeth",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "quantity": 7
+    }
+  ]
+}

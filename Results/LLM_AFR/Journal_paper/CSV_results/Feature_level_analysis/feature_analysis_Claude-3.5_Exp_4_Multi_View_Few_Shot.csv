@@ -1,0 +1,18 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.25925925925925924,0.125,0.0,0.0,0.2777777777777778,0.0,0.25,0.3333333333333333,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.2,0.9090909090909091,0.2,0.8333333333333334,0.25,0.8,0.0,1.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.25,0.3584905660377358,0.7142857142857143,0.5,0.45454545454545453,0.4,0.16842105263157894,0.23809523809523808,Claude-3.5,Exp_4_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Gear Teeth,0.5,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.8425531914893617,0.10434782608695652,1.0,0.6190476190476191,0.9107142857142857,0.1111111111111111,0.8128654970760234,0.0273972602739726,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Pad,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Pipe / Tube,0.45454545454545453,0.5,0.0,0.0,0.5,0.6666666666666666,0.4444444444444444,0.42857142857142855,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.3076923076923077,0.2,0.25,0.2,0.2857142857142857,0.14285714285714285,1.0,0.3333333333333333,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Rib,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Sheet Metal Features,0.3333333333333333,0.0,0.0,0.0,0.5,0.0,0.25,0.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.2962962962962963,0.3076923076923077,0.5,0.25,0.2631578947368421,0.3333333333333333,0.0,0.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Step (Through / Blind Step),0.5833333333333334,0.7307692307692307,0.5,0.8,0.6,0.5384615384615384,0.0,1.0,Claude-3.5,Exp_4_Multi_View_Few_Shot
+Thread,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3.5,Exp_4_Multi_View_Few_Shot

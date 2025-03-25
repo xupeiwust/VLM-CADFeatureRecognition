@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Four circular holes are visible on the surface of the part, appearing to be through holes."
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A rectangular slot is visible on the top of the part, likely a through slot."
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "One of the holes appears to have internal threads, indicated by the circular pattern inside."
+    }
+  ]
+}

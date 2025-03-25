@@ -1,0 +1,17 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.037037037037037035,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.45161290322580644,0.24161073825503357,0.7142857142857143,0.2857142857142857,0.5,0.39215686274509803,0.42105263157894735,0.11428571428571428,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Gear Teeth,0.5,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.2936170212765957,0.20754716981132076,1.0,0.5833333333333334,0.5892857142857143,0.0851063829787234,0.16374269005847952,0.11428571428571428,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Rib,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.08333333333333333,0.5,0.5,0.5,0.0,0.0,0.0,0.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Thread,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3,Exp_5_MultiView_Few_Shot_Chain_of_thoughts

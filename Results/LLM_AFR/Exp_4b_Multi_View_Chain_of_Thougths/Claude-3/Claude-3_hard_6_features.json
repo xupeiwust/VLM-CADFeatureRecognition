@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A circular through hole is visible in the center of the part."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "Rounded edges are visible on the 6 protrusions surrounding the central hole."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "Six circular boss features protrude from the base geometry around the central hole."
+    }
+  ]
+}

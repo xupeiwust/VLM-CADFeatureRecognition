@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "The part has 6 visible circular holes: 2 larger ones and 4 smaller ones."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The outer edge of the part appears to have a rounded profile."
+    }
+  ]
+}

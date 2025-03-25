@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 15,
+      "reasoning": "Multiple circular holes of varying sizes are visible on the top surface, likely drilled or machined through holes."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Rounded edges and corners are clearly visible, likely added as fillets to soften the geometry."
+    }
+  ]
+}

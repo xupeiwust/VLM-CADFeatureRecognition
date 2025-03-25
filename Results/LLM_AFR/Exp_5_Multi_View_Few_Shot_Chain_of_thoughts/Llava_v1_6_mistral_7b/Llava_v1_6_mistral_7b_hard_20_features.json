@@ -1,0 +1,82 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Pocket",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "three circular pockets on the top surface."
+    },
+    {
+      "feature_name": "Boss",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "three circular bosses on the top surface."
+    },
+    {
+      "feature_name": "Chamfer",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "three chamfers on the top surface."
+    },
+    {
+      "feature_name": "Fillet",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "three fillets on the top surface."
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one threaded feature on the top surface."
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one gear tooth on the top surface."
+    },
+    {
+      "feature_name": "Neck",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one neck on the top surface."
+    },
+    {
+      "feature_name": "Pipe",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one pipe on the top surface."
+    },
+    {
+      "feature_name": "Freeform Features",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one freeform feature on the top surface."
+    },
+    {
+      "feature_name": "Rib",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one rib on the top surface."
+    },
+    {
+      "feature_name": "Gusset",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one gusset on the top surface."
+    },
+    {
+      "feature_name": "Draft",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one draft on the top surface."
+    },
+    {
+      "feature_name": "Sheet Metal Features",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "one sheet metal feature on the top surface."
+    }
+  ]
+}

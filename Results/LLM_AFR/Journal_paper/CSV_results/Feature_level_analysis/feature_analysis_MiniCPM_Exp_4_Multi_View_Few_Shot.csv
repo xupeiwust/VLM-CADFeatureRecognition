@@ -1,0 +1,17 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.5555555555555556,0.6666666666666666,1.0,0.8823529411764706,0.4444444444444444,0.5555555555555556,0.75,0.5625,MiniCPM,Exp_4_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.7,0.8536585365853658,0.4,0.9074074074074074,1.0,0.7272727272727273,1.0,0.96,MiniCPM,Exp_4_Multi_View_Few_Shot
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",1.0,0.9574468085106383,0.0,1.0,0.0,1.0,1.0,0.8571428571428571,MiniCPM,Exp_4_Multi_View_Few_Shot
+Gear Teeth,0.5,0.0,1.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4_Multi_View_Few_Shot
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.2425531914893617,0.2727272727272727,0.75,0.6428571428571429,0.4642857142857143,0.19047619047619047,0.14619883040935672,0.034482758620689655,MiniCPM,Exp_4_Multi_View_Few_Shot
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4_Multi_View_Few_Shot
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.5897435897435898,0.5740740740740741,0.5625,0.47058823529411764,0.5714285714285714,0.4,1.0,0.8823529411764706,MiniCPM,Exp_4_Multi_View_Few_Shot
+Rib,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4_Multi_View_Few_Shot
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.8888888888888888,0.6146788990825688,1.0,0.6829268292682927,0.8421052631578947,0.4772727272727273,1.0,0.75,MiniCPM,Exp_4_Multi_View_Few_Shot
+Step (Through / Blind Step),0.8333333333333334,0.8382352941176471,1.0,0.896551724137931,0.8,0.6521739130434783,0.0,1.0,MiniCPM,Exp_4_Multi_View_Few_Shot
+Thread,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,MiniCPM,Exp_4_Multi_View_Few_Shot

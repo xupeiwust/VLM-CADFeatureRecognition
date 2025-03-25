@@ -1,0 +1,16 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.84,0.5818181818181818,1.0,0.7419354838709677,0.8095238095238095,0.5,0.8181818181818182,0.5333333333333333,Claude-3.5,Exp_1_Basic_Prompts
+Chamfer / Bevel (Sharp Edge),0.25,0.9117647058823529,0.16666666666666666,0.8333333333333334,0.3333333333333333,0.7142857142857143,0.0,1.0,Claude-3.5,Exp_1_Basic_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Fillet / Round (Concave / Convex),0.411214953271028,0.1509433962264151,0.4166666666666667,0.25,0.2857142857142857,0.2,0.4626865671641791,0.11428571428571428,Claude-3.5,Exp_1_Basic_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Hole (Through / Blind Hole),0.7014218009478673,0.057750759878419454,0.8913043478260869,0.21428571428571427,0.8739495798319328,0.058333333333333334,0.5875486381322957,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Neck,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Claude-3.5,Exp_1_Basic_Prompts
+Pipe / Tube,0.7692307692307693,0.5833333333333334,0.0,1.0,0.6666666666666666,0.6,0.8,0.42857142857142855,Claude-3.5,Exp_1_Basic_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.22,0.2,0.2631578947368421,0.0,0.2631578947368421,0.0,0.08333333333333333,0.75,Claude-3.5,Exp_1_Basic_Prompts
+Sheet Metal Features,0.125,0.0,0.0,0.0,0.5,0.0,0.0,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.6941176470588235,0.13924050632911392,0.625,0.09090909090909091,0.6538461538461539,0.19047619047619047,0.7441860465116279,0.1276595744680851,Claude-3.5,Exp_1_Basic_Prompts
+Step (Through / Blind Step),0.5,0.6176470588235294,1.0,0.7272727272727273,0.2727272727272727,0.6923076923076923,0.6,0.4,Claude-3.5,Exp_1_Basic_Prompts
+Threaded Feature,0.4444444444444444,0.0,0.5,0.0,0.5,0.0,0.3333333333333333,0.0,Claude-3.5,Exp_1_Basic_Prompts

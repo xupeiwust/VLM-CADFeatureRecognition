@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 8,
+      "reasoning": "Observed eight through holes on the flange."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The central cylindrical part resembles a pipe or tube."
+    },
+    {
+      "feature_name": "Gusset",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "Observed six gussets on the flange."
+    }
+  ]
+}

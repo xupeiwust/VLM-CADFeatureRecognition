@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 16,
+      "reasoning": "The part contains an array of 16 circular holes that appear to be through holes."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed a cylindrical shape that could be a pipe or tube."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Observed a raised, solid area on the top surface."
+    }
+  ]
+}

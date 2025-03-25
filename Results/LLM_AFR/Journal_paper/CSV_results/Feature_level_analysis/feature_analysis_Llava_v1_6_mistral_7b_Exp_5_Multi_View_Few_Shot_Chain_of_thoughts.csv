@@ -1,0 +1,17 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.02,0.9090909090909091,0.14285714285714285,0.6666666666666666,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.5,0.9090909090909091,0.3333333333333333,0.9166666666666666,0.6666666666666666,0.8148148148148148,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Draft,1.0,0.9777777777777777,0.0,1.0,1.0,0.9166666666666666,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.056074766355140186,0.7333333333333333,0.0,1.0,0.07142857142857142,0.5,0.05970149253731343,0.7142857142857143,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gear Teeth,0.5,0.9555555555555556,0.0,1.0,0.0,1.0,1.0,0.8888888888888888,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gusset,0.3333333333333333,0.9111111111111111,0.0,1.0,1.0,0.9166666666666666,0.2727272727272727,0.8333333333333334,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.12559241706161137,0.3111111111111111,0.17391304347826086,0.6666666666666666,0.18487394957983194,0.2222222222222222,0.08949416342412451,0.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Neck,1.0,0.9777777777777777,1.0,0.9333333333333333,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Rib,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.125,0.9777777777777777,0.0,1.0,0.0,1.0,0.16666666666666666,0.9444444444444444,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Threaded Feature,0.5555555555555556,0.8809523809523809,1.0,0.8666666666666667,0.25,0.9090909090909091,0.6666666666666666,0.875,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts

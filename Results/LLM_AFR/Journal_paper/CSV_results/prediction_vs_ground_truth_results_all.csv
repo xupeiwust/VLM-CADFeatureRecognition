@@ -1,0 +1,1601 @@
+,part_name,feature_name,gt_exists,gt_quantity,pred_exists,pred_quantity
+0,easy_1,Hole (Through / Blind Hole),True,1,True,2
+1,easy_1,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+2,easy_1,Step (Through / Blind Step),False,0,False,0
+3,easy_1,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+4,easy_1,Chamfer / Bevel (Sharp Edge),False,0,True,1
+5,easy_1,Fillet / Round (Concave / Convex),True,4,True,1
+6,easy_1,Threaded Feature,False,0,False,0
+7,easy_1,Gear Teeth,False,0,False,0
+8,easy_1,Neck,False,0,False,0
+9,easy_1,Pipe / Tube,False,0,False,0
+10,easy_1,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+11,easy_1,"Freeform Features (Depression, Protrusion)",False,0,False,0
+12,easy_1,Rib,False,0,False,0
+13,easy_1,Gusset,False,0,False,0
+14,easy_1,Draft,False,0,False,0
+15,easy_1,Sheet Metal Features,False,0,False,0
+16,easy_10,Hole (Through / Blind Hole),False,0,True,2
+17,easy_10,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+18,easy_10,Step (Through / Blind Step),False,0,False,0
+19,easy_10,Pocket (Blind / Through / Circular End Pocket),True,4,False,0
+20,easy_10,Chamfer / Bevel (Sharp Edge),False,0,False,0
+21,easy_10,Fillet / Round (Concave / Convex),False,0,True,1
+22,easy_10,Threaded Feature,False,0,False,0
+23,easy_10,Gear Teeth,False,0,False,0
+24,easy_10,Neck,False,0,False,0
+25,easy_10,Pipe / Tube,False,0,False,0
+26,easy_10,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,3
+27,easy_10,"Freeform Features (Depression, Protrusion)",False,0,False,0
+28,easy_10,Rib,False,0,False,0
+29,easy_10,Gusset,False,0,False,0
+30,easy_10,Draft,False,0,False,0
+31,easy_10,Sheet Metal Features,False,0,False,0
+32,easy_11,Hole (Through / Blind Hole),False,0,False,0
+33,easy_11,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+34,easy_11,Step (Through / Blind Step),False,0,False,0
+35,easy_11,Pocket (Blind / Through / Circular End Pocket),True,2,True,1
+36,easy_11,Chamfer / Bevel (Sharp Edge),False,0,True,1
+37,easy_11,Fillet / Round (Concave / Convex),False,0,True,1
+38,easy_11,Threaded Feature,False,0,False,0
+39,easy_11,Gear Teeth,False,0,False,0
+40,easy_11,Neck,False,0,False,0
+41,easy_11,Pipe / Tube,False,0,False,0
+42,easy_11,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+43,easy_11,"Freeform Features (Depression, Protrusion)",False,0,False,0
+44,easy_11,Rib,False,0,False,0
+45,easy_11,Gusset,False,0,False,0
+46,easy_11,Draft,False,0,False,0
+47,easy_11,Sheet Metal Features,False,0,False,0
+48,easy_12,Hole (Through / Blind Hole),True,1,True,2
+49,easy_12,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+50,easy_12,Step (Through / Blind Step),False,0,False,0
+51,easy_12,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+52,easy_12,Chamfer / Bevel (Sharp Edge),False,0,True,1
+53,easy_12,Fillet / Round (Concave / Convex),False,0,True,1
+54,easy_12,Threaded Feature,False,0,False,0
+55,easy_12,Gear Teeth,False,0,False,0
+56,easy_12,Neck,False,0,False,0
+57,easy_12,Pipe / Tube,False,0,False,0
+58,easy_12,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+59,easy_12,"Freeform Features (Depression, Protrusion)",False,0,False,0
+60,easy_12,Rib,False,0,False,0
+61,easy_12,Gusset,False,0,False,0
+62,easy_12,Draft,False,0,False,0
+63,easy_12,Sheet Metal Features,False,0,False,0
+64,easy_13,Hole (Through / Blind Hole),True,3,False,0
+65,easy_13,Slot (Through / Blind / T-Slot / Dovetail),True,1,False,0
+66,easy_13,Step (Through / Blind Step),True,1,False,0
+67,easy_13,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+68,easy_13,Chamfer / Bevel (Sharp Edge),False,0,False,0
+69,easy_13,Fillet / Round (Concave / Convex),False,0,False,0
+70,easy_13,Threaded Feature,False,0,False,0
+71,easy_13,Gear Teeth,False,0,False,0
+72,easy_13,Neck,False,0,False,0
+73,easy_13,Pipe / Tube,False,0,False,0
+74,easy_13,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,True,3
+75,easy_13,"Freeform Features (Depression, Protrusion)",False,0,False,0
+76,easy_13,Rib,False,0,False,0
+77,easy_13,Gusset,False,0,False,0
+78,easy_13,Draft,False,0,False,0
+79,easy_13,Sheet Metal Features,False,0,False,0
+80,easy_14,Hole (Through / Blind Hole),False,0,False,0
+81,easy_14,Slot (Through / Blind / T-Slot / Dovetail),True,2,True,1
+82,easy_14,Step (Through / Blind Step),False,0,False,0
+83,easy_14,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+84,easy_14,Chamfer / Bevel (Sharp Edge),False,0,True,1
+85,easy_14,Fillet / Round (Concave / Convex),False,0,True,1
+86,easy_14,Threaded Feature,False,0,False,0
+87,easy_14,Gear Teeth,False,0,False,0
+88,easy_14,Neck,False,0,False,0
+89,easy_14,Pipe / Tube,False,0,False,0
+90,easy_14,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+91,easy_14,"Freeform Features (Depression, Protrusion)",False,0,False,0
+92,easy_14,Rib,False,0,False,0
+93,easy_14,Gusset,False,0,False,0
+94,easy_14,Draft,False,0,False,0
+95,easy_14,Sheet Metal Features,False,0,False,0
+96,easy_15,Hole (Through / Blind Hole),False,0,True,2
+97,easy_15,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+98,easy_15,Step (Through / Blind Step),False,0,False,0
+99,easy_15,Pocket (Blind / Through / Circular End Pocket),True,1,False,0
+100,easy_15,Chamfer / Bevel (Sharp Edge),True,1,True,1
+101,easy_15,Fillet / Round (Concave / Convex),False,0,True,1
+102,easy_15,Threaded Feature,False,0,False,0
+103,easy_15,Gear Teeth,False,0,False,0
+104,easy_15,Neck,False,0,False,0
+105,easy_15,Pipe / Tube,False,0,False,0
+106,easy_15,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+107,easy_15,"Freeform Features (Depression, Protrusion)",False,0,False,0
+108,easy_15,Rib,False,0,False,0
+109,easy_15,Gusset,False,0,False,0
+110,easy_15,Draft,False,0,False,0
+111,easy_15,Sheet Metal Features,False,0,False,0
+112,easy_16,Hole (Through / Blind Hole),True,2,True,2
+113,easy_16,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+114,easy_16,Step (Through / Blind Step),False,0,False,0
+115,easy_16,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+116,easy_16,Chamfer / Bevel (Sharp Edge),False,0,True,1
+117,easy_16,Fillet / Round (Concave / Convex),False,0,True,1
+118,easy_16,Threaded Feature,False,0,False,0
+119,easy_16,Gear Teeth,False,0,False,0
+120,easy_16,Neck,False,0,False,0
+121,easy_16,Pipe / Tube,False,0,False,0
+122,easy_16,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+123,easy_16,"Freeform Features (Depression, Protrusion)",False,0,False,0
+124,easy_16,Rib,False,0,False,0
+125,easy_16,Gusset,False,0,False,0
+126,easy_16,Draft,False,0,False,0
+127,easy_16,Sheet Metal Features,False,0,False,0
+128,easy_17,Hole (Through / Blind Hole),False,0,False,0
+129,easy_17,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+130,easy_17,Step (Through / Blind Step),True,2,False,0
+131,easy_17,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+132,easy_17,Chamfer / Bevel (Sharp Edge),False,0,True,1
+133,easy_17,Fillet / Round (Concave / Convex),False,0,True,1
+134,easy_17,Threaded Feature,False,0,False,0
+135,easy_17,Gear Teeth,False,0,False,0
+136,easy_17,Neck,False,0,False,0
+137,easy_17,Pipe / Tube,False,0,False,0
+138,easy_17,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+139,easy_17,"Freeform Features (Depression, Protrusion)",False,0,False,0
+140,easy_17,Rib,False,0,False,0
+141,easy_17,Gusset,False,0,False,0
+142,easy_17,Draft,False,0,False,0
+143,easy_17,Sheet Metal Features,False,0,False,0
+144,easy_18,Hole (Through / Blind Hole),True,1,True,2
+145,easy_18,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+146,easy_18,Step (Through / Blind Step),False,0,False,0
+147,easy_18,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+148,easy_18,Chamfer / Bevel (Sharp Edge),False,0,False,0
+149,easy_18,Fillet / Round (Concave / Convex),False,0,True,1
+150,easy_18,Threaded Feature,False,0,False,0
+151,easy_18,Gear Teeth,True,1,False,0
+152,easy_18,Neck,False,0,False,0
+153,easy_18,Pipe / Tube,False,0,False,0
+154,easy_18,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+155,easy_18,"Freeform Features (Depression, Protrusion)",False,0,False,0
+156,easy_18,Rib,False,0,False,0
+157,easy_18,Gusset,False,0,False,0
+158,easy_18,Draft,False,0,False,0
+159,easy_18,Sheet Metal Features,False,0,False,0
+160,easy_19,Hole (Through / Blind Hole),False,0,False,0
+161,easy_19,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+162,easy_19,Step (Through / Blind Step),False,0,False,0
+163,easy_19,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+164,easy_19,Chamfer / Bevel (Sharp Edge),False,0,False,0
+165,easy_19,Fillet / Round (Concave / Convex),False,0,True,1
+166,easy_19,Threaded Feature,False,0,False,0
+167,easy_19,Gear Teeth,False,0,False,0
+168,easy_19,Neck,True,1,False,0
+169,easy_19,Pipe / Tube,False,0,False,0
+170,easy_19,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,True,1
+171,easy_19,"Freeform Features (Depression, Protrusion)",False,0,False,0
+172,easy_19,Rib,False,0,False,0
+173,easy_19,Gusset,False,0,False,0
+174,easy_19,Draft,False,0,False,0
+175,easy_19,Sheet Metal Features,False,0,False,0
+176,easy_2,Hole (Through / Blind Hole),True,1,True,2
+177,easy_2,Slot (Through / Blind / T-Slot / Dovetail),True,2,True,1
+178,easy_2,Step (Through / Blind Step),False,0,False,0
+179,easy_2,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+180,easy_2,Chamfer / Bevel (Sharp Edge),True,1,True,1
+181,easy_2,Fillet / Round (Concave / Convex),True,1,False,0
+182,easy_2,Threaded Feature,False,0,False,0
+183,easy_2,Gear Teeth,False,0,False,0
+184,easy_2,Neck,False,0,False,0
+185,easy_2,Pipe / Tube,False,0,False,0
+186,easy_2,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+187,easy_2,"Freeform Features (Depression, Protrusion)",False,0,False,0
+188,easy_2,Rib,False,0,False,0
+189,easy_2,Gusset,False,0,False,0
+190,easy_2,Draft,False,0,False,0
+191,easy_2,Sheet Metal Features,False,0,False,0
+192,easy_20,Hole (Through / Blind Hole),False,0,False,0
+193,easy_20,Slot (Through / Blind / T-Slot / Dovetail),True,2,False,0
+194,easy_20,Step (Through / Blind Step),False,0,False,0
+195,easy_20,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+196,easy_20,Chamfer / Bevel (Sharp Edge),False,0,False,0
+197,easy_20,Fillet / Round (Concave / Convex),False,0,False,0
+198,easy_20,Threaded Feature,False,0,False,0
+199,easy_20,Gear Teeth,False,0,False,0
+200,easy_20,Neck,False,0,False,0
+201,easy_20,Pipe / Tube,False,0,False,0
+202,easy_20,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,3
+203,easy_20,"Freeform Features (Depression, Protrusion)",False,0,False,0
+204,easy_20,Rib,False,0,False,0
+205,easy_20,Gusset,False,0,False,0
+206,easy_20,Draft,False,0,False,0
+207,easy_20,Sheet Metal Features,False,0,False,0
+208,easy_21,Hole (Through / Blind Hole),True,1,True,2
+209,easy_21,Slot (Through / Blind / T-Slot / Dovetail),True,2,True,1
+210,easy_21,Step (Through / Blind Step),False,0,False,0
+211,easy_21,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+212,easy_21,Chamfer / Bevel (Sharp Edge),False,0,True,1
+213,easy_21,Fillet / Round (Concave / Convex),False,0,True,1
+214,easy_21,Threaded Feature,False,0,True,1
+215,easy_21,Gear Teeth,False,0,False,0
+216,easy_21,Neck,False,0,False,0
+217,easy_21,Pipe / Tube,False,0,False,0
+218,easy_21,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+219,easy_21,"Freeform Features (Depression, Protrusion)",False,0,False,0
+220,easy_21,Rib,False,0,False,0
+221,easy_21,Gusset,False,0,False,0
+222,easy_21,Draft,False,0,False,0
+223,easy_21,Sheet Metal Features,False,0,False,0
+224,easy_22,Hole (Through / Blind Hole),True,1,False,0
+225,easy_22,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+226,easy_22,Step (Through / Blind Step),False,0,False,0
+227,easy_22,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+228,easy_22,Chamfer / Bevel (Sharp Edge),False,0,False,0
+229,easy_22,Fillet / Round (Concave / Convex),False,0,True,1
+230,easy_22,Threaded Feature,False,0,False,0
+231,easy_22,Gear Teeth,False,0,False,0
+232,easy_22,Neck,False,0,False,0
+233,easy_22,Pipe / Tube,False,0,False,0
+234,easy_22,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,True,1
+235,easy_22,"Freeform Features (Depression, Protrusion)",False,0,False,0
+236,easy_22,Rib,False,0,False,0
+237,easy_22,Gusset,False,0,False,0
+238,easy_22,Draft,False,0,False,0
+239,easy_22,Sheet Metal Features,False,0,False,0
+240,easy_23,Hole (Through / Blind Hole),True,4,True,2
+241,easy_23,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+242,easy_23,Step (Through / Blind Step),False,0,False,0
+243,easy_23,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+244,easy_23,Chamfer / Bevel (Sharp Edge),False,0,False,0
+245,easy_23,Fillet / Round (Concave / Convex),False,0,True,1
+246,easy_23,Threaded Feature,False,0,False,0
+247,easy_23,Gear Teeth,False,0,False,0
+248,easy_23,Neck,False,0,False,0
+249,easy_23,Pipe / Tube,False,0,False,0
+250,easy_23,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+251,easy_23,"Freeform Features (Depression, Protrusion)",False,0,False,0
+252,easy_23,Rib,False,0,False,0
+253,easy_23,Gusset,False,0,False,0
+254,easy_23,Draft,False,0,False,0
+255,easy_23,Sheet Metal Features,False,0,False,0
+256,easy_24,Hole (Through / Blind Hole),True,6,True,2
+257,easy_24,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+258,easy_24,Step (Through / Blind Step),False,0,False,0
+259,easy_24,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+260,easy_24,Chamfer / Bevel (Sharp Edge),False,0,True,1
+261,easy_24,Fillet / Round (Concave / Convex),False,0,False,0
+262,easy_24,Threaded Feature,False,0,False,0
+263,easy_24,Gear Teeth,False,0,False,0
+264,easy_24,Neck,False,0,False,0
+265,easy_24,Pipe / Tube,False,0,False,0
+266,easy_24,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+267,easy_24,"Freeform Features (Depression, Protrusion)",False,0,False,0
+268,easy_24,Rib,False,0,False,0
+269,easy_24,Gusset,False,0,False,0
+270,easy_24,Draft,False,0,False,0
+271,easy_24,Sheet Metal Features,False,0,False,0
+272,easy_25,Hole (Through / Blind Hole),True,3,True,2
+273,easy_25,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+274,easy_25,Step (Through / Blind Step),False,0,False,0
+275,easy_25,Pocket (Blind / Through / Circular End Pocket),True,3,False,0
+276,easy_25,Chamfer / Bevel (Sharp Edge),False,0,False,0
+277,easy_25,Fillet / Round (Concave / Convex),False,0,True,1
+278,easy_25,Threaded Feature,False,0,False,0
+279,easy_25,Gear Teeth,False,0,False,0
+280,easy_25,Neck,False,0,False,0
+281,easy_25,Pipe / Tube,False,0,False,0
+282,easy_25,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+283,easy_25,"Freeform Features (Depression, Protrusion)",False,0,False,0
+284,easy_25,Rib,False,0,False,0
+285,easy_25,Gusset,False,0,False,0
+286,easy_25,Draft,False,0,False,0
+287,easy_25,Sheet Metal Features,False,0,False,0
+288,easy_26,Hole (Through / Blind Hole),True,1,True,2
+289,easy_26,Slot (Through / Blind / T-Slot / Dovetail),True,1,False,0
+290,easy_26,Step (Through / Blind Step),False,0,False,0
+291,easy_26,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+292,easy_26,Chamfer / Bevel (Sharp Edge),False,0,True,1
+293,easy_26,Fillet / Round (Concave / Convex),True,2,False,0
+294,easy_26,Threaded Feature,False,0,False,0
+295,easy_26,Gear Teeth,False,0,False,0
+296,easy_26,Neck,False,0,False,0
+297,easy_26,Pipe / Tube,False,0,False,0
+298,easy_26,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+299,easy_26,"Freeform Features (Depression, Protrusion)",False,0,False,0
+300,easy_26,Rib,False,0,False,0
+301,easy_26,Gusset,False,0,False,0
+302,easy_26,Draft,False,0,False,0
+303,easy_26,Sheet Metal Features,False,0,False,0
+304,easy_27,Hole (Through / Blind Hole),False,0,True,2
+305,easy_27,Slot (Through / Blind / T-Slot / Dovetail),True,1,False,0
+306,easy_27,Step (Through / Blind Step),False,0,False,0
+307,easy_27,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+308,easy_27,Chamfer / Bevel (Sharp Edge),False,0,False,0
+309,easy_27,Fillet / Round (Concave / Convex),True,1,True,1
+310,easy_27,Threaded Feature,False,0,False,0
+311,easy_27,Gear Teeth,False,0,False,0
+312,easy_27,Neck,False,0,False,0
+313,easy_27,Pipe / Tube,False,0,False,0
+314,easy_27,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+315,easy_27,"Freeform Features (Depression, Protrusion)",False,0,False,0
+316,easy_27,Rib,False,0,False,0
+317,easy_27,Gusset,False,0,False,0
+318,easy_27,Draft,False,0,False,0
+319,easy_27,Sheet Metal Features,False,0,False,0
+320,easy_28,Hole (Through / Blind Hole),True,1,True,2
+321,easy_28,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+322,easy_28,Step (Through / Blind Step),False,0,False,0
+323,easy_28,Pocket (Blind / Through / Circular End Pocket),True,1,False,0
+324,easy_28,Chamfer / Bevel (Sharp Edge),False,0,True,1
+325,easy_28,Fillet / Round (Concave / Convex),True,4,False,0
+326,easy_28,Threaded Feature,False,0,False,0
+327,easy_28,Gear Teeth,False,0,False,0
+328,easy_28,Neck,False,0,False,0
+329,easy_28,Pipe / Tube,False,0,False,0
+330,easy_28,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+331,easy_28,"Freeform Features (Depression, Protrusion)",False,0,False,0
+332,easy_28,Rib,False,0,False,0
+333,easy_28,Gusset,False,0,False,0
+334,easy_28,Draft,False,0,False,0
+335,easy_28,Sheet Metal Features,False,0,False,0
+336,easy_29,Hole (Through / Blind Hole),True,4,False,0
+337,easy_29,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+338,easy_29,Step (Through / Blind Step),False,0,False,0
+339,easy_29,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+340,easy_29,Chamfer / Bevel (Sharp Edge),False,0,False,0
+341,easy_29,Fillet / Round (Concave / Convex),False,0,False,0
+342,easy_29,Threaded Feature,False,0,False,0
+343,easy_29,Gear Teeth,False,0,False,0
+344,easy_29,Neck,False,0,False,0
+345,easy_29,Pipe / Tube,False,0,False,0
+346,easy_29,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,True,3
+347,easy_29,"Freeform Features (Depression, Protrusion)",False,0,False,0
+348,easy_29,Rib,False,0,False,0
+349,easy_29,Gusset,False,0,False,0
+350,easy_29,Draft,False,0,False,0
+351,easy_29,Sheet Metal Features,False,0,False,0
+352,easy_3,Hole (Through / Blind Hole),False,0,False,0
+353,easy_3,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+354,easy_3,Step (Through / Blind Step),False,0,False,0
+355,easy_3,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+356,easy_3,Chamfer / Bevel (Sharp Edge),False,0,True,1
+357,easy_3,Fillet / Round (Concave / Convex),False,0,True,1
+358,easy_3,Threaded Feature,False,0,False,0
+359,easy_3,Gear Teeth,False,0,False,0
+360,easy_3,Neck,False,0,False,0
+361,easy_3,Pipe / Tube,False,0,False,0
+362,easy_3,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+363,easy_3,"Freeform Features (Depression, Protrusion)",False,0,False,0
+364,easy_3,Rib,False,0,False,0
+365,easy_3,Gusset,False,0,False,0
+366,easy_3,Draft,False,0,False,0
+367,easy_3,Sheet Metal Features,False,0,False,0
+368,easy_30,Hole (Through / Blind Hole),True,3,True,2
+369,easy_30,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+370,easy_30,Step (Through / Blind Step),False,0,False,0
+371,easy_30,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+372,easy_30,Chamfer / Bevel (Sharp Edge),False,0,True,1
+373,easy_30,Fillet / Round (Concave / Convex),False,0,False,0
+374,easy_30,Threaded Feature,False,0,False,0
+375,easy_30,Gear Teeth,False,0,False,0
+376,easy_30,Neck,False,0,False,0
+377,easy_30,Pipe / Tube,False,0,False,0
+378,easy_30,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+379,easy_30,"Freeform Features (Depression, Protrusion)",False,0,False,0
+380,easy_30,Rib,False,0,False,0
+381,easy_30,Gusset,False,0,False,0
+382,easy_30,Draft,False,0,False,0
+383,easy_30,Sheet Metal Features,False,0,False,0
+384,easy_31,Hole (Through / Blind Hole),True,4,False,0
+385,easy_31,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+386,easy_31,Step (Through / Blind Step),False,0,False,0
+387,easy_31,Pocket (Blind / Through / Circular End Pocket),True,1,False,0
+388,easy_31,Chamfer / Bevel (Sharp Edge),False,0,False,0
+389,easy_31,Fillet / Round (Concave / Convex),False,0,False,0
+390,easy_31,Threaded Feature,False,0,False,0
+391,easy_31,Gear Teeth,False,0,False,0
+392,easy_31,Neck,False,0,False,0
+393,easy_31,Pipe / Tube,False,0,False,0
+394,easy_31,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,3
+395,easy_31,"Freeform Features (Depression, Protrusion)",False,0,False,0
+396,easy_31,Rib,False,0,False,0
+397,easy_31,Gusset,False,0,False,0
+398,easy_31,Draft,False,0,False,0
+399,easy_31,Sheet Metal Features,False,0,False,0
+400,easy_32,Hole (Through / Blind Hole),True,1,False,0
+401,easy_32,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+402,easy_32,Step (Through / Blind Step),False,0,False,0
+403,easy_32,Pocket (Blind / Through / Circular End Pocket),True,1,False,0
+404,easy_32,Chamfer / Bevel (Sharp Edge),False,0,False,0
+405,easy_32,Fillet / Round (Concave / Convex),False,0,False,0
+406,easy_32,Threaded Feature,True,1,False,0
+407,easy_32,Gear Teeth,False,0,False,0
+408,easy_32,Neck,False,0,False,0
+409,easy_32,Pipe / Tube,False,0,False,0
+410,easy_32,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,True,3
+411,easy_32,"Freeform Features (Depression, Protrusion)",True,1,False,0
+412,easy_32,Rib,False,0,False,0
+413,easy_32,Gusset,False,0,False,0
+414,easy_32,Draft,False,0,False,0
+415,easy_32,Sheet Metal Features,False,0,False,0
+416,easy_33,Hole (Through / Blind Hole),True,4,False,0
+417,easy_33,Slot (Through / Blind / T-Slot / Dovetail),True,1,False,0
+418,easy_33,Step (Through / Blind Step),False,0,False,0
+419,easy_33,Pocket (Blind / Through / Circular End Pocket),True,1,False,0
+420,easy_33,Chamfer / Bevel (Sharp Edge),False,0,False,0
+421,easy_33,Fillet / Round (Concave / Convex),False,0,True,1
+422,easy_33,Threaded Feature,True,1,False,0
+423,easy_33,Gear Teeth,False,0,False,0
+424,easy_33,Neck,False,0,False,0
+425,easy_33,Pipe / Tube,False,0,False,0
+426,easy_33,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+427,easy_33,"Freeform Features (Depression, Protrusion)",False,0,False,0
+428,easy_33,Rib,False,0,False,0
+429,easy_33,Gusset,False,0,False,0
+430,easy_33,Draft,False,0,False,0
+431,easy_33,Sheet Metal Features,False,0,False,0
+432,easy_4,Hole (Through / Blind Hole),True,2,True,2
+433,easy_4,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+434,easy_4,Step (Through / Blind Step),False,0,False,0
+435,easy_4,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+436,easy_4,Chamfer / Bevel (Sharp Edge),True,4,True,1
+437,easy_4,Fillet / Round (Concave / Convex),False,0,True,1
+438,easy_4,Threaded Feature,False,0,False,0
+439,easy_4,Gear Teeth,False,0,False,0
+440,easy_4,Neck,False,0,False,0
+441,easy_4,Pipe / Tube,False,0,False,0
+442,easy_4,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+443,easy_4,"Freeform Features (Depression, Protrusion)",False,0,False,0
+444,easy_4,Rib,False,0,False,0
+445,easy_4,Gusset,False,0,False,0
+446,easy_4,Draft,False,0,False,0
+447,easy_4,Sheet Metal Features,False,0,False,0
+448,easy_5,Hole (Through / Blind Hole),False,0,False,0
+449,easy_5,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+450,easy_5,Step (Through / Blind Step),False,0,False,0
+451,easy_5,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+452,easy_5,Chamfer / Bevel (Sharp Edge),False,0,True,1
+453,easy_5,Fillet / Round (Concave / Convex),False,0,True,1
+454,easy_5,Threaded Feature,False,0,False,0
+455,easy_5,Gear Teeth,False,0,False,0
+456,easy_5,Neck,False,0,False,0
+457,easy_5,Pipe / Tube,False,0,False,0
+458,easy_5,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+459,easy_5,"Freeform Features (Depression, Protrusion)",False,0,False,0
+460,easy_5,Rib,False,0,False,0
+461,easy_5,Gusset,False,0,False,0
+462,easy_5,Draft,False,0,False,0
+463,easy_5,Sheet Metal Features,False,0,False,0
+464,easy_6,Hole (Through / Blind Hole),True,2,True,2
+465,easy_6,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+466,easy_6,Step (Through / Blind Step),False,0,False,0
+467,easy_6,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+468,easy_6,Chamfer / Bevel (Sharp Edge),False,0,True,1
+469,easy_6,Fillet / Round (Concave / Convex),False,0,True,1
+470,easy_6,Threaded Feature,False,0,False,0
+471,easy_6,Gear Teeth,False,0,False,0
+472,easy_6,Neck,False,0,False,0
+473,easy_6,Pipe / Tube,False,0,False,0
+474,easy_6,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+475,easy_6,"Freeform Features (Depression, Protrusion)",False,0,False,0
+476,easy_6,Rib,False,0,False,0
+477,easy_6,Gusset,False,0,False,0
+478,easy_6,Draft,False,0,False,0
+479,easy_6,Sheet Metal Features,False,0,False,0
+480,easy_7,Hole (Through / Blind Hole),False,0,False,0
+481,easy_7,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+482,easy_7,Step (Through / Blind Step),False,0,False,0
+483,easy_7,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+484,easy_7,Chamfer / Bevel (Sharp Edge),False,0,True,1
+485,easy_7,Fillet / Round (Concave / Convex),False,0,True,1
+486,easy_7,Threaded Feature,False,0,False,0
+487,easy_7,Gear Teeth,False,0,False,0
+488,easy_7,Neck,False,0,False,0
+489,easy_7,Pipe / Tube,False,0,False,0
+490,easy_7,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+491,easy_7,"Freeform Features (Depression, Protrusion)",False,0,False,0
+492,easy_7,Rib,False,0,False,0
+493,easy_7,Gusset,False,0,False,0
+494,easy_7,Draft,False,0,False,0
+495,easy_7,Sheet Metal Features,False,0,False,0
+496,easy_8,Hole (Through / Blind Hole),False,0,True,2
+497,easy_8,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+498,easy_8,Step (Through / Blind Step),False,0,False,0
+499,easy_8,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+500,easy_8,Chamfer / Bevel (Sharp Edge),False,0,True,1
+501,easy_8,Fillet / Round (Concave / Convex),False,0,True,1
+502,easy_8,Threaded Feature,False,0,False,0
+503,easy_8,Gear Teeth,True,1,False,0
+504,easy_8,Neck,False,0,False,0
+505,easy_8,Pipe / Tube,False,0,False,0
+506,easy_8,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+507,easy_8,"Freeform Features (Depression, Protrusion)",False,0,False,0
+508,easy_8,Rib,False,0,False,0
+509,easy_8,Gusset,False,0,False,0
+510,easy_8,Draft,False,0,False,0
+511,easy_8,Sheet Metal Features,False,0,False,0
+512,easy_9,Hole (Through / Blind Hole),False,0,True,2
+513,easy_9,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+514,easy_9,Step (Through / Blind Step),False,0,False,0
+515,easy_9,Pocket (Blind / Through / Circular End Pocket),True,2,True,1
+516,easy_9,Chamfer / Bevel (Sharp Edge),False,0,True,1
+517,easy_9,Fillet / Round (Concave / Convex),False,0,True,1
+518,easy_9,Threaded Feature,False,0,False,0
+519,easy_9,Gear Teeth,False,0,False,0
+520,easy_9,Neck,False,0,False,0
+521,easy_9,Pipe / Tube,False,0,False,0
+522,easy_9,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+523,easy_9,"Freeform Features (Depression, Protrusion)",False,0,False,0
+524,easy_9,Rib,False,0,False,0
+525,easy_9,Gusset,False,0,False,0
+526,easy_9,Draft,False,0,False,0
+527,easy_9,Sheet Metal Features,False,0,False,0
+528,hard_1,Hole (Through / Blind Hole),True,2,True,2
+529,hard_1,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+530,hard_1,Step (Through / Blind Step),True,1,False,0
+531,hard_1,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+532,hard_1,Chamfer / Bevel (Sharp Edge),False,0,True,1
+533,hard_1,Fillet / Round (Concave / Convex),True,2,True,1
+534,hard_1,Threaded Feature,False,0,False,0
+535,hard_1,Gear Teeth,False,0,False,0
+536,hard_1,Neck,False,0,False,0
+537,hard_1,Pipe / Tube,False,0,False,0
+538,hard_1,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+539,hard_1,"Freeform Features (Depression, Protrusion)",True,1,False,0
+540,hard_1,Rib,False,0,False,0
+541,hard_1,Gusset,False,0,False,0
+542,hard_1,Draft,False,0,False,0
+543,hard_1,Sheet Metal Features,False,0,False,0
+544,hard_10,Hole (Through / Blind Hole),True,4,True,2
+545,hard_10,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+546,hard_10,Step (Through / Blind Step),False,0,False,0
+547,hard_10,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+548,hard_10,Chamfer / Bevel (Sharp Edge),False,0,True,1
+549,hard_10,Fillet / Round (Concave / Convex),True,2,True,1
+550,hard_10,Threaded Feature,False,0,False,0
+551,hard_10,Gear Teeth,False,0,False,0
+552,hard_10,Neck,False,0,False,0
+553,hard_10,Pipe / Tube,True,2,False,0
+554,hard_10,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+555,hard_10,"Freeform Features (Depression, Protrusion)",False,0,False,0
+556,hard_10,Rib,False,0,False,0
+557,hard_10,Gusset,False,0,False,0
+558,hard_10,Draft,False,0,False,0
+559,hard_10,Sheet Metal Features,False,0,False,0
+560,hard_11,Hole (Through / Blind Hole),True,4,False,0
+561,hard_11,Slot (Through / Blind / T-Slot / Dovetail),True,2,False,0
+562,hard_11,Step (Through / Blind Step),True,1,False,0
+563,hard_11,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+564,hard_11,Chamfer / Bevel (Sharp Edge),False,0,False,0
+565,hard_11,Fillet / Round (Concave / Convex),True,4,True,1
+566,hard_11,Threaded Feature,False,0,False,0
+567,hard_11,Gear Teeth,False,0,False,0
+568,hard_11,Neck,False,0,False,0
+569,hard_11,Pipe / Tube,False,0,False,0
+570,hard_11,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+571,hard_11,"Freeform Features (Depression, Protrusion)",False,0,False,0
+572,hard_11,Rib,False,0,False,0
+573,hard_11,Gusset,False,0,False,0
+574,hard_11,Draft,False,0,False,0
+575,hard_11,Sheet Metal Features,False,0,False,0
+576,hard_12,Hole (Through / Blind Hole),True,10,True,1
+577,hard_12,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+578,hard_12,Step (Through / Blind Step),True,1,False,0
+579,hard_12,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+580,hard_12,Chamfer / Bevel (Sharp Edge),False,0,True,1
+581,hard_12,Fillet / Round (Concave / Convex),False,0,False,0
+582,hard_12,Threaded Feature,False,0,False,0
+583,hard_12,Gear Teeth,False,0,False,0
+584,hard_12,Neck,False,0,False,0
+585,hard_12,Pipe / Tube,False,0,False,0
+586,hard_12,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+587,hard_12,"Freeform Features (Depression, Protrusion)",False,0,False,0
+588,hard_12,Rib,False,0,False,0
+589,hard_12,Gusset,False,0,False,0
+590,hard_12,Draft,False,0,False,0
+591,hard_12,Sheet Metal Features,True,1,False,0
+592,hard_13,Hole (Through / Blind Hole),True,7,True,1
+593,hard_13,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+594,hard_13,Step (Through / Blind Step),True,1,False,0
+595,hard_13,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+596,hard_13,Chamfer / Bevel (Sharp Edge),False,0,True,1
+597,hard_13,Fillet / Round (Concave / Convex),False,0,True,1
+598,hard_13,Threaded Feature,False,0,False,0
+599,hard_13,Gear Teeth,True,1,False,0
+600,hard_13,Neck,False,0,False,0
+601,hard_13,Pipe / Tube,False,0,False,0
+602,hard_13,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+603,hard_13,"Freeform Features (Depression, Protrusion)",False,0,False,0
+604,hard_13,Rib,False,0,False,0
+605,hard_13,Gusset,False,0,False,0
+606,hard_13,Draft,False,0,False,0
+607,hard_13,Sheet Metal Features,False,0,False,0
+608,hard_14,Hole (Through / Blind Hole),True,1,True,2
+609,hard_14,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+610,hard_14,Step (Through / Blind Step),False,0,True,1
+611,hard_14,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+612,hard_14,Chamfer / Bevel (Sharp Edge),False,0,True,1
+613,hard_14,Fillet / Round (Concave / Convex),True,4,True,1
+614,hard_14,Threaded Feature,False,0,False,0
+615,hard_14,Gear Teeth,False,0,False,0
+616,hard_14,Neck,False,0,True,1
+617,hard_14,Pipe / Tube,True,1,False,0
+618,hard_14,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+619,hard_14,"Freeform Features (Depression, Protrusion)",False,0,False,0
+620,hard_14,Rib,False,0,False,0
+621,hard_14,Gusset,True,2,False,0
+622,hard_14,Draft,False,0,False,0
+623,hard_14,Sheet Metal Features,False,0,False,0
+624,hard_15,Hole (Through / Blind Hole),True,3,False,0
+625,hard_15,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+626,hard_15,Step (Through / Blind Step),True,2,False,0
+627,hard_15,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+628,hard_15,Chamfer / Bevel (Sharp Edge),False,0,False,0
+629,hard_15,Fillet / Round (Concave / Convex),True,3,True,1
+630,hard_15,Threaded Feature,False,0,False,0
+631,hard_15,Gear Teeth,False,0,False,0
+632,hard_15,Neck,False,0,False,0
+633,hard_15,Pipe / Tube,False,0,False,0
+634,hard_15,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+635,hard_15,"Freeform Features (Depression, Protrusion)",False,0,False,0
+636,hard_15,Rib,False,0,False,0
+637,hard_15,Gusset,False,0,False,0
+638,hard_15,Draft,False,0,False,0
+639,hard_15,Sheet Metal Features,False,0,False,0
+640,hard_16,Hole (Through / Blind Hole),True,6,False,0
+641,hard_16,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+642,hard_16,Step (Through / Blind Step),False,0,False,0
+643,hard_16,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+644,hard_16,Chamfer / Bevel (Sharp Edge),False,0,False,0
+645,hard_16,Fillet / Round (Concave / Convex),True,4,True,1
+646,hard_16,Threaded Feature,False,0,False,0
+647,hard_16,Gear Teeth,False,0,False,0
+648,hard_16,Neck,False,0,False,0
+649,hard_16,Pipe / Tube,False,0,False,0
+650,hard_16,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,2,False,0
+651,hard_16,"Freeform Features (Depression, Protrusion)",False,0,False,0
+652,hard_16,Rib,False,0,False,0
+653,hard_16,Gusset,False,0,False,0
+654,hard_16,Draft,False,0,False,0
+655,hard_16,Sheet Metal Features,False,0,False,0
+656,hard_17,Hole (Through / Blind Hole),True,3,True,2
+657,hard_17,Slot (Through / Blind / T-Slot / Dovetail),True,4,True,1
+658,hard_17,Step (Through / Blind Step),False,0,False,0
+659,hard_17,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+660,hard_17,Chamfer / Bevel (Sharp Edge),False,0,True,1
+661,hard_17,Fillet / Round (Concave / Convex),False,0,True,1
+662,hard_17,Threaded Feature,False,0,True,1
+663,hard_17,Gear Teeth,False,0,True,1
+664,hard_17,Neck,False,0,True,1
+665,hard_17,Pipe / Tube,False,0,True,1
+666,hard_17,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+667,hard_17,"Freeform Features (Depression, Protrusion)",False,0,True,1
+668,hard_17,Rib,False,0,True,1
+669,hard_17,Gusset,False,0,True,1
+670,hard_17,Draft,False,0,True,1
+671,hard_17,Sheet Metal Features,False,0,True,1
+672,hard_18,Hole (Through / Blind Hole),True,3,False,0
+673,hard_18,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+674,hard_18,Step (Through / Blind Step),False,0,False,0
+675,hard_18,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+676,hard_18,Chamfer / Bevel (Sharp Edge),False,0,False,0
+677,hard_18,Fillet / Round (Concave / Convex),True,1,True,1
+678,hard_18,Threaded Feature,False,0,False,0
+679,hard_18,Gear Teeth,False,0,False,0
+680,hard_18,Neck,False,0,False,0
+681,hard_18,Pipe / Tube,False,0,False,0
+682,hard_18,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,3,True,1
+683,hard_18,"Freeform Features (Depression, Protrusion)",False,0,False,0
+684,hard_18,Rib,False,0,False,0
+685,hard_18,Gusset,False,0,False,0
+686,hard_18,Draft,False,0,False,0
+687,hard_18,Sheet Metal Features,False,0,False,0
+688,hard_19,Hole (Through / Blind Hole),True,2,False,0
+689,hard_19,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+690,hard_19,Step (Through / Blind Step),False,0,False,0
+691,hard_19,Pocket (Blind / Through / Circular End Pocket),True,3,True,1
+692,hard_19,Chamfer / Bevel (Sharp Edge),False,0,True,1
+693,hard_19,Fillet / Round (Concave / Convex),True,5,True,1
+694,hard_19,Threaded Feature,False,0,True,1
+695,hard_19,Gear Teeth,False,0,True,1
+696,hard_19,Neck,False,0,True,1
+697,hard_19,Pipe / Tube,False,0,True,1
+698,hard_19,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,2,True,1
+699,hard_19,"Freeform Features (Depression, Protrusion)",False,0,True,1
+700,hard_19,Rib,False,0,True,1
+701,hard_19,Gusset,False,0,True,1
+702,hard_19,Draft,False,0,True,1
+703,hard_19,Sheet Metal Features,False,0,True,1
+704,hard_2,Hole (Through / Blind Hole),True,2,True,2
+705,hard_2,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+706,hard_2,Step (Through / Blind Step),False,0,False,0
+707,hard_2,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+708,hard_2,Chamfer / Bevel (Sharp Edge),False,0,True,1
+709,hard_2,Fillet / Round (Concave / Convex),True,2,True,1
+710,hard_2,Threaded Feature,False,0,False,0
+711,hard_2,Gear Teeth,False,0,False,0
+712,hard_2,Neck,False,0,False,0
+713,hard_2,Pipe / Tube,False,0,False,0
+714,hard_2,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+715,hard_2,"Freeform Features (Depression, Protrusion)",True,1,False,0
+716,hard_2,Rib,False,0,False,0
+717,hard_2,Gusset,False,0,False,0
+718,hard_2,Draft,False,0,False,0
+719,hard_2,Sheet Metal Features,False,0,False,0
+720,hard_20,Hole (Through / Blind Hole),True,1,True,2
+721,hard_20,Slot (Through / Blind / T-Slot / Dovetail),True,18,False,0
+722,hard_20,Step (Through / Blind Step),False,0,False,0
+723,hard_20,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+724,hard_20,Chamfer / Bevel (Sharp Edge),False,0,False,0
+725,hard_20,Fillet / Round (Concave / Convex),False,0,True,1
+726,hard_20,Threaded Feature,False,0,False,0
+727,hard_20,Gear Teeth,False,0,False,0
+728,hard_20,Neck,False,0,False,0
+729,hard_20,Pipe / Tube,False,0,False,0
+730,hard_20,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+731,hard_20,"Freeform Features (Depression, Protrusion)",False,0,False,0
+732,hard_20,Rib,False,0,False,0
+733,hard_20,Gusset,False,0,False,0
+734,hard_20,Draft,False,0,False,0
+735,hard_20,Sheet Metal Features,False,0,False,0
+736,hard_21,Hole (Through / Blind Hole),True,6,True,2
+737,hard_21,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+738,hard_21,Step (Through / Blind Step),False,0,False,0
+739,hard_21,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+740,hard_21,Chamfer / Bevel (Sharp Edge),False,0,False,0
+741,hard_21,Fillet / Round (Concave / Convex),True,2,True,1
+742,hard_21,Threaded Feature,False,0,False,0
+743,hard_21,Gear Teeth,False,0,False,0
+744,hard_21,Neck,False,0,False,0
+745,hard_21,Pipe / Tube,True,1,False,0
+746,hard_21,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+747,hard_21,"Freeform Features (Depression, Protrusion)",False,0,False,0
+748,hard_21,Rib,False,0,False,0
+749,hard_21,Gusset,False,0,False,0
+750,hard_21,Draft,False,0,False,0
+751,hard_21,Sheet Metal Features,False,0,False,0
+752,hard_22,Hole (Through / Blind Hole),True,2,True,2
+753,hard_22,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+754,hard_22,Step (Through / Blind Step),False,0,False,0
+755,hard_22,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+756,hard_22,Chamfer / Bevel (Sharp Edge),False,0,True,1
+757,hard_22,Fillet / Round (Concave / Convex),True,1,True,1
+758,hard_22,Threaded Feature,False,0,True,1
+759,hard_22,Gear Teeth,False,0,True,1
+760,hard_22,Neck,False,0,True,1
+761,hard_22,Pipe / Tube,True,1,True,1
+762,hard_22,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+763,hard_22,"Freeform Features (Depression, Protrusion)",False,0,True,1
+764,hard_22,Rib,False,0,True,1
+765,hard_22,Gusset,False,0,True,1
+766,hard_22,Draft,False,0,True,1
+767,hard_22,Sheet Metal Features,False,0,True,1
+768,hard_23,Hole (Through / Blind Hole),True,1,True,2
+769,hard_23,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+770,hard_23,Step (Through / Blind Step),False,0,False,0
+771,hard_23,Pocket (Blind / Through / Circular End Pocket),True,5,False,0
+772,hard_23,Chamfer / Bevel (Sharp Edge),False,0,False,0
+773,hard_23,Fillet / Round (Concave / Convex),False,0,True,4
+774,hard_23,Threaded Feature,False,0,False,0
+775,hard_23,Gear Teeth,True,1,False,0
+776,hard_23,Neck,False,0,False,0
+777,hard_23,Pipe / Tube,False,0,False,0
+778,hard_23,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+779,hard_23,"Freeform Features (Depression, Protrusion)",False,0,False,0
+780,hard_23,Rib,False,0,False,0
+781,hard_23,Gusset,False,0,False,0
+782,hard_23,Draft,False,0,False,0
+783,hard_23,Sheet Metal Features,False,0,False,0
+784,hard_24,Hole (Through / Blind Hole),True,1,True,2
+785,hard_24,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+786,hard_24,Step (Through / Blind Step),False,0,False,0
+787,hard_24,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+788,hard_24,Chamfer / Bevel (Sharp Edge),False,0,True,1
+789,hard_24,Fillet / Round (Concave / Convex),True,4,True,1
+790,hard_24,Threaded Feature,False,0,True,1
+791,hard_24,Gear Teeth,False,0,True,1
+792,hard_24,Neck,False,0,True,1
+793,hard_24,Pipe / Tube,True,1,True,1
+794,hard_24,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,True,1
+795,hard_24,"Freeform Features (Depression, Protrusion)",False,0,True,1
+796,hard_24,Rib,False,0,True,1
+797,hard_24,Gusset,True,1,True,1
+798,hard_24,Draft,False,0,True,1
+799,hard_24,Sheet Metal Features,False,0,True,1
+800,hard_25,Hole (Through / Blind Hole),True,11,False,0
+801,hard_25,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+802,hard_25,Step (Through / Blind Step),False,0,False,0
+803,hard_25,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+804,hard_25,Chamfer / Bevel (Sharp Edge),False,0,False,0
+805,hard_25,Fillet / Round (Concave / Convex),True,4,True,1
+806,hard_25,Threaded Feature,False,0,False,0
+807,hard_25,Gear Teeth,False,0,False,0
+808,hard_25,Neck,False,0,False,0
+809,hard_25,Pipe / Tube,False,0,False,0
+810,hard_25,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,7,True,1
+811,hard_25,"Freeform Features (Depression, Protrusion)",False,0,False,0
+812,hard_25,Rib,False,0,False,0
+813,hard_25,Gusset,False,0,False,0
+814,hard_25,Draft,False,0,False,0
+815,hard_25,Sheet Metal Features,False,0,False,0
+816,hard_26,Hole (Through / Blind Hole),True,2,True,2
+817,hard_26,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+818,hard_26,Step (Through / Blind Step),False,0,False,0
+819,hard_26,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+820,hard_26,Chamfer / Bevel (Sharp Edge),False,0,True,1
+821,hard_26,Fillet / Round (Concave / Convex),False,0,True,1
+822,hard_26,Threaded Feature,False,0,True,1
+823,hard_26,Gear Teeth,False,0,False,0
+824,hard_26,Neck,False,0,False,0
+825,hard_26,Pipe / Tube,False,0,False,0
+826,hard_26,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+827,hard_26,"Freeform Features (Depression, Protrusion)",False,0,False,0
+828,hard_26,Rib,False,0,False,0
+829,hard_26,Gusset,False,0,False,0
+830,hard_26,Draft,False,0,False,0
+831,hard_26,Sheet Metal Features,True,1,False,0
+832,hard_27,Hole (Through / Blind Hole),True,5,True,2
+833,hard_27,Slot (Through / Blind / T-Slot / Dovetail),True,4,False,0
+834,hard_27,Step (Through / Blind Step),False,0,False,0
+835,hard_27,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+836,hard_27,Chamfer / Bevel (Sharp Edge),False,0,False,0
+837,hard_27,Fillet / Round (Concave / Convex),False,0,True,1
+838,hard_27,Threaded Feature,False,0,False,0
+839,hard_27,Gear Teeth,False,0,False,0
+840,hard_27,Neck,False,0,False,0
+841,hard_27,Pipe / Tube,False,0,False,0
+842,hard_27,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+843,hard_27,"Freeform Features (Depression, Protrusion)",False,0,False,0
+844,hard_27,Rib,False,0,False,0
+845,hard_27,Gusset,False,0,False,0
+846,hard_27,Draft,False,0,False,0
+847,hard_27,Sheet Metal Features,False,0,False,0
+848,hard_28,Hole (Through / Blind Hole),True,4,True,2
+849,hard_28,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+850,hard_28,Step (Through / Blind Step),False,0,False,0
+851,hard_28,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+852,hard_28,Chamfer / Bevel (Sharp Edge),False,0,True,1
+853,hard_28,Fillet / Round (Concave / Convex),True,4,True,1
+854,hard_28,Threaded Feature,False,0,True,1
+855,hard_28,Gear Teeth,False,0,True,1
+856,hard_28,Neck,False,0,True,1
+857,hard_28,Pipe / Tube,False,0,True,1
+858,hard_28,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+859,hard_28,"Freeform Features (Depression, Protrusion)",True,3,True,1
+860,hard_28,Rib,False,0,True,1
+861,hard_28,Gusset,False,0,True,1
+862,hard_28,Draft,False,0,True,1
+863,hard_28,Sheet Metal Features,False,0,True,1
+864,hard_29,Hole (Through / Blind Hole),True,3,True,2
+865,hard_29,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+866,hard_29,Step (Through / Blind Step),False,0,False,0
+867,hard_29,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+868,hard_29,Chamfer / Bevel (Sharp Edge),False,0,True,1
+869,hard_29,Fillet / Round (Concave / Convex),True,4,True,1
+870,hard_29,Threaded Feature,True,1,False,0
+871,hard_29,Gear Teeth,False,0,False,0
+872,hard_29,Neck,False,0,False,0
+873,hard_29,Pipe / Tube,False,0,False,0
+874,hard_29,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+875,hard_29,"Freeform Features (Depression, Protrusion)",False,0,False,0
+876,hard_29,Rib,False,0,False,0
+877,hard_29,Gusset,False,0,False,0
+878,hard_29,Draft,False,0,False,0
+879,hard_29,Sheet Metal Features,True,1,False,0
+880,hard_3,Hole (Through / Blind Hole),True,2,True,2
+881,hard_3,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+882,hard_3,Step (Through / Blind Step),False,0,True,1
+883,hard_3,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+884,hard_3,Chamfer / Bevel (Sharp Edge),False,0,True,1
+885,hard_3,Fillet / Round (Concave / Convex),True,1,True,1
+886,hard_3,Threaded Feature,False,0,False,0
+887,hard_3,Gear Teeth,False,0,False,0
+888,hard_3,Neck,False,0,False,0
+889,hard_3,Pipe / Tube,True,1,False,0
+890,hard_3,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+891,hard_3,"Freeform Features (Depression, Protrusion)",False,0,False,0
+892,hard_3,Rib,False,0,False,0
+893,hard_3,Gusset,False,0,False,0
+894,hard_3,Draft,False,0,False,0
+895,hard_3,Sheet Metal Features,False,0,False,0
+896,hard_30,Hole (Through / Blind Hole),True,2,True,2
+897,hard_30,Slot (Through / Blind / T-Slot / Dovetail),True,2,True,1
+898,hard_30,Step (Through / Blind Step),False,0,False,0
+899,hard_30,Pocket (Blind / Through / Circular End Pocket),True,3,True,1
+900,hard_30,Chamfer / Bevel (Sharp Edge),False,0,True,1
+901,hard_30,Fillet / Round (Concave / Convex),False,0,True,1
+902,hard_30,Threaded Feature,False,0,True,1
+903,hard_30,Gear Teeth,False,0,True,1
+904,hard_30,Neck,False,0,True,1
+905,hard_30,Pipe / Tube,False,0,True,1
+906,hard_30,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+907,hard_30,"Freeform Features (Depression, Protrusion)",False,0,True,1
+908,hard_30,Rib,False,0,True,1
+909,hard_30,Gusset,False,0,True,1
+910,hard_30,Draft,False,0,True,1
+911,hard_30,Sheet Metal Features,False,0,True,1
+912,hard_31,Hole (Through / Blind Hole),True,8,True,2
+913,hard_31,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+914,hard_31,Step (Through / Blind Step),False,0,False,0
+915,hard_31,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+916,hard_31,Chamfer / Bevel (Sharp Edge),False,0,False,0
+917,hard_31,Fillet / Round (Concave / Convex),True,2,True,1
+918,hard_31,Threaded Feature,False,0,False,0
+919,hard_31,Gear Teeth,False,0,False,0
+920,hard_31,Neck,False,0,False,0
+921,hard_31,Pipe / Tube,True,1,False,0
+922,hard_31,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+923,hard_31,"Freeform Features (Depression, Protrusion)",False,0,False,0
+924,hard_31,Rib,False,0,False,0
+925,hard_31,Gusset,True,6,False,0
+926,hard_31,Draft,False,0,False,0
+927,hard_31,Sheet Metal Features,False,0,False,0
+928,hard_32,Hole (Through / Blind Hole),True,6,True,2
+929,hard_32,Slot (Through / Blind / T-Slot / Dovetail),True,2,True,1
+930,hard_32,Step (Through / Blind Step),False,0,False,0
+931,hard_32,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+932,hard_32,Chamfer / Bevel (Sharp Edge),False,0,True,1
+933,hard_32,Fillet / Round (Concave / Convex),False,0,True,1
+934,hard_32,Threaded Feature,True,1,True,1
+935,hard_32,Gear Teeth,False,0,False,0
+936,hard_32,Neck,False,0,False,0
+937,hard_32,Pipe / Tube,False,0,False,0
+938,hard_32,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+939,hard_32,"Freeform Features (Depression, Protrusion)",False,0,False,0
+940,hard_32,Rib,False,0,False,0
+941,hard_32,Gusset,True,2,False,0
+942,hard_32,Draft,False,0,False,0
+943,hard_32,Sheet Metal Features,False,0,False,0
+944,hard_33,Hole (Through / Blind Hole),True,2,False,0
+945,hard_33,Slot (Through / Blind / T-Slot / Dovetail),True,2,False,0
+946,hard_33,Step (Through / Blind Step),True,2,False,0
+947,hard_33,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+948,hard_33,Chamfer / Bevel (Sharp Edge),False,0,False,0
+949,hard_33,Fillet / Round (Concave / Convex),True,1,True,1
+950,hard_33,Threaded Feature,True,1,False,0
+951,hard_33,Gear Teeth,False,0,False,0
+952,hard_33,Neck,False,0,False,0
+953,hard_33,Pipe / Tube,False,0,False,0
+954,hard_33,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+955,hard_33,"Freeform Features (Depression, Protrusion)",False,0,False,0
+956,hard_33,Rib,False,0,False,0
+957,hard_33,Gusset,False,0,False,0
+958,hard_33,Draft,False,0,False,0
+959,hard_33,Sheet Metal Features,False,0,False,0
+960,hard_34,Hole (Through / Blind Hole),True,3,True,2
+961,hard_34,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+962,hard_34,Step (Through / Blind Step),False,0,False,0
+963,hard_34,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+964,hard_34,Chamfer / Bevel (Sharp Edge),False,0,True,1
+965,hard_34,Fillet / Round (Concave / Convex),True,4,True,1
+966,hard_34,Threaded Feature,False,0,True,1
+967,hard_34,Gear Teeth,False,0,True,1
+968,hard_34,Neck,False,0,True,1
+969,hard_34,Pipe / Tube,False,0,True,1
+970,hard_34,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+971,hard_34,"Freeform Features (Depression, Protrusion)",False,0,True,1
+972,hard_34,Rib,False,0,True,1
+973,hard_34,Gusset,False,0,True,1
+974,hard_34,Draft,False,0,True,1
+975,hard_34,Sheet Metal Features,False,0,True,1
+976,hard_4,Hole (Through / Blind Hole),True,5,True,1
+977,hard_4,Slot (Through / Blind / T-Slot / Dovetail),True,1,False,0
+978,hard_4,Step (Through / Blind Step),False,0,False,0
+979,hard_4,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+980,hard_4,Chamfer / Bevel (Sharp Edge),False,0,True,1
+981,hard_4,Fillet / Round (Concave / Convex),True,4,False,0
+982,hard_4,Threaded Feature,False,0,False,0
+983,hard_4,Gear Teeth,False,0,False,0
+984,hard_4,Neck,False,0,False,0
+985,hard_4,Pipe / Tube,False,0,False,0
+986,hard_4,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+987,hard_4,"Freeform Features (Depression, Protrusion)",False,0,False,0
+988,hard_4,Rib,False,0,False,0
+989,hard_4,Gusset,False,0,False,0
+990,hard_4,Draft,False,0,False,0
+991,hard_4,Sheet Metal Features,False,0,False,0
+992,hard_5,Hole (Through / Blind Hole),True,11,False,0
+993,hard_5,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+994,hard_5,Step (Through / Blind Step),True,1,False,0
+995,hard_5,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+996,hard_5,Chamfer / Bevel (Sharp Edge),False,0,True,1
+997,hard_5,Fillet / Round (Concave / Convex),True,4,True,1
+998,hard_5,Threaded Feature,False,0,False,0
+999,hard_5,Gear Teeth,False,0,False,0
+1000,hard_5,Neck,False,0,False,0
+1001,hard_5,Pipe / Tube,False,0,False,0
+1002,hard_5,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1003,hard_5,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1004,hard_5,Rib,False,0,False,0
+1005,hard_5,Gusset,False,0,False,0
+1006,hard_5,Draft,False,0,False,0
+1007,hard_5,Sheet Metal Features,True,1,False,0
+1008,hard_6,Hole (Through / Blind Hole),True,6,True,2
+1009,hard_6,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+1010,hard_6,Step (Through / Blind Step),False,0,False,0
+1011,hard_6,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1012,hard_6,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1013,hard_6,Fillet / Round (Concave / Convex),True,2,True,1
+1014,hard_6,Threaded Feature,False,0,True,1
+1015,hard_6,Gear Teeth,False,0,True,1
+1016,hard_6,Neck,False,0,True,1
+1017,hard_6,Pipe / Tube,True,1,True,1
+1018,hard_6,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,2,True,1
+1019,hard_6,"Freeform Features (Depression, Protrusion)",False,0,True,1
+1020,hard_6,Rib,False,0,True,1
+1021,hard_6,Gusset,False,0,True,1
+1022,hard_6,Draft,False,0,True,1
+1023,hard_6,Sheet Metal Features,False,0,True,1
+1024,hard_7,Hole (Through / Blind Hole),True,119,True,2
+1025,hard_7,Slot (Through / Blind / T-Slot / Dovetail),True,4,True,1
+1026,hard_7,Step (Through / Blind Step),True,1,True,1
+1027,hard_7,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1028,hard_7,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1029,hard_7,Fillet / Round (Concave / Convex),False,0,True,1
+1030,hard_7,Threaded Feature,False,0,False,0
+1031,hard_7,Gear Teeth,False,0,False,0
+1032,hard_7,Neck,False,0,False,0
+1033,hard_7,Pipe / Tube,False,0,False,0
+1034,hard_7,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1035,hard_7,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1036,hard_7,Rib,False,0,False,0
+1037,hard_7,Gusset,False,0,False,0
+1038,hard_7,Draft,False,0,False,0
+1039,hard_7,Sheet Metal Features,True,1,False,0
+1040,hard_8,Hole (Through / Blind Hole),True,8,True,1
+1041,hard_8,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1042,hard_8,Step (Through / Blind Step),False,0,False,0
+1043,hard_8,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1044,hard_8,Chamfer / Bevel (Sharp Edge),False,0,False,0
+1045,hard_8,Fillet / Round (Concave / Convex),True,2,True,1
+1046,hard_8,Threaded Feature,False,0,False,0
+1047,hard_8,Gear Teeth,False,0,False,0
+1048,hard_8,Neck,False,0,False,0
+1049,hard_8,Pipe / Tube,True,1,False,0
+1050,hard_8,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+1051,hard_8,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1052,hard_8,Rib,False,0,False,0
+1053,hard_8,Gusset,False,0,False,0
+1054,hard_8,Draft,False,0,False,0
+1055,hard_8,Sheet Metal Features,True,1,False,0
+1056,hard_9,Hole (Through / Blind Hole),True,2,True,2
+1057,hard_9,Slot (Through / Blind / T-Slot / Dovetail),True,1,False,0
+1058,hard_9,Step (Through / Blind Step),False,0,False,0
+1059,hard_9,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1060,hard_9,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1061,hard_9,Fillet / Round (Concave / Convex),True,1,True,1
+1062,hard_9,Threaded Feature,False,0,True,1
+1063,hard_9,Gear Teeth,False,0,False,0
+1064,hard_9,Neck,False,0,True,1
+1065,hard_9,Pipe / Tube,False,0,False,0
+1066,hard_9,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+1067,hard_9,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1068,hard_9,Rib,False,0,False,0
+1069,hard_9,Gusset,False,0,False,0
+1070,hard_9,Draft,False,0,False,0
+1071,hard_9,Sheet Metal Features,False,0,False,0
+1072,medium_1,Hole (Through / Blind Hole),True,2,True,2
+1073,medium_1,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+1074,medium_1,Step (Through / Blind Step),False,0,False,0
+1075,medium_1,Pocket (Blind / Through / Circular End Pocket),True,2,True,1
+1076,medium_1,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1077,medium_1,Fillet / Round (Concave / Convex),False,0,True,1
+1078,medium_1,Threaded Feature,False,0,False,0
+1079,medium_1,Gear Teeth,False,0,False,0
+1080,medium_1,Neck,False,0,False,0
+1081,medium_1,Pipe / Tube,False,0,False,0
+1082,medium_1,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1083,medium_1,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1084,medium_1,Rib,False,0,False,0
+1085,medium_1,Gusset,False,0,False,0
+1086,medium_1,Draft,False,0,False,0
+1087,medium_1,Sheet Metal Features,False,0,False,0
+1088,medium_10,Hole (Through / Blind Hole),False,0,True,2
+1089,medium_10,Slot (Through / Blind / T-Slot / Dovetail),True,4,True,1
+1090,medium_10,Step (Through / Blind Step),False,0,True,1
+1091,medium_10,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1092,medium_10,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1093,medium_10,Fillet / Round (Concave / Convex),False,0,True,1
+1094,medium_10,Threaded Feature,False,0,False,0
+1095,medium_10,Gear Teeth,False,0,False,0
+1096,medium_10,Neck,False,0,False,0
+1097,medium_10,Pipe / Tube,False,0,False,0
+1098,medium_10,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+1099,medium_10,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1100,medium_10,Rib,False,0,False,0
+1101,medium_10,Gusset,False,0,False,0
+1102,medium_10,Draft,False,0,False,0
+1103,medium_10,Sheet Metal Features,False,0,False,0
+1104,medium_11,Hole (Through / Blind Hole),True,1,True,2
+1105,medium_11,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+1106,medium_11,Step (Through / Blind Step),True,1,True,1
+1107,medium_11,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+1108,medium_11,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1109,medium_11,Fillet / Round (Concave / Convex),True,1,True,1
+1110,medium_11,Threaded Feature,False,0,False,0
+1111,medium_11,Gear Teeth,False,0,False,0
+1112,medium_11,Neck,False,0,True,1
+1113,medium_11,Pipe / Tube,False,0,False,0
+1114,medium_11,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+1115,medium_11,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1116,medium_11,Rib,False,0,False,0
+1117,medium_11,Gusset,False,0,False,0
+1118,medium_11,Draft,False,0,False,0
+1119,medium_11,Sheet Metal Features,False,0,False,0
+1120,medium_12,Hole (Through / Blind Hole),True,1,True,2
+1121,medium_12,Slot (Through / Blind / T-Slot / Dovetail),True,2,False,0
+1122,medium_12,Step (Through / Blind Step),False,0,False,0
+1123,medium_12,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1124,medium_12,Chamfer / Bevel (Sharp Edge),False,0,False,0
+1125,medium_12,Fillet / Round (Concave / Convex),True,3,True,1
+1126,medium_12,Threaded Feature,False,0,False,0
+1127,medium_12,Gear Teeth,False,0,False,0
+1128,medium_12,Neck,False,0,False,0
+1129,medium_12,Pipe / Tube,False,0,False,0
+1130,medium_12,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1131,medium_12,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1132,medium_12,Rib,False,0,False,0
+1133,medium_12,Gusset,False,0,False,0
+1134,medium_12,Draft,False,0,False,0
+1135,medium_12,Sheet Metal Features,False,0,False,0
+1136,medium_13,Hole (Through / Blind Hole),True,2,True,2
+1137,medium_13,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+1138,medium_13,Step (Through / Blind Step),False,0,False,0
+1139,medium_13,Pocket (Blind / Through / Circular End Pocket),True,4,True,1
+1140,medium_13,Chamfer / Bevel (Sharp Edge),True,1,True,1
+1141,medium_13,Fillet / Round (Concave / Convex),True,1,True,1
+1142,medium_13,Threaded Feature,False,0,False,0
+1143,medium_13,Gear Teeth,False,0,False,0
+1144,medium_13,Neck,False,0,False,0
+1145,medium_13,Pipe / Tube,False,0,False,0
+1146,medium_13,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,2,False,0
+1147,medium_13,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1148,medium_13,Rib,False,0,False,0
+1149,medium_13,Gusset,False,0,False,0
+1150,medium_13,Draft,False,0,False,0
+1151,medium_13,Sheet Metal Features,False,0,False,0
+1152,medium_14,Hole (Through / Blind Hole),True,1,True,2
+1153,medium_14,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+1154,medium_14,Step (Through / Blind Step),False,0,False,0
+1155,medium_14,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+1156,medium_14,Chamfer / Bevel (Sharp Edge),True,1,True,1
+1157,medium_14,Fillet / Round (Concave / Convex),True,1,True,1
+1158,medium_14,Threaded Feature,False,0,False,0
+1159,medium_14,Gear Teeth,False,0,False,0
+1160,medium_14,Neck,False,0,False,0
+1161,medium_14,Pipe / Tube,False,0,False,0
+1162,medium_14,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+1163,medium_14,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1164,medium_14,Rib,False,0,False,0
+1165,medium_14,Gusset,False,0,False,0
+1166,medium_14,Draft,False,0,False,0
+1167,medium_14,Sheet Metal Features,False,0,False,0
+1168,medium_15,Hole (Through / Blind Hole),True,19,True,2
+1169,medium_15,Slot (Through / Blind / T-Slot / Dovetail),True,2,True,1
+1170,medium_15,Step (Through / Blind Step),True,2,False,0
+1171,medium_15,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+1172,medium_15,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1173,medium_15,Fillet / Round (Concave / Convex),True,2,True,1
+1174,medium_15,Threaded Feature,False,0,False,0
+1175,medium_15,Gear Teeth,False,0,False,0
+1176,medium_15,Neck,False,0,False,0
+1177,medium_15,Pipe / Tube,False,0,False,0
+1178,medium_15,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,2,False,0
+1179,medium_15,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1180,medium_15,Rib,False,0,False,0
+1181,medium_15,Gusset,False,0,False,0
+1182,medium_15,Draft,False,0,False,0
+1183,medium_15,Sheet Metal Features,False,0,False,0
+1184,medium_16,Hole (Through / Blind Hole),True,2,True,2
+1185,medium_16,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1186,medium_16,Step (Through / Blind Step),False,0,False,0
+1187,medium_16,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1188,medium_16,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1189,medium_16,Fillet / Round (Concave / Convex),True,4,True,1
+1190,medium_16,Threaded Feature,False,0,False,0
+1191,medium_16,Gear Teeth,False,0,False,0
+1192,medium_16,Neck,False,0,False,0
+1193,medium_16,Pipe / Tube,False,0,False,0
+1194,medium_16,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1195,medium_16,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1196,medium_16,Rib,False,0,False,0
+1197,medium_16,Gusset,False,0,False,0
+1198,medium_16,Draft,False,0,False,0
+1199,medium_16,Sheet Metal Features,False,0,False,0
+1200,medium_17,Hole (Through / Blind Hole),True,16,True,1
+1201,medium_17,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1202,medium_17,Step (Through / Blind Step),False,0,False,0
+1203,medium_17,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1204,medium_17,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1205,medium_17,Fillet / Round (Concave / Convex),False,0,False,0
+1206,medium_17,Threaded Feature,False,0,False,0
+1207,medium_17,Gear Teeth,False,0,False,0
+1208,medium_17,Neck,False,0,False,0
+1209,medium_17,Pipe / Tube,False,0,False,0
+1210,medium_17,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1211,medium_17,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1212,medium_17,Rib,False,0,False,0
+1213,medium_17,Gusset,False,0,False,0
+1214,medium_17,Draft,False,0,False,0
+1215,medium_17,Sheet Metal Features,True,1,False,0
+1216,medium_18,Hole (Through / Blind Hole),False,0,True,2
+1217,medium_18,Slot (Through / Blind / T-Slot / Dovetail),True,3,True,1
+1218,medium_18,Step (Through / Blind Step),False,0,False,0
+1219,medium_18,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1220,medium_18,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1221,medium_18,Fillet / Round (Concave / Convex),False,0,True,1
+1222,medium_18,Threaded Feature,False,0,False,0
+1223,medium_18,Gear Teeth,False,0,False,0
+1224,medium_18,Neck,False,0,False,0
+1225,medium_18,Pipe / Tube,False,0,False,0
+1226,medium_18,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1227,medium_18,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1228,medium_18,Rib,False,0,False,0
+1229,medium_18,Gusset,False,0,False,0
+1230,medium_18,Draft,False,0,False,0
+1231,medium_18,Sheet Metal Features,True,1,False,0
+1232,medium_19,Hole (Through / Blind Hole),True,2,True,2
+1233,medium_19,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1234,medium_19,Step (Through / Blind Step),False,0,False,0
+1235,medium_19,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1236,medium_19,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1237,medium_19,Fillet / Round (Concave / Convex),True,2,True,1
+1238,medium_19,Threaded Feature,False,0,False,0
+1239,medium_19,Gear Teeth,False,0,False,0
+1240,medium_19,Neck,False,0,False,0
+1241,medium_19,Pipe / Tube,False,0,False,0
+1242,medium_19,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1243,medium_19,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1244,medium_19,Rib,False,0,False,0
+1245,medium_19,Gusset,False,0,False,0
+1246,medium_19,Draft,False,0,False,0
+1247,medium_19,Sheet Metal Features,False,0,False,0
+1248,medium_2,Hole (Through / Blind Hole),True,1,True,2
+1249,medium_2,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1250,medium_2,Step (Through / Blind Step),False,0,False,0
+1251,medium_2,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1252,medium_2,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1253,medium_2,Fillet / Round (Concave / Convex),True,1,True,1
+1254,medium_2,Threaded Feature,False,0,True,1
+1255,medium_2,Gear Teeth,False,0,False,0
+1256,medium_2,Neck,False,0,True,1
+1257,medium_2,Pipe / Tube,True,1,False,0
+1258,medium_2,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+1259,medium_2,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1260,medium_2,Rib,False,0,False,0
+1261,medium_2,Gusset,False,0,False,0
+1262,medium_2,Draft,False,0,False,0
+1263,medium_2,Sheet Metal Features,False,0,False,0
+1264,medium_20,Hole (Through / Blind Hole),True,3,True,2
+1265,medium_20,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+1266,medium_20,Step (Through / Blind Step),True,1,False,0
+1267,medium_20,Pocket (Blind / Through / Circular End Pocket),True,4,True,1
+1268,medium_20,Chamfer / Bevel (Sharp Edge),True,1,True,1
+1269,medium_20,Fillet / Round (Concave / Convex),True,1,True,1
+1270,medium_20,Threaded Feature,False,0,False,0
+1271,medium_20,Gear Teeth,False,0,False,0
+1272,medium_20,Neck,False,0,False,0
+1273,medium_20,Pipe / Tube,True,1,False,0
+1274,medium_20,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,4,False,0
+1275,medium_20,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1276,medium_20,Rib,False,0,False,0
+1277,medium_20,Gusset,False,0,False,0
+1278,medium_20,Draft,False,0,False,0
+1279,medium_20,Sheet Metal Features,False,0,False,0
+1280,medium_21,Hole (Through / Blind Hole),True,2,False,0
+1281,medium_21,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1282,medium_21,Step (Through / Blind Step),False,0,False,0
+1283,medium_21,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1284,medium_21,Chamfer / Bevel (Sharp Edge),False,0,False,0
+1285,medium_21,Fillet / Round (Concave / Convex),True,2,True,1
+1286,medium_21,Threaded Feature,False,0,False,0
+1287,medium_21,Gear Teeth,False,0,False,0
+1288,medium_21,Neck,False,0,False,0
+1289,medium_21,Pipe / Tube,False,0,False,0
+1290,medium_21,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+1291,medium_21,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1292,medium_21,Rib,False,0,False,0
+1293,medium_21,Gusset,False,0,False,0
+1294,medium_21,Draft,True,1,False,0
+1295,medium_21,Sheet Metal Features,False,0,False,0
+1296,medium_22,Hole (Through / Blind Hole),True,6,True,2
+1297,medium_22,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1298,medium_22,Step (Through / Blind Step),False,0,False,0
+1299,medium_22,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1300,medium_22,Chamfer / Bevel (Sharp Edge),False,0,False,0
+1301,medium_22,Fillet / Round (Concave / Convex),True,1,True,1
+1302,medium_22,Threaded Feature,False,0,False,0
+1303,medium_22,Gear Teeth,False,0,False,0
+1304,medium_22,Neck,False,0,False,0
+1305,medium_22,Pipe / Tube,False,0,False,0
+1306,medium_22,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1307,medium_22,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1308,medium_22,Rib,False,0,False,0
+1309,medium_22,Gusset,False,0,False,0
+1310,medium_22,Draft,False,0,False,0
+1311,medium_22,Sheet Metal Features,False,0,False,0
+1312,medium_23,Hole (Through / Blind Hole),True,3,True,2
+1313,medium_23,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+1314,medium_23,Step (Through / Blind Step),False,0,False,0
+1315,medium_23,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1316,medium_23,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1317,medium_23,Fillet / Round (Concave / Convex),False,0,True,1
+1318,medium_23,Threaded Feature,True,1,True,1
+1319,medium_23,Gear Teeth,False,0,False,0
+1320,medium_23,Neck,False,0,True,1
+1321,medium_23,Pipe / Tube,False,0,False,0
+1322,medium_23,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,2,False,0
+1323,medium_23,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1324,medium_23,Rib,False,0,False,0
+1325,medium_23,Gusset,False,0,False,0
+1326,medium_23,Draft,False,0,False,0
+1327,medium_23,Sheet Metal Features,False,0,False,0
+1328,medium_24,Hole (Through / Blind Hole),True,2,True,2
+1329,medium_24,Slot (Through / Blind / T-Slot / Dovetail),True,2,True,1
+1330,medium_24,Step (Through / Blind Step),True,1,False,0
+1331,medium_24,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+1332,medium_24,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1333,medium_24,Fillet / Round (Concave / Convex),False,0,True,1
+1334,medium_24,Threaded Feature,False,0,True,1
+1335,medium_24,Gear Teeth,False,0,True,1
+1336,medium_24,Neck,False,0,True,1
+1337,medium_24,Pipe / Tube,False,0,True,1
+1338,medium_24,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+1339,medium_24,"Freeform Features (Depression, Protrusion)",False,0,True,1
+1340,medium_24,Rib,False,0,True,1
+1341,medium_24,Gusset,False,0,True,1
+1342,medium_24,Draft,False,0,True,1
+1343,medium_24,Sheet Metal Features,False,0,True,1
+1344,medium_25,Hole (Through / Blind Hole),True,13,True,2
+1345,medium_25,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1346,medium_25,Step (Through / Blind Step),False,0,False,0
+1347,medium_25,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1348,medium_25,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1349,medium_25,Fillet / Round (Concave / Convex),True,4,False,0
+1350,medium_25,Threaded Feature,False,0,False,0
+1351,medium_25,Gear Teeth,False,0,False,0
+1352,medium_25,Neck,False,0,False,0
+1353,medium_25,Pipe / Tube,False,0,False,0
+1354,medium_25,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1355,medium_25,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1356,medium_25,Rib,False,0,False,0
+1357,medium_25,Gusset,False,0,False,0
+1358,medium_25,Draft,False,0,False,0
+1359,medium_25,Sheet Metal Features,False,0,False,0
+1360,medium_26,Hole (Through / Blind Hole),True,19,True,2
+1361,medium_26,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1362,medium_26,Step (Through / Blind Step),False,0,False,0
+1363,medium_26,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1364,medium_26,Chamfer / Bevel (Sharp Edge),False,0,False,0
+1365,medium_26,Fillet / Round (Concave / Convex),False,0,True,1
+1366,medium_26,Threaded Feature,False,0,False,0
+1367,medium_26,Gear Teeth,False,0,False,0
+1368,medium_26,Neck,False,0,False,0
+1369,medium_26,Pipe / Tube,False,0,False,0
+1370,medium_26,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1371,medium_26,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1372,medium_26,Rib,False,0,False,0
+1373,medium_26,Gusset,False,0,False,0
+1374,medium_26,Draft,False,0,False,0
+1375,medium_26,Sheet Metal Features,False,0,False,0
+1376,medium_27,Hole (Through / Blind Hole),True,3,True,2
+1377,medium_27,Slot (Through / Blind / T-Slot / Dovetail),True,1,False,0
+1378,medium_27,Step (Through / Blind Step),False,0,False,0
+1379,medium_27,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1380,medium_27,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1381,medium_27,Fillet / Round (Concave / Convex),False,0,False,0
+1382,medium_27,Threaded Feature,False,0,False,0
+1383,medium_27,Gear Teeth,False,0,False,0
+1384,medium_27,Neck,False,0,False,0
+1385,medium_27,Pipe / Tube,False,0,False,0
+1386,medium_27,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1387,medium_27,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1388,medium_27,Rib,False,0,False,0
+1389,medium_27,Gusset,False,0,False,0
+1390,medium_27,Draft,False,0,False,0
+1391,medium_27,Sheet Metal Features,False,0,False,0
+1392,medium_28,Hole (Through / Blind Hole),True,3,True,2
+1393,medium_28,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1394,medium_28,Step (Through / Blind Step),False,0,False,0
+1395,medium_28,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1396,medium_28,Chamfer / Bevel (Sharp Edge),False,0,False,0
+1397,medium_28,Fillet / Round (Concave / Convex),True,1,True,1
+1398,medium_28,Threaded Feature,False,0,False,0
+1399,medium_28,Gear Teeth,False,0,False,0
+1400,medium_28,Neck,False,0,False,0
+1401,medium_28,Pipe / Tube,False,0,False,0
+1402,medium_28,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1403,medium_28,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1404,medium_28,Rib,False,0,False,0
+1405,medium_28,Gusset,False,0,False,0
+1406,medium_28,Draft,False,0,False,0
+1407,medium_28,Sheet Metal Features,False,0,False,0
+1408,medium_29,Hole (Through / Blind Hole),True,2,True,2
+1409,medium_29,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+1410,medium_29,Step (Through / Blind Step),False,0,False,0
+1411,medium_29,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1412,medium_29,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1413,medium_29,Fillet / Round (Concave / Convex),False,0,True,1
+1414,medium_29,Threaded Feature,False,0,True,1
+1415,medium_29,Gear Teeth,False,0,True,1
+1416,medium_29,Neck,False,0,True,1
+1417,medium_29,Pipe / Tube,False,0,True,1
+1418,medium_29,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,2,True,1
+1419,medium_29,"Freeform Features (Depression, Protrusion)",False,0,True,1
+1420,medium_29,Rib,False,0,True,1
+1421,medium_29,Gusset,False,0,True,1
+1422,medium_29,Draft,False,0,True,1
+1423,medium_29,Sheet Metal Features,False,0,True,1
+1424,medium_3,Hole (Through / Blind Hole),True,1,True,2
+1425,medium_3,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1426,medium_3,Step (Through / Blind Step),False,0,False,0
+1427,medium_3,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1428,medium_3,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1429,medium_3,Fillet / Round (Concave / Convex),True,2,True,1
+1430,medium_3,Threaded Feature,True,1,False,0
+1431,medium_3,Gear Teeth,False,0,False,0
+1432,medium_3,Neck,False,0,False,0
+1433,medium_3,Pipe / Tube,False,0,False,0
+1434,medium_3,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+1435,medium_3,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1436,medium_3,Rib,False,0,False,0
+1437,medium_3,Gusset,False,0,False,0
+1438,medium_3,Draft,False,0,False,0
+1439,medium_3,Sheet Metal Features,False,0,False,0
+1440,medium_30,Hole (Through / Blind Hole),False,0,False,0
+1441,medium_30,Slot (Through / Blind / T-Slot / Dovetail),True,2,False,0
+1442,medium_30,Step (Through / Blind Step),False,0,False,0
+1443,medium_30,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1444,medium_30,Chamfer / Bevel (Sharp Edge),True,1,False,0
+1445,medium_30,Fillet / Round (Concave / Convex),False,0,False,0
+1446,medium_30,Threaded Feature,False,0,False,0
+1447,medium_30,Gear Teeth,False,0,False,0
+1448,medium_30,Neck,False,0,False,0
+1449,medium_30,Pipe / Tube,False,0,False,0
+1450,medium_30,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,3
+1451,medium_30,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1452,medium_30,Rib,False,0,False,0
+1453,medium_30,Gusset,False,0,False,0
+1454,medium_30,Draft,False,0,False,0
+1455,medium_30,Sheet Metal Features,False,0,False,0
+1456,medium_31,Hole (Through / Blind Hole),True,2,False,0
+1457,medium_31,Slot (Through / Blind / T-Slot / Dovetail),True,1,False,0
+1458,medium_31,Step (Through / Blind Step),False,0,False,0
+1459,medium_31,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1460,medium_31,Chamfer / Bevel (Sharp Edge),False,0,False,0
+1461,medium_31,Fillet / Round (Concave / Convex),False,0,False,0
+1462,medium_31,Threaded Feature,False,0,False,0
+1463,medium_31,Gear Teeth,False,0,False,0
+1464,medium_31,Neck,False,0,False,0
+1465,medium_31,Pipe / Tube,False,0,True,1
+1466,medium_31,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+1467,medium_31,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1468,medium_31,Rib,False,0,False,0
+1469,medium_31,Gusset,False,0,False,0
+1470,medium_31,Draft,False,0,False,0
+1471,medium_31,Sheet Metal Features,False,0,False,0
+1472,medium_32,Hole (Through / Blind Hole),True,4,True,2
+1473,medium_32,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1474,medium_32,Step (Through / Blind Step),False,0,False,0
+1475,medium_32,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1476,medium_32,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1477,medium_32,Fillet / Round (Concave / Convex),True,1,False,0
+1478,medium_32,Threaded Feature,True,2,False,0
+1479,medium_32,Gear Teeth,False,0,False,0
+1480,medium_32,Neck,False,0,False,0
+1481,medium_32,Pipe / Tube,False,0,False,0
+1482,medium_32,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1483,medium_32,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1484,medium_32,Rib,False,0,False,0
+1485,medium_32,Gusset,False,0,False,0
+1486,medium_32,Draft,False,0,False,0
+1487,medium_32,Sheet Metal Features,False,0,False,0
+1488,medium_33,Hole (Through / Blind Hole),True,5,True,2
+1489,medium_33,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1490,medium_33,Step (Through / Blind Step),False,0,False,0
+1491,medium_33,Pocket (Blind / Through / Circular End Pocket),False,0,False,0
+1492,medium_33,Chamfer / Bevel (Sharp Edge),False,0,False,0
+1493,medium_33,Fillet / Round (Concave / Convex),False,0,True,1
+1494,medium_33,Threaded Feature,False,0,False,0
+1495,medium_33,Gear Teeth,False,0,False,0
+1496,medium_33,Neck,False,0,False,0
+1497,medium_33,Pipe / Tube,True,1,False,0
+1498,medium_33,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1499,medium_33,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1500,medium_33,Rib,False,0,False,0
+1501,medium_33,Gusset,False,0,False,0
+1502,medium_33,Draft,False,0,False,0
+1503,medium_33,Sheet Metal Features,False,0,False,0
+1504,medium_4,Hole (Through / Blind Hole),True,1,True,2
+1505,medium_4,Slot (Through / Blind / T-Slot / Dovetail),True,4,True,1
+1506,medium_4,Step (Through / Blind Step),False,0,False,0
+1507,medium_4,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1508,medium_4,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1509,medium_4,Fillet / Round (Concave / Convex),False,0,True,1
+1510,medium_4,Threaded Feature,False,0,False,0
+1511,medium_4,Gear Teeth,False,0,False,0
+1512,medium_4,Neck,False,0,False,0
+1513,medium_4,Pipe / Tube,False,0,False,0
+1514,medium_4,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1515,medium_4,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1516,medium_4,Rib,False,0,False,0
+1517,medium_4,Gusset,False,0,False,0
+1518,medium_4,Draft,False,0,False,0
+1519,medium_4,Sheet Metal Features,False,0,False,0
+1520,medium_5,Hole (Through / Blind Hole),False,0,True,2
+1521,medium_5,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+1522,medium_5,Step (Through / Blind Step),True,1,True,1
+1523,medium_5,Pocket (Blind / Through / Circular End Pocket),True,2,True,1
+1524,medium_5,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1525,medium_5,Fillet / Round (Concave / Convex),False,0,True,1
+1526,medium_5,Threaded Feature,False,0,False,0
+1527,medium_5,Gear Teeth,False,0,False,0
+1528,medium_5,Neck,False,0,False,0
+1529,medium_5,Pipe / Tube,False,0,False,0
+1530,medium_5,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,2,False,0
+1531,medium_5,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1532,medium_5,Rib,False,0,False,0
+1533,medium_5,Gusset,False,0,False,0
+1534,medium_5,Draft,False,0,False,0
+1535,medium_5,Sheet Metal Features,False,0,False,0
+1536,medium_6,Hole (Through / Blind Hole),False,0,False,0
+1537,medium_6,Slot (Through / Blind / T-Slot / Dovetail),True,1,True,1
+1538,medium_6,Step (Through / Blind Step),True,1,False,0
+1539,medium_6,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+1540,medium_6,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1541,medium_6,Fillet / Round (Concave / Convex),False,0,True,1
+1542,medium_6,Threaded Feature,False,0,False,0
+1543,medium_6,Gear Teeth,False,0,False,0
+1544,medium_6,Neck,False,0,False,0
+1545,medium_6,Pipe / Tube,False,0,False,0
+1546,medium_6,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1547,medium_6,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1548,medium_6,Rib,False,0,False,0
+1549,medium_6,Gusset,False,0,False,0
+1550,medium_6,Draft,False,0,False,0
+1551,medium_6,Sheet Metal Features,False,0,False,0
+1552,medium_7,Hole (Through / Blind Hole),True,1,True,2
+1553,medium_7,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+1554,medium_7,Step (Through / Blind Step),True,2,True,1
+1555,medium_7,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+1556,medium_7,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1557,medium_7,Fillet / Round (Concave / Convex),False,0,True,1
+1558,medium_7,Threaded Feature,False,0,False,0
+1559,medium_7,Gear Teeth,False,0,False,0
+1560,medium_7,Neck,False,0,True,1
+1561,medium_7,Pipe / Tube,False,0,False,0
+1562,medium_7,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,False,0
+1563,medium_7,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1564,medium_7,Rib,False,0,False,0
+1565,medium_7,Gusset,False,0,False,0
+1566,medium_7,Draft,False,0,False,0
+1567,medium_7,Sheet Metal Features,False,0,False,0
+1568,medium_8,Hole (Through / Blind Hole),True,2,True,2
+1569,medium_8,Slot (Through / Blind / T-Slot / Dovetail),False,0,True,1
+1570,medium_8,Step (Through / Blind Step),True,2,True,1
+1571,medium_8,Pocket (Blind / Through / Circular End Pocket),True,1,True,1
+1572,medium_8,Chamfer / Bevel (Sharp Edge),False,0,True,1
+1573,medium_8,Fillet / Round (Concave / Convex),False,0,True,1
+1574,medium_8,Threaded Feature,False,0,False,0
+1575,medium_8,Gear Teeth,False,0,False,0
+1576,medium_8,Neck,False,0,False,0
+1577,medium_8,Pipe / Tube,False,0,False,0
+1578,medium_8,"Boss (Circular / Obround / Irregular / Rectangular, etc)",True,1,False,0
+1579,medium_8,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1580,medium_8,Rib,False,0,False,0
+1581,medium_8,Gusset,False,0,False,0
+1582,medium_8,Draft,False,0,False,0
+1583,medium_8,Sheet Metal Features,False,0,False,0
+1584,medium_9,Hole (Through / Blind Hole),False,0,False,0
+1585,medium_9,Slot (Through / Blind / T-Slot / Dovetail),False,0,False,0
+1586,medium_9,Step (Through / Blind Step),False,0,False,0
+1587,medium_9,Pocket (Blind / Through / Circular End Pocket),False,0,True,1
+1588,medium_9,Chamfer / Bevel (Sharp Edge),True,2,False,0
+1589,medium_9,Fillet / Round (Concave / Convex),True,1,True,1
+1590,medium_9,Threaded Feature,False,0,False,0
+1591,medium_9,Gear Teeth,False,0,False,0
+1592,medium_9,Neck,False,0,False,0
+1593,medium_9,Pipe / Tube,False,0,False,0
+1594,medium_9,"Boss (Circular / Obround / Irregular / Rectangular, etc)",False,0,True,1
+1595,medium_9,"Freeform Features (Depression, Protrusion)",False,0,False,0
+1596,medium_9,Rib,False,0,False,0
+1597,medium_9,Gusset,True,1,False,0
+1598,medium_9,Draft,False,0,False,0
+1599,medium_9,Sheet Metal Features,False,0,False,0

@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Rounded corners are present where the vertical and horizontal segments meet."
+    }
+  ]
+}

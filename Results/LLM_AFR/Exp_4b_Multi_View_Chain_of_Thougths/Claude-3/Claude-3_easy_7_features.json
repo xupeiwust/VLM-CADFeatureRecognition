@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A through slot is clearly visible running along the length of the block."
+    }
+  ]
+}

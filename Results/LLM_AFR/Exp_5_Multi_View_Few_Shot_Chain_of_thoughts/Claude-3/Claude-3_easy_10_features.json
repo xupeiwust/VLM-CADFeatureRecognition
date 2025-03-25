@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two square holes are visible on the front face of the object, likely for mounting or assembly purposes."
+    }
+  ]
+}

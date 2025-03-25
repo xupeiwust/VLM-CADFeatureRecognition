@@ -1,0 +1,17 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.32,0.5428571428571428,0.2857142857142857,0.8,0.42857142857142855,0.3076923076923077,0.22727272727272727,0.5833333333333334,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Chamfer / Bevel (Sharp Edge),0.5833333333333334,0.9090909090909091,0.3333333333333333,0.9130434782608695,0.8333333333333334,0.8076923076923077,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Draft,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Fillet / Round (Concave / Convex),0.009345794392523364,0.5,0.0,0.0,0.03571428571428571,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Gear Teeth,0.25,0.5,0.0,0.0,0.0,0.0,0.5,0.5,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Gusset,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Hole (Through / Blind Hole),0.2156398104265403,0.13333333333333333,0.41304347826086957,0.36666666666666664,0.33613445378151263,0.06976744186046512,0.1245136186770428,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Neck,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Pipe / Tube,0.23076923076923078,0.5,0.0,1.0,0.3333333333333333,0.5,0.2,0.3333333333333333,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.1,0.5454545454545454,0.0,0.0,0.2631578947368421,0.2857142857142857,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Rib,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Sheet Metal Features,0.125,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.25882352941176473,0.40540540540540543,0.3125,0.375,0.2692307692307692,0.2222222222222222,0.23255813953488372,0.5,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Step (Through / Blind Step),0.25,0.4,0.3333333333333333,0.6666666666666666,0.2727272727272727,0.4,0.2,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Threaded Feature,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts

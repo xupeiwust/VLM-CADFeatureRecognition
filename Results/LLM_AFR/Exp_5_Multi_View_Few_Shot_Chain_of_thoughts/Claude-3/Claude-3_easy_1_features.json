@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two circular holes are visible, one on each end of the rectangular prism shape."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 12,
+      "reasoning": "All 12 edges of the rectangular prism shape have convex rounded fillets."
+    }
+  ]
+}

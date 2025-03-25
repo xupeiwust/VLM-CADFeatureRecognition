@@ -1,0 +1,18 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.48148148148148145,0.4090909090909091,1.0,0.5,0.5,0.1,0.375,0.7,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.3,0.0,0.6,0.0,0.0,0.0,0.0,0.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.3064516129032258,0.23636363636363636,0.8571428571428571,0.3,0.5909090909090909,0.1111111111111111,0.2,0.2962962962962963,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Gear Teeth,0.5,0.0,1.0,0.0,0.0,0.0,0.0,0.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Gusset,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.3829787234042553,0.057692307692307696,0.875,0.125,0.75,0.06382978723404255,0.23976608187134502,0.04081632653061224,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Neck,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Pad,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Pipe / Tube,0.2727272727272727,0.5,0.0,0.0,0.0,1.0,0.3333333333333333,0.25,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.41025641025641024,0.058823529411764705,0.5,0.0,0.2857142857142857,0.14285714285714285,1.0,0.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Rib,1.0,0.8,0.0,0.0,0.0,0.0,1.0,0.8,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.5,0.0,0.0,0.0,0.5,0.0,0.5,0.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.6666666666666666,0.3333333333333333,0.6666666666666666,0.5555555555555556,0.6842105263157895,0.07142857142857142,0.5,0.75,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.75,0.4,0.5,0.6666666666666666,0.8,0.2,0.0,1.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Thread,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,GPT-4o,Exp_5_MultiView_Few_Shot_Chain_of_thoughts

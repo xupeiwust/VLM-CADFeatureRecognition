@@ -1,0 +1,16 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.7850467289719626,0.2529411764705882,1.0,0.375,0.6071428571428571,0.54,0.8208955223880597,0.07291666666666667,Claude-3,Exp_4a_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.5355450236966824,0.06007067137809187,0.8695652173913043,0.15873015873015872,0.7058823529411765,0.06862745098039216,0.3968871595330739,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Step (Through / Blind Step),0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot

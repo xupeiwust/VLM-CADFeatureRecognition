@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "The model has two rounded ends, likely created using fillet features."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The overall shape resembles a pipe or tube with a hollow interior."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The model has rounded edges, indicating the presence of fillets."
+    }
+  ]
+}

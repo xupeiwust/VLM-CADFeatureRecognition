@@ -1,0 +1,19 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 2
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Neck",
+      "exists": true,
+      "quantity": 1
+    }
+  ]
+}

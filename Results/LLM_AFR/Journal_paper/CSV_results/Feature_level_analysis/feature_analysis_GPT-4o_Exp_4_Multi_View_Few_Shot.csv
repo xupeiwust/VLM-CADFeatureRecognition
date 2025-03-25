@@ -1,0 +1,17 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.5185185185185185,0.125,1.0,0.5,0.6111111111111112,0.0,0.25,0.3333333333333333,GPT-4o,Exp_4_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.3,0.0,0.6,0.0,0.0,0.0,0.0,0.0,GPT-4o,Exp_4_Multi_View_Few_Shot
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GPT-4o,Exp_4_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.22580645161290322,0.3829787234042553,0.8571428571428571,0.3,0.2727272727272727,0.3333333333333333,0.16842105263157894,0.42857142857142855,GPT-4o,Exp_4_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,GPT-4o,Exp_4_Multi_View_Few_Shot
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,GPT-4o,Exp_4_Multi_View_Few_Shot
+Gusset,1.0,0.0,0.0,0.0,0.0,0.0,1.0,0.0,GPT-4o,Exp_4_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.37446808510638296,0.0594059405940594,0.875,0.2222222222222222,0.75,0.044444444444444446,0.22807017543859648,0.0425531914893617,GPT-4o,Exp_4_Multi_View_Few_Shot
+Neck,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,GPT-4o,Exp_4_Multi_View_Few_Shot
+Pipe / Tube,0.36363636363636365,0.375,0.0,0.0,0.5,0.6666666666666666,0.3333333333333333,0.2,GPT-4o,Exp_4_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.38461538461538464,0.0,0.4375,0.0,0.2857142857142857,0.0,1.0,0.0,GPT-4o,Exp_4_Multi_View_Few_Shot
+Rib,1.0,0.8,0.0,0.0,0.0,0.0,1.0,0.8,GPT-4o,Exp_4_Multi_View_Few_Shot
+Sheet Metal Features,0.5,0.0,0.0,0.0,0.5,0.0,0.5,0.0,GPT-4o,Exp_4_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.6296296296296297,0.2916666666666667,0.6666666666666666,0.5555555555555556,0.631578947368421,0.07692307692307693,0.5,0.5,GPT-4o,Exp_4_Multi_View_Few_Shot
+Step (Through / Blind Step),0.5,0.4,0.5,0.6666666666666666,0.5,0.2857142857142857,0.0,0.0,GPT-4o,Exp_4_Multi_View_Few_Shot
+Thread,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,GPT-4o,Exp_4_Multi_View_Few_Shot

@@ -1,0 +1,12 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "quantity": 1
+    }
+  ]
+}

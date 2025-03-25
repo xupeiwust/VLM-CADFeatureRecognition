@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two holes are visible, likely through holes based on the consistent shading inside the holes from multiple angles."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The edges of the part have a smooth, rounded contour indicating the presence of fillets or rounds."
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The interior of one hole shows helical lines characteristic of threads."
+    }
+  ]
+}

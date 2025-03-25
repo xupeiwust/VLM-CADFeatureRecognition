@@ -1,0 +1,16 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.08,0.2222222222222222,0.0,0.0,0.09523809523809523,0.0,0.09090909090909091,0.2857142857142857,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.9058823529411765,0.5,0.9,0.8333333333333334,0.8148148148148148,0.0,1.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Hole (Through / Blind Hole),0.33649289099526064,0.11585365853658537,0.6956521739130435,0.26666666666666666,0.40336134453781514,0.12280701754385964,0.24124513618677043,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.011764705882352941,0.0,0.0,0.0,0.0,0.0,0.023255813953488372,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Step (Through / Blind Step),0.041666666666666664,0.8333333333333334,0.3333333333333333,0.6666666666666666,0.0,1.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Threaded Feature,0.2222222222222222,0.0,0.0,0.0,0.5,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts

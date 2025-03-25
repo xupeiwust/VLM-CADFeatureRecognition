@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A rounded corner is visible on the front face of the model, indicating a fillet feature."
+    }
+  ]
+}

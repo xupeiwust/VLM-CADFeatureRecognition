@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two step features are present, forming the smaller diameter sections of the cylinder."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Rounded fillets are used to transition between the different cylinder diameters."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 6,
+      "reasoning": "The image shows multiple circular holes or cutouts on the surface of the object, likely through holes based on their appearance."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The entire outer contour of the object has a rounded, convex shape, suggesting a single large fillet or round feature."
+    }
+  ]
+}

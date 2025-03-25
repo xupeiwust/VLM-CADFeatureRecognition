@@ -1,0 +1,20 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "quantity": 6
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "quantity": 2
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "quantity": 1
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "quantity": 4
+    }
+  ]
+}

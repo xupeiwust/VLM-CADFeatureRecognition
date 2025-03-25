@@ -1,0 +1,19 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 20
+    }
+  ]
+}

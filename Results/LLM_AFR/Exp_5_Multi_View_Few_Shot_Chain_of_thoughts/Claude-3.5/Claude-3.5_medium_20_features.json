@@ -1,0 +1,40 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Multiple circular openings visible on the surface, indicating through or blind holes."
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Elongated opening visible on one side, characteristic of a slot feature."
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Visible change in surface level on one side, indicating a step feature."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Angled edge visible on top surface, indicating a chamfer or bevel."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "Cylindrical protrusions visible, which could be interpreted as pipes or tubes."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "One raised hexagonal feature visible on the top surface, indicating a boss."
+    }
+  ]
+}

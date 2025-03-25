@@ -1,0 +1,18 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.37037037037037035,0.23076923076923078,1.0,0.0,0.3333333333333333,0.14285714285714285,0.375,0.4,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.2,0.9090909090909091,0.0,1.0,0.5,0.6,0.0,1.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.3225806451612903,0.3125,1.0,0.38461538461538464,0.36363636363636365,0.47619047619047616,0.2631578947368421,0.16666666666666666,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Gear Teeth,0.5,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.8638297872340426,0.10548523206751055,1.0,0.6666666666666666,0.875,0.08333333333333333,0.8538011695906432,0.026143790849673203,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Pad,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Pipe / Tube,0.6363636363636364,0.4375,0.0,0.0,1.0,0.5,0.5555555555555556,0.375,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.20512820512820512,0.1,0.0625,0.0,0.23809523809523808,0.14285714285714285,1.0,0.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Rib,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.3333333333333333,0.0,0.0,0.0,0.5,0.0,0.25,0.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.4444444444444444,0.35,0.3333333333333333,0.0,0.5263157894736842,0.21428571428571427,0.0,1.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.6666666666666666,0.6363636363636364,1.0,0.6,0.6,0.4,0.0,1.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts
+Thread,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3.5,Exp_5_MultiView_Few_Shot_Chain_of_thoughts

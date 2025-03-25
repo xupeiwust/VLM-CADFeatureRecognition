@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 12,
+      "reasoning": "The CAD model clearly shows 12 gear teeth around the outer edge."
+    }
+  ]
+}

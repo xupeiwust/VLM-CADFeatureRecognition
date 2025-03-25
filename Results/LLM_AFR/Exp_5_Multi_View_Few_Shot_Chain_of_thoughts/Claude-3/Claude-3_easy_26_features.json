@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two circular holes are visible on the front face of the part, likely through holes based on the view angles provided."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Rounded corners can be seen on the ends of the part, likely indicating the presence of fillet features. Based on symmetry, estimating 4 total fillets."
+    }
+  ]
+}

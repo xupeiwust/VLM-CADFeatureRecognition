@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "There are four small through holes on the front face, likely for ventilation or mounting components."
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two sets of gear teeth patterns are cut out of the front face."
+    }
+  ]
+}

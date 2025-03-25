@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A central circular opening is visible, indicating a through hole in the gear-like structure."
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The outer circumference shows distinct gear-like teeth, forming a single gear feature."
+    }
+  ]
+}

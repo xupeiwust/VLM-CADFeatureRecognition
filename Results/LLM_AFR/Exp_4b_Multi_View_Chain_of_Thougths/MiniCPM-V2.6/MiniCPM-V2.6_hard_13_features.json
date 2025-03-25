@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The outer edge of the component displays a series of teeth, indicative of gear teeth."
+    }
+  ]
+}

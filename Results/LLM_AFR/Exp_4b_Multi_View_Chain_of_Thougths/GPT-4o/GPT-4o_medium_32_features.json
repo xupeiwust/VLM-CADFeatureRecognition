@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Observed four holes on the vertical and horizontal surfaces."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed a fillet at the intersection of the vertical and horizontal surfaces."
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Observed two threaded holes on the vertical surface."
+    }
+  ]
+}

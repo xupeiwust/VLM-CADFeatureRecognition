@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Observed one through slot on the surface."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Noticed chamfers on two edges of the part."
+    }
+  ]
+}

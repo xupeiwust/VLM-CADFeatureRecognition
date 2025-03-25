@@ -1,0 +1,14 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Slot (Through / Blind)",
+      "exists": true,
+      "quantity": 2
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 1
+    }
+  ]
+}

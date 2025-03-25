@@ -1,0 +1,94 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Observed two through holes on the top surface."
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed a slot on the side of the object."
+    },
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Identified a circular pocket on the bottom surface."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed a chamfer on the edge of the base."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Identified a fillet on the corner of the object."
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed a threaded feature on the side of the object."
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Identified gear teeth on the side of the object."
+    },
+    {
+      "feature_name": "Neck",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed a neck on the top surface of the object."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Identified a pipe on the side of the object."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Identified a boss on the top surface of the object."
+    },
+    {
+      "feature_name": "Freeform Features (Depression, Protrusion)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed a depression on the side of the object."
+    },
+    {
+      "feature_name": "Rib",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Identified a rib on the side of the object."
+    },
+    {
+      "feature_name": "Gusset",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Identified a gusset on the side of the object."
+    },
+    {
+      "feature_name": "Draft",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed a draft on the side of the object."
+    },
+    {
+      "feature_name": "Sheet Metal Features",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Identified a sheet metal feature on the side of the object."
+    }
+  ]
+}

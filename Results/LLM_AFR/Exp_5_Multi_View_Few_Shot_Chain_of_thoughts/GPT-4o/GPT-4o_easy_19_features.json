@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Neck",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The model has a narrower cylindrical section on top, indicating a neck feature."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The model has a circular boss at the base of the neck."
+    }
+  ]
+}

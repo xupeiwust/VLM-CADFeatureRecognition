@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A through slot is visible on the left side of the block."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A circular boss is visible protruding from the block."
+    }
+  ]
+}

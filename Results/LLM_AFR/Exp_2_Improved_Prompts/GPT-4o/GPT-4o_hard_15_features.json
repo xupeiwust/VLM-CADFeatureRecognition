@@ -1,0 +1,14 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Neck",
+      "exists": true,
+      "quantity": 1
+    }
+  ]
+}

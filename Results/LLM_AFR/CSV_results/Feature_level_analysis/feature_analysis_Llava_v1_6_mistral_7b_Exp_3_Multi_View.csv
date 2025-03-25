@@ -1,0 +1,16 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.52,0.5866666666666667,0.5714285714285714,0.75,0.5714285714285714,0.3684210526315789,0.45454545454545453,0.5416666666666666,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Chamfer / Bevel (Sharp Edge),0.4166666666666667,0.9056603773584906,0.16666666666666666,0.9230769230769231,0.6666666666666666,0.7777777777777778,0.0,1.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Draft,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Gear Teeth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Hole (Through / Blind Hole),0.32701421800947866,0.19387755102040816,0.6739130434782609,0.3939393939393939,0.37815126050420167,0.1875,0.24124513618677043,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Neck,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Pocket (Blind / Through / Circular End Pocket),0.46,0.6101694915254238,0.47368421052631576,0.5,0.5789473684210527,0.45,0.25,0.8571428571428571,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Slot (Through / Blind / T-Slot / Dovetail),0.29411764705882354,0.5283018867924528,0.4375,0.5333333333333333,0.34615384615384615,0.47058823529411764,0.20930232558139536,0.5714285714285714,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Step (Through / Blind Step),0.5833333333333334,0.7307692307692307,0.6666666666666666,0.8666666666666667,0.6363636363636364,0.5882352941176471,0.5,0.75,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Threaded Feature,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View

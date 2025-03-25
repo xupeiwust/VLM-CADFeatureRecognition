@@ -1,0 +1,16 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Chamfer / Bevel (Sharp Edge),0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Claude-3,Exp_2_Improved_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Fillet / Round (Concave / Convex),0.5420560747663551,0.2727272727272727,0.8333333333333334,0.4444444444444444,0.2857142857142857,0.625,0.5970149253731343,0.07017543859649122,Claude-3,Exp_2_Improved_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Gear Teeth,1.0,0.11363636363636363,1.0,0.0,0.0,0.0,1.0,0.14084507042253522,Claude-3,Exp_2_Improved_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Hole (Through / Blind Hole),0.38388625592417064,0.027624309392265192,0.6304347826086957,0.075,0.5798319327731093,0.02631578947368421,0.2490272373540856,0.0,Claude-3,Exp_2_Improved_Prompts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3,Exp_2_Improved_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.16,0.42857142857142855,0.10526315789473684,0.0,0.3157894736842105,0.25,0.0,1.0,Claude-3,Exp_2_Improved_Prompts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.03529411764705882,0.4,0.0625,0.5,0.038461538461538464,0.0,0.023255813953488372,0.5,Claude-3,Exp_2_Improved_Prompts
+Step (Through / Blind Step),0.3333333333333333,0.75,1.0,0.8333333333333334,0.36363636363636365,0.5,0.1,0.8333333333333334,Claude-3,Exp_2_Improved_Prompts
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts

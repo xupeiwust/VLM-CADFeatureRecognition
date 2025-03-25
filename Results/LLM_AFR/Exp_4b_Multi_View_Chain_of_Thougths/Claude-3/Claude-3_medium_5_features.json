@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two chamfers are visible on the top edges of the part."
+    }
+  ]
+}

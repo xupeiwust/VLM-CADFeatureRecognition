@@ -1,0 +1,9 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 4
+    }
+  ]
+}

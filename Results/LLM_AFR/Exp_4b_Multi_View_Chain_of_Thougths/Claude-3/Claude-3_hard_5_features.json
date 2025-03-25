@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 8,
+      "reasoning": "Rounded corners are visible on the ends of the rectangular prism shape, likely for ease of handling."
+    }
+  ]
+}

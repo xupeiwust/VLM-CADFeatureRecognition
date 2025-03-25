@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Both ends of the cylinder have convex rounded edges, likely from a fillet operation."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two elongated openings visible on the face, resembling through slots."
+    }
+  ]
+}

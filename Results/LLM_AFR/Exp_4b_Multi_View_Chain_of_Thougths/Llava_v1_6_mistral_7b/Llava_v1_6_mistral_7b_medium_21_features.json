@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Identified a circular pocket with a through hole on the top surface."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Noticed a concave fillet on the edge of the base."
+    }
+  ]
+}

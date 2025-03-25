@@ -1,0 +1,69 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Pocket",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Boss",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Chamfer",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Step",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Neck",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Pipe",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Freeform Feature",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Rib",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Gusset",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Draft",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Sheet Metal Features",
+      "exists": true,
+      "quantity": 1
+    }
+  ]
+}

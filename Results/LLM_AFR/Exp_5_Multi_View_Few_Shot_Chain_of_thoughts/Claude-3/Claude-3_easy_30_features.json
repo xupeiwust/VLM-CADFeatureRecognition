@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 3,
+      "reasoning": "The part has 3 rounded corners, likely created using fillet features."
+    }
+  ]
+}

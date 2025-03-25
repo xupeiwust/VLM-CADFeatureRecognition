@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two cylindrical features are visible, one extending through the part and another partially embedded."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A rounded transition is visible where the cylindrical feature meets the main body."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two cylindrical bosses are visible, one extending through and another partially embedded in the main body."
+    }
+  ]
+}

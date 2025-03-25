@@ -1,0 +1,14 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 2
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp)",
+      "exists": true,
+      "quantity": 1
+    }
+  ]
+}

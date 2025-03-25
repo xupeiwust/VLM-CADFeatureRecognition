@@ -1,0 +1,553 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.48,0.14285714285714285,1.0,0.125,0.19047619047619047,0.2,0.5909090909090909,0.13333333333333333,GPT-4o,Exp_1_Basic_Prompts
+Chamfer / Bevel (Sharp Edge),0.4166666666666667,0.4444444444444444,0.5,0.0,0.3333333333333333,0.5,0.0,1.0,GPT-4o,Exp_1_Basic_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GPT-4o,Exp_1_Basic_Prompts
+Fillet / Round (Concave / Convex),0.5700934579439252,0.12987012987012986,1.0,0.23529411764705882,0.39285714285714285,0.14285714285714285,0.5671641791044776,0.08695652173913043,GPT-4o,Exp_1_Basic_Prompts
+"Freeform Features (Depression, Protrusion)",0.5,0.5555555555555556,1.0,0.0,0.0,1.0,0.4,0.6666666666666666,GPT-4o,Exp_1_Basic_Prompts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,GPT-4o,Exp_1_Basic_Prompts
+Gusset,0.25,0.0,0.0,0.0,0.0,0.0,0.2727272727272727,0.0,GPT-4o,Exp_1_Basic_Prompts
+Hole (Through / Blind Hole),0.556872037914692,0.012345679012345678,0.8695652173913043,0.023255813953488372,0.7478991596638656,0.021739130434782608,0.41245136186770426,0.0,GPT-4o,Exp_1_Basic_Prompts
+Neck,1.0,0.6666666666666666,1.0,0.0,0.0,0.0,0.0,1.0,GPT-4o,Exp_1_Basic_Prompts
+Pipe / Tube,0.46153846153846156,0.25,0.0,0.0,0.3333333333333333,0.5,0.5,0.16666666666666666,GPT-4o,Exp_1_Basic_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.28,0.2857142857142857,0.3684210526315789,0.125,0.3684210526315789,0.2,0.0,1.0,GPT-4o,Exp_1_Basic_Prompts
+Rib,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,GPT-4o,Exp_1_Basic_Prompts
+Sheet Metal Features,0.375,0.0,0.0,0.0,0.5,0.0,0.3333333333333333,0.0,GPT-4o,Exp_1_Basic_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.611764705882353,0.22388059701492538,0.5625,0.18181818181818182,0.6923076923076923,0.05263157894736842,0.5813953488372093,0.32432432432432434,GPT-4o,Exp_1_Basic_Prompts
+Step (Through / Blind Step),0.4166666666666667,0.4444444444444444,0.6666666666666666,0.5,0.5454545454545454,0.45454545454545453,0.2,0.3333333333333333,GPT-4o,Exp_1_Basic_Prompts
+Threaded Feature,0.5555555555555556,0.0,0.5,0.0,0.75,0.0,0.3333333333333333,0.0,GPT-4o,Exp_1_Basic_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.44,0.15384615384615385,1.0,0.125,0.19047619047619047,0.2,0.5,0.15384615384615385,GPT-4o,Exp_2_Improved_Prompts
+Chamfer / Bevel (Sharp Edge),0.5,0.0,0.5,0.0,0.5,0.0,0.0,0.0,GPT-4o,Exp_2_Improved_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GPT-4o,Exp_2_Improved_Prompts
+Fillet / Round (Concave / Convex),0.6728971962616822,0.13333333333333333,0.9166666666666666,0.25,0.5714285714285714,0.10526315789473684,0.6716417910447762,0.10909090909090909,GPT-4o,Exp_2_Improved_Prompts
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.8333333333333334,1.0,0.3333333333333333,0.0,1.0,0.0,1.0,GPT-4o,Exp_2_Improved_Prompts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,GPT-4o,Exp_2_Improved_Prompts
+Gusset,0.8333333333333334,0.0,0.0,0.0,0.0,0.0,0.9090909090909091,0.0,GPT-4o,Exp_2_Improved_Prompts
+Hole (Through / Blind Hole),0.54739336492891,0.008438818565400843,0.8695652173913043,0.0,0.7310924369747899,0.02247191011235955,0.4046692607003891,0.0,GPT-4o,Exp_2_Improved_Prompts
+Neck,1.0,0.6666666666666666,1.0,0.0,0.0,0.0,0.0,1.0,GPT-4o,Exp_2_Improved_Prompts
+Pipe / Tube,0.38461538461538464,0.16666666666666666,0.0,0.0,0.0,1.0,0.5,0.0,GPT-4o,Exp_2_Improved_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.32,0.15,0.2631578947368421,0.16666666666666666,0.3157894736842105,0.125,0.4166666666666667,0.16666666666666666,GPT-4o,Exp_2_Improved_Prompts
+Rib,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,GPT-4o,Exp_2_Improved_Prompts
+Sheet Metal Features,0.375,0.0,0.0,0.0,0.5,0.0,0.3333333333333333,0.0,GPT-4o,Exp_2_Improved_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.6705882352941176,0.1323529411764706,0.5625,0.3076923076923077,0.5769230769230769,0.0625,0.7674418604651163,0.10256410256410256,GPT-4o,Exp_2_Improved_Prompts
+Step (Through / Blind Step),0.4583333333333333,0.3684210526315789,0.6666666666666666,0.5,0.5454545454545454,0.3,0.3,0.4,GPT-4o,Exp_2_Improved_Prompts
+Threaded Feature,0.5555555555555556,0.0,0.5,0.0,0.75,0.0,0.3333333333333333,0.0,GPT-4o,Exp_2_Improved_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.4,0.16666666666666666,0.7142857142857143,0.16666666666666666,0.2857142857142857,0.14285714285714285,0.4090909090909091,0.18181818181818182,GPT-4o,Exp_3_Multi_View
+Chamfer / Bevel (Sharp Edge),0.4166666666666667,0.0,0.5,0.0,0.3333333333333333,0.0,0.0,0.0,GPT-4o,Exp_3_Multi_View
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GPT-4o,Exp_3_Multi_View
+Fillet / Round (Concave / Convex),0.6355140186915887,0.058823529411764705,0.9166666666666666,0.2,0.6428571428571429,0.08695652173913043,0.582089552238806,0.0,GPT-4o,Exp_3_Multi_View
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.7777777777777778,1.0,0.0,0.0,1.0,0.0,1.0,GPT-4o,Exp_3_Multi_View
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,GPT-4o,Exp_3_Multi_View
+Gusset,0.8333333333333334,0.16666666666666666,0.0,0.0,0.0,0.0,0.9090909090909091,0.16666666666666666,GPT-4o,Exp_3_Multi_View
+Hole (Through / Blind Hole),0.6279620853080569,0.01444043321299639,0.9130434782608695,0.044444444444444446,0.8319327731092437,0.018867924528301886,0.48249027237354086,0.0,GPT-4o,Exp_3_Multi_View
+Neck,1.0,0.75,1.0,0.0,0.0,1.0,0.0,1.0,GPT-4o,Exp_3_Multi_View
+Pipe / Tube,0.5384615384615384,0.2727272727272727,0.0,0.0,0.3333333333333333,0.75,0.6,0.0,GPT-4o,Exp_3_Multi_View
+Pocket (Blind / Through / Circular End Pocket),0.42,0.125,0.42105263157894735,0.2,0.3157894736842105,0.14285714285714285,0.5833333333333334,0.0,GPT-4o,Exp_3_Multi_View
+Rib,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,GPT-4o,Exp_3_Multi_View
+Sheet Metal Features,0.25,0.0,0.0,0.0,0.5,0.0,0.16666666666666666,0.0,GPT-4o,Exp_3_Multi_View
+Slot (Through / Blind / T-Slot / Dovetail),0.7647058823529411,0.1038961038961039,0.5625,0.1,0.7692307692307693,0.047619047619047616,0.8372093023255814,0.13043478260869565,GPT-4o,Exp_3_Multi_View
+Step (Through / Blind Step),0.4166666666666667,0.3125,0.6666666666666666,0.5,0.5454545454545454,0.3,0.2,0.0,GPT-4o,Exp_3_Multi_View
+Threaded Feature,0.8888888888888888,0.0,1.0,0.0,1.0,0.0,0.6666666666666666,0.0,GPT-4o,Exp_3_Multi_View
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.54,0.12903225806451613,1.0,0.125,0.47619047619047616,0.09090909090909091,0.45454545454545453,0.16666666666666666,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.3333333333333333,0.0,0.5,0.0,0.16666666666666666,0.0,0.0,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.42990654205607476,0.08333333333333333,0.9166666666666666,0.2,0.39285714285714285,0.15384615384615385,0.3582089552238806,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.5,1.0,0.0,0.0,1.0,0.0,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Gusset,0.75,0.0,0.0,0.0,0.0,0.0,0.8181818181818182,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.5710900473933649,0.016129032258064516,0.8695652173913043,0.047619047619047616,0.7899159663865546,0.020618556701030927,0.4163424124513619,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Neck,1.0,0.5,1.0,0.0,0.0,1.0,0.0,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Pipe / Tube,0.5384615384615384,0.1111111111111111,0.0,0.0,0.3333333333333333,0.5,0.6,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.3,0.21052631578947367,0.42105263157894735,0.1111111111111111,0.3157894736842105,0.14285714285714285,0.08333333333333333,0.6666666666666666,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Rib,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Sheet Metal Features,0.375,0.0,0.0,0.0,0.5,0.0,0.3333333333333333,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.7411764705882353,0.10666666666666667,0.6875,0.08333333333333333,0.6923076923076923,0.05263157894736842,0.7906976744186046,0.13636363636363635,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Step (Through / Blind Step),0.4166666666666667,0.3888888888888889,0.6666666666666666,0.5,0.5454545454545454,0.3,0.2,0.5,GPT-4o,Exp_4a_Multi_View_Few_Shot
+Threaded Feature,0.8888888888888888,0.0,1.0,0.0,1.0,0.0,0.6666666666666666,0.0,GPT-4o,Exp_4a_Multi_View_Few_Shot
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.5,0.16666666666666666,1.0,0.125,0.3333333333333333,0.125,0.5,0.21428571428571427,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Chamfer / Bevel (Sharp Edge),0.4166666666666667,0.0,0.5,0.0,0.3333333333333333,0.0,0.0,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Draft,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Fillet / Round (Concave / Convex),0.6728971962616822,0.12087912087912088,0.9166666666666666,0.25,0.7142857142857143,0.041666666666666664,0.6119402985074627,0.11764705882352941,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.8461538461538461,1.0,0.3333333333333333,0.0,1.0,0.0,1.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Gusset,0.75,0.18181818181818182,0.0,0.0,0.0,0.0,0.8181818181818182,0.18181818181818182,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Hole (Through / Blind Hole),0.6255924170616114,0.018115942028985508,0.8913043478260869,0.045454545454545456,0.8235294117647058,0.02857142857142857,0.48638132295719844,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Neck,1.0,0.5,1.0,0.0,0.0,0.0,0.0,1.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Pipe / Tube,0.38461538461538464,0.16666666666666666,0.0,0.0,0.0,1.0,0.5,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Pocket (Blind / Through / Circular End Pocket),0.34,0.10526315789473684,0.3157894736842105,0.14285714285714285,0.21052631578947367,0.2,0.5833333333333334,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Rib,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Sheet Metal Features,0.375,0.0,0.0,0.0,0.5,0.0,0.3333333333333333,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Slot (Through / Blind / T-Slot / Dovetail),0.7647058823529411,0.11538461538461539,0.5625,0.18181818181818182,0.7692307692307693,0.047619047619047616,0.8372093023255814,0.13043478260869565,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Step (Through / Blind Step),0.4583333333333333,0.3333333333333333,0.6666666666666666,0.5,0.5454545454545454,0.3,0.3,0.25,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+Threaded Feature,0.7777777777777778,0.0,1.0,0.0,0.75,0.0,0.6666666666666666,0.0,GPT-4o,Exp_4b_Multi_View_Chain_of_Thougths
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.58,0.21621621621621623,1.0,0.125,0.47619047619047616,0.09090909090909091,0.5454545454545454,0.3333333333333333,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.3333333333333333,0.0,0.5,0.0,0.16666666666666666,0.0,0.0,0.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.6261682242990654,0.07407407407407407,0.9166666666666666,0.29411764705882354,0.7142857142857143,0.041666666666666664,0.5373134328358209,0.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.6,1.0,0.0,0.0,1.0,0.0,0.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gusset,0.75,0.18181818181818182,0.0,0.0,0.0,0.0,0.8181818181818182,0.18181818181818182,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.5947867298578199,0.011583011583011582,0.8913043478260869,0.023255813953488372,0.7983193277310925,0.020202020202020204,0.4474708171206226,0.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Neck,1.0,0.75,1.0,0.0,0.0,1.0,0.0,1.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pipe / Tube,0.46153846153846156,0.14285714285714285,0.0,0.0,0.0,1.0,0.6,0.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.44,0.18518518518518517,0.47368421052631576,0.1,0.3157894736842105,0.25,0.5833333333333334,0.2222222222222222,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Rib,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.375,0.0,0.0,0.0,0.5,0.0,0.3333333333333333,0.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.6823529411764706,0.08955223880597014,0.625,0.09090909090909091,0.7692307692307693,0.045454545454545456,0.6511627906976745,0.11764705882352941,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.5833333333333334,0.3181818181818182,0.6666666666666666,0.5,0.8181818181818182,0.23076923076923078,0.3,0.4,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Threaded Feature,0.8888888888888888,0.0,1.0,0.0,1.0,0.0,0.6666666666666666,0.0,GPT-4o,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.84,0.5818181818181818,1.0,0.7419354838709677,0.8095238095238095,0.5,0.8181818181818182,0.5333333333333333,Claude-3.5,Exp_1_Basic_Prompts
+Chamfer / Bevel (Sharp Edge),0.25,0.9117647058823529,0.16666666666666666,0.8333333333333334,0.3333333333333333,0.7142857142857143,0.0,1.0,Claude-3.5,Exp_1_Basic_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Fillet / Round (Concave / Convex),0.411214953271028,0.1509433962264151,0.4166666666666667,0.25,0.2857142857142857,0.2,0.4626865671641791,0.11428571428571428,Claude-3.5,Exp_1_Basic_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Hole (Through / Blind Hole),0.7014218009478673,0.057750759878419454,0.8913043478260869,0.21428571428571427,0.8739495798319328,0.058333333333333334,0.5875486381322957,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Neck,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Claude-3.5,Exp_1_Basic_Prompts
+Pipe / Tube,0.7692307692307693,0.5833333333333334,0.0,1.0,0.6666666666666666,0.6,0.8,0.42857142857142855,Claude-3.5,Exp_1_Basic_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.22,0.2,0.2631578947368421,0.0,0.2631578947368421,0.0,0.08333333333333333,0.75,Claude-3.5,Exp_1_Basic_Prompts
+Sheet Metal Features,0.125,0.0,0.0,0.0,0.5,0.0,0.0,0.0,Claude-3.5,Exp_1_Basic_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.6941176470588235,0.13924050632911392,0.625,0.09090909090909091,0.6538461538461539,0.19047619047619047,0.7441860465116279,0.1276595744680851,Claude-3.5,Exp_1_Basic_Prompts
+Step (Through / Blind Step),0.5,0.6176470588235294,1.0,0.7272727272727273,0.2727272727272727,0.6923076923076923,0.6,0.4,Claude-3.5,Exp_1_Basic_Prompts
+Threaded Feature,0.4444444444444444,0.0,0.5,0.0,0.5,0.0,0.3333333333333333,0.0,Claude-3.5,Exp_1_Basic_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.7,0.25,1.0,0.3076923076923077,0.47619047619047616,0.3333333333333333,0.8181818181818182,0.17857142857142858,Claude-3.5,Exp_2_Improved_Prompts
+Chamfer / Bevel (Sharp Edge),0.25,0.875,0.16666666666666666,0.8888888888888888,0.3333333333333333,0.75,0.0,1.0,Claude-3.5,Exp_2_Improved_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Fillet / Round (Concave / Convex),0.4672897196261682,0.13559322033898305,0.6666666666666666,0.18181818181818182,0.25,0.4166666666666667,0.5223880597014925,0.027777777777777776,Claude-3.5,Exp_2_Improved_Prompts
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.5,0.0,0.0,0.0,1.0,0.2,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Hole (Through / Blind Hole),0.6800947867298578,0.044585987261146494,0.8695652173913043,0.14,0.8403361344537815,0.06086956521739131,0.5719844357976653,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Neck,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Claude-3.5,Exp_2_Improved_Prompts
+Pipe / Tube,0.7692307692307693,0.3333333333333333,0.0,1.0,0.3333333333333333,0.6666666666666666,0.9,0.18181818181818182,Claude-3.5,Exp_2_Improved_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.2,0.14285714285714285,0.3684210526315789,0.0,0.15789473684210525,0.0,0.0,1.0,Claude-3.5,Exp_2_Improved_Prompts
+Rib,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3.5,Exp_2_Improved_Prompts
+Sheet Metal Features,0.75,0.14285714285714285,0.0,0.0,1.0,0.3333333333333333,0.6666666666666666,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.611764705882353,0.12857142857142856,0.6875,0.0,0.34615384615384615,0.3076923076923077,0.7441860465116279,0.10869565217391304,Claude-3.5,Exp_2_Improved_Prompts
+Step (Through / Blind Step),0.5,0.5357142857142857,0.3333333333333333,0.8,0.36363636363636365,0.6153846153846154,0.7,0.3,Claude-3.5,Exp_2_Improved_Prompts
+Threaded Feature,0.4444444444444444,0.0,0.5,0.0,0.5,0.0,0.3333333333333333,0.0,Claude-3.5,Exp_2_Improved_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.64,0.17073170731707318,0.7142857142857143,0.0,0.6190476190476191,0.06666666666666667,0.6363636363636364,0.2857142857142857,Claude-3.5,Exp_3_Multi_View
+Chamfer / Bevel (Sharp Edge),0.25,0.7857142857142857,0.16666666666666666,0.6666666666666666,0.3333333333333333,0.7777777777777778,0.0,1.0,Claude-3.5,Exp_3_Multi_View
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_3_Multi_View
+Fillet / Round (Concave / Convex),0.5700934579439252,0.15584415584415584,0.75,0.3333333333333333,0.42857142857142855,0.2857142857142857,0.5970149253731343,0.024390243902439025,Claude-3.5,Exp_3_Multi_View
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.0,0.0,0.0,0.0,0.0,0.2,0.0,Claude-3.5,Exp_3_Multi_View
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3.5,Exp_3_Multi_View
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_3_Multi_View
+Hole (Through / Blind Hole),0.9004739336492891,0.02689486552567237,0.9782608695652174,0.12280701754385964,0.907563025210084,0.03278688524590164,0.8832684824902723,0.0,Claude-3.5,Exp_3_Multi_View
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_3_Multi_View
+Pipe / Tube,0.6923076923076923,0.4,0.0,1.0,0.0,1.0,0.9,0.18181818181818182,Claude-3.5,Exp_3_Multi_View
+Pocket (Blind / Through / Circular End Pocket),0.22,0.21428571428571427,0.2631578947368421,0.0,0.3157894736842105,0.14285714285714285,0.0,1.0,Claude-3.5,Exp_3_Multi_View
+Sheet Metal Features,0.625,0.0,0.0,0.0,1.0,0.0,0.5,0.0,Claude-3.5,Exp_3_Multi_View
+Slot (Through / Blind / T-Slot / Dovetail),0.7058823529411765,0.15584415584415584,0.75,0.1875,0.5,0.2222222222222222,0.813953488372093,0.11627906976744186,Claude-3.5,Exp_3_Multi_View
+Step (Through / Blind Step),0.75,0.574468085106383,0.6666666666666666,0.7777777777777778,0.7272727272727273,0.5238095238095238,0.8,0.5294117647058824,Claude-3.5,Exp_3_Multi_View
+Threaded Feature,0.7777777777777778,0.0,1.0,0.0,0.75,0.0,0.6666666666666666,0.0,Claude-3.5,Exp_3_Multi_View
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.44,0.1111111111111111,0.5714285714285714,0.0,0.38095238095238093,0.1,0.45454545454545453,0.16666666666666666,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.16666666666666666,0.9259259259259259,0.16666666666666666,0.875,0.16666666666666666,0.8,0.0,1.0,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.6448598130841121,0.25,0.6666666666666666,0.5,0.7142857142857143,0.3888888888888889,0.6119402985074627,0.023809523809523808,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.5,0.0,0.0,0.0,1.0,0.2,0.0,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.8436018957345972,0.04639175257731959,0.9782608695652174,0.1694915254237288,0.907563025210084,0.06451612903225806,0.7898832684824902,0.0,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Pipe / Tube,0.6153846153846154,0.4666666666666667,0.0,1.0,0.3333333333333333,0.8,0.7,0.2222222222222222,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.28,0.3333333333333333,0.3157894736842105,0.14285714285714285,0.3157894736842105,0.14285714285714285,0.16666666666666666,0.7142857142857143,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Sheet Metal Features,0.375,0.0,0.0,0.0,0.5,0.0,0.3333333333333333,0.0,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.5176470588235295,0.09259259259259259,0.4375,0.1111111111111111,0.34615384615384615,0.2857142857142857,0.6511627906976745,0.0,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Step (Through / Blind Step),0.625,0.6363636363636364,0.3333333333333333,0.8888888888888888,0.6363636363636364,0.5789473684210527,0.7,0.5625,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+Threaded Feature,0.5555555555555556,0.0,0.5,0.0,0.75,0.0,0.3333333333333333,0.0,Claude-3.5,Exp_4a_Multi_View_Few_Shot
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.7,0.17777777777777778,0.8571428571428571,0.125,0.6190476190476191,0.07142857142857142,0.7272727272727273,0.2608695652173913,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Chamfer / Bevel (Sharp Edge),0.25,0.8125,0.16666666666666666,0.8888888888888888,0.3333333333333333,0.3333333333333333,0.0,1.0,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Fillet / Round (Concave / Convex),0.5700934579439252,0.17647058823529413,0.8333333333333334,0.2857142857142857,0.7142857142857143,0.2,0.4626865671641791,0.08823529411764706,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+"Freeform Features (Depression, Protrusion)",0.3333333333333333,0.3333333333333333,1.0,0.5,0.0,0.0,0.2,0.0,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Hole (Through / Blind Hole),0.8720379146919431,0.03508771929824561,0.9782608695652174,0.12280701754385964,0.907563025210084,0.056,0.8365758754863813,0.0,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Neck,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Pipe / Tube,0.7692307692307693,0.35294117647058826,0.0,1.0,0.3333333333333333,0.75,0.9,0.09090909090909091,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Pocket (Blind / Through / Circular End Pocket),0.18,0.3076923076923077,0.2631578947368421,0.0,0.21052631578947367,0.3333333333333333,0.0,1.0,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Sheet Metal Features,0.25,0.0,0.0,0.0,0.5,0.0,0.16666666666666666,0.0,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Slot (Through / Blind / T-Slot / Dovetail),0.788235294117647,0.1348314606741573,0.75,0.1875,0.7307692307692307,0.17391304347826086,0.8372093023255814,0.1,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Step (Through / Blind Step),0.7916666666666666,0.5531914893617021,0.6666666666666666,0.8,0.7272727272727273,0.55,0.9,0.4117647058823529,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+Threaded Feature,0.6666666666666666,0.0,1.0,0.0,0.75,0.0,0.3333333333333333,0.0,Claude-3.5,Exp_4b_Multi_View_Chain_of_Thougths
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.42,0.17857142857142858,0.7142857142857143,0.0,0.47619047619047616,0.09090909090909091,0.2727272727272727,0.36363636363636365,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.25,0.8636363636363636,0.0,1.0,0.5,0.5,0.0,1.0,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Draft,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.6728971962616822,0.24271844660194175,1.0,0.3181818181818182,0.6428571428571429,0.4166666666666667,0.6268656716417911,0.06666666666666667,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.6666666666666666,0.0,0.0,0.0,1.0,0.2,0.0,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.8625592417061612,0.05012531328320802,0.9782608695652174,0.20967741935483872,0.8823529411764706,0.05785123966942149,0.8326848249027238,0.0,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Neck,1.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pipe / Tube,1.0,0.36,0.0,1.0,1.0,0.4444444444444444,1.0,0.15384615384615385,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.18,0.4117647058823529,0.10526315789473684,0.0,0.3157894736842105,0.36363636363636365,0.08333333333333333,0.75,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.25,0.0,0.0,0.0,0.5,0.0,0.16666666666666666,0.0,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.6705882352941176,0.09333333333333334,0.5625,0.0,0.46153846153846156,0.1875,0.8372093023255814,0.08163265306122448,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.7916666666666666,0.48717948717948717,1.0,0.7272727272727273,0.6363636363636364,0.5294117647058824,0.9,0.18181818181818182,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Threaded Feature,0.6666666666666666,0.0,1.0,0.0,0.75,0.0,0.3333333333333333,0.0,Claude-3.5,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.04,0.0,0.14285714285714285,0.0,0.0,0.0,0.045454545454545456,0.0,Claude-3,Exp_1_Basic_Prompts
+Chamfer / Bevel (Sharp Edge),0.16666666666666666,0.7368421052631579,0.0,1.0,0.3333333333333333,0.16666666666666666,0.0,1.0,Claude-3,Exp_1_Basic_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_1_Basic_Prompts
+Fillet / Round (Concave / Convex),0.27102803738317754,0.3090909090909091,0.8333333333333334,0.2777777777777778,0.10714285714285714,0.7272727272727273,0.23880597014925373,0.15384615384615385,Claude-3,Exp_1_Basic_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_1_Basic_Prompts
+Gear Teeth,1.0,0.3333333333333333,1.0,0.0,0.0,0.0,1.0,0.5,Claude-3,Exp_1_Basic_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_1_Basic_Prompts
+Hole (Through / Blind Hole),0.46445497630331756,0.05128205128205128,0.8043478260869565,0.1,0.6302521008403361,0.07692307692307693,0.32684824902723736,0.0,Claude-3,Exp_1_Basic_Prompts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_1_Basic_Prompts
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_1_Basic_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.24,0.4,0.21052631578947367,0.0,0.42105263157894735,0.2727272727272727,0.0,1.0,Claude-3,Exp_1_Basic_Prompts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_1_Basic_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.1411764705882353,0.25,0.125,0.5,0.07692307692307693,0.0,0.18604651162790697,0.2,Claude-3,Exp_1_Basic_Prompts
+Step (Through / Blind Step),0.3333333333333333,0.6666666666666666,1.0,0.7272727272727273,0.2727272727272727,0.5,0.2,0.7142857142857143,Claude-3,Exp_1_Basic_Prompts
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_1_Basic_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Chamfer / Bevel (Sharp Edge),0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Claude-3,Exp_2_Improved_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Fillet / Round (Concave / Convex),0.5420560747663551,0.2727272727272727,0.8333333333333334,0.4444444444444444,0.2857142857142857,0.625,0.5970149253731343,0.07017543859649122,Claude-3,Exp_2_Improved_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Gear Teeth,1.0,0.11363636363636363,1.0,0.0,0.0,0.0,1.0,0.14084507042253522,Claude-3,Exp_2_Improved_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Hole (Through / Blind Hole),0.38388625592417064,0.027624309392265192,0.6304347826086957,0.075,0.5798319327731093,0.02631578947368421,0.2490272373540856,0.0,Claude-3,Exp_2_Improved_Prompts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3,Exp_2_Improved_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.16,0.42857142857142855,0.10526315789473684,0.0,0.3157894736842105,0.25,0.0,1.0,Claude-3,Exp_2_Improved_Prompts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.03529411764705882,0.4,0.0625,0.5,0.038461538461538464,0.0,0.023255813953488372,0.5,Claude-3,Exp_2_Improved_Prompts
+Step (Through / Blind Step),0.3333333333333333,0.75,1.0,0.8333333333333334,0.36363636363636365,0.5,0.1,0.8333333333333334,Claude-3,Exp_2_Improved_Prompts
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_2_Improved_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_3_Multi_View
+Chamfer / Bevel (Sharp Edge),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_3_Multi_View
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_3_Multi_View
+Fillet / Round (Concave / Convex),0.40186915887850466,0.14285714285714285,1.0,0.29411764705882354,0.10714285714285714,0.5555555555555556,0.417910447761194,0.0,Claude-3,Exp_3_Multi_View
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_3_Multi_View
+Gear Teeth,0.75,0.1,1.0,0.0,0.0,0.0,0.5,0.6666666666666666,Claude-3,Exp_3_Multi_View
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_3_Multi_View
+Hole (Through / Blind Hole),0.48578199052132703,0.05263157894736842,0.8695652173913043,0.13793103448275862,0.6638655462184874,0.05263157894736842,0.3346303501945525,0.0,Claude-3,Exp_3_Multi_View
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_3_Multi_View
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_3_Multi_View
+Pocket (Blind / Through / Circular End Pocket),0.06,0.5,0.10526315789473684,0.0,0.05263157894736842,0.6666666666666666,0.0,1.0,Claude-3,Exp_3_Multi_View
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_3_Multi_View
+Slot (Through / Blind / T-Slot / Dovetail),0.011764705882352941,0.0,0.0,0.0,0.0,0.0,0.023255813953488372,0.0,Claude-3,Exp_3_Multi_View
+Step (Through / Blind Step),0.16666666666666666,0.7777777777777778,0.6666666666666666,0.8,0.18181818181818182,0.5,0.0,1.0,Claude-3,Exp_3_Multi_View
+Threaded Feature,0.1111111111111111,0.0,0.0,0.0,0.25,0.0,0.0,0.0,Claude-3,Exp_3_Multi_View
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.7850467289719626,0.2529411764705882,1.0,0.375,0.6071428571428571,0.54,0.8208955223880597,0.07291666666666667,Claude-3,Exp_4a_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.5355450236966824,0.06007067137809187,0.8695652173913043,0.15873015873015872,0.7058823529411765,0.06862745098039216,0.3968871595330739,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Step (Through / Blind Step),0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4a_Multi_View_Few_Shot
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.04,0.0,0.0,0.0,0.0,0.0,0.09090909090909091,0.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Chamfer / Bevel (Sharp Edge),0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Fillet / Round (Concave / Convex),0.5794392523364486,0.20930232558139536,1.0,0.4827586206896552,0.5357142857142857,0.2413793103448276,0.5223880597014925,0.08450704225352113,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Gear Teeth,0.75,0.3793103448275862,1.0,0.0,0.0,0.0,0.5,0.9166666666666666,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Hole (Through / Blind Hole),0.4928909952606635,0.04417670682730924,0.8478260869565217,0.14035087719298245,0.7058823529411765,0.030927835051546393,0.33073929961089493,0.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Pocket (Blind / Through / Circular End Pocket),0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Slot (Through / Blind / T-Slot / Dovetail),0.023529411764705882,0.3333333333333333,0.0625,0.0,0.0,0.0,0.023255813953488372,0.5,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Step (Through / Blind Step),0.125,0.8125,0.6666666666666666,0.75,0.09090909090909091,0.75,0.0,1.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+Threaded Feature,0.2222222222222222,0.0,0.5,0.0,0.25,0.0,0.0,0.0,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.02,0.8571428571428571,0.14285714285714285,0.0,0.0,0.0,0.0,1.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.7383177570093458,0.28444444444444444,1.0,0.45,0.8214285714285714,0.379746835443038,0.6567164179104478,0.1509433962264151,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.542654028436019,0.061855670103092786,0.8478260869565217,0.1875,0.6974789915966386,0.058823529411764705,0.4163424124513619,0.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.041666666666666664,0.8333333333333334,0.3333333333333333,0.5,0.0,0.0,0.0,1.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Threaded Feature,0.2222222222222222,0.0,0.0,0.0,0.25,0.0,0.3333333333333333,0.0,Claude-3,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.04,0.0,0.0,0.0,0.09523809523809523,0.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.9052631578947369,0.5,0.9032258064516129,0.8333333333333334,0.8064516129032258,0.0,1.0,MiniCPM,Exp_1_Basic_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.75,1.0,0.0,0.0,1.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+Gear Teeth,0.75,0.0,1.0,0.0,0.0,0.0,0.5,0.0,MiniCPM,Exp_1_Basic_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+Hole (Through / Blind Hole),0.4099526066350711,0.08673469387755102,0.6956521739130435,0.24444444444444444,0.5210084033613446,0.08450704225352113,0.30739299610894943,0.0,MiniCPM,Exp_1_Basic_Prompts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.02,0.0,0.0,0.0,0.05263157894736842,0.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.08235294117647059,0.3,0.0625,0.0,0.15384615384615385,0.2,0.046511627906976744,0.5,MiniCPM,Exp_1_Basic_Prompts
+Step (Through / Blind Step),0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_1_Basic_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.02,0.0,0.0,0.0,0.0,0.0,0.045454545454545456,0.0,MiniCPM,Exp_2_Improved_Prompts
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.90625,0.5,0.9,0.8333333333333334,0.8064516129032258,0.0,1.0,MiniCPM,Exp_2_Improved_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_2_Improved_Prompts
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_2_Improved_Prompts
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.8571428571428571,1.0,0.5,0.0,1.0,0.0,1.0,MiniCPM,Exp_2_Improved_Prompts
+Gear Teeth,0.75,0.0,1.0,0.0,0.0,0.0,0.5,0.0,MiniCPM,Exp_2_Improved_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_2_Improved_Prompts
+Hole (Through / Blind Hole),0.3957345971563981,0.08900523560209424,0.6086956521739131,0.2682926829268293,0.5462184873949579,0.08,0.28793774319066145,0.0,MiniCPM,Exp_2_Improved_Prompts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_2_Improved_Prompts
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_2_Improved_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.04,0.3333333333333333,0.0,0.0,0.10526315789473684,0.0,0.0,1.0,MiniCPM,Exp_2_Improved_Prompts
+Sheet Metal Features,0.125,0.0,0.0,0.0,0.5,0.0,0.0,0.0,MiniCPM,Exp_2_Improved_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.047058823529411764,0.7222222222222222,0.125,0.7692307692307693,0.07692307692307693,0.0,0.0,1.0,MiniCPM,Exp_2_Improved_Prompts
+Step (Through / Blind Step),0.0,1.0,0.0,1.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_2_Improved_Prompts
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_2_Improved_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.04,0.3333333333333333,0.0,1.0,0.0,0.0,0.09090909090909091,0.0,MiniCPM,Exp_3_Multi_View
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.9210526315789473,0.5,0.90625,0.8333333333333334,0.8421052631578947,0.0,1.0,MiniCPM,Exp_3_Multi_View
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_3_Multi_View
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_3_Multi_View
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.9090909090909091,0.0,1.0,0.0,1.0,0.2,0.5,MiniCPM,Exp_3_Multi_View
+Gear Teeth,0.75,0.0,1.0,0.0,0.0,0.0,0.5,0.0,MiniCPM,Exp_3_Multi_View
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_3_Multi_View
+Hole (Through / Blind Hole),0.509478672985782,0.1,0.9565217391304348,0.2597402597402597,0.6470588235294118,0.09523809523809523,0.3657587548638132,0.0,MiniCPM,Exp_3_Multi_View
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_3_Multi_View
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,MiniCPM,Exp_3_Multi_View
+Pocket (Blind / Through / Circular End Pocket),0.04,0.7142857142857143,0.0,1.0,0.10526315789473684,0.5,0.0,1.0,MiniCPM,Exp_3_Multi_View
+Sheet Metal Features,0.125,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,MiniCPM,Exp_3_Multi_View
+Slot (Through / Blind / T-Slot / Dovetail),0.07058823529411765,0.0,0.25,0.0,0.07692307692307693,0.0,0.0,0.0,MiniCPM,Exp_3_Multi_View
+Step (Through / Blind Step),0.3333333333333333,0.64,0.6666666666666666,0.75,0.2727272727272727,0.5555555555555556,0.3,0.625,MiniCPM,Exp_3_Multi_View
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_3_Multi_View
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.26,0.6153846153846154,0.5714285714285714,0.3333333333333333,0.14285714285714285,0.6923076923076923,0.2727272727272727,0.65,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.9295774647887324,0.5,0.925,0.8333333333333334,0.8627450980392157,0.0,1.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.3333333333333333,0.9047619047619048,0.0,1.0,0.0,1.0,0.4,0.7142857142857143,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Gear Teeth,0.5,0.0,0.5,0.0,0.0,0.0,0.5,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.495260663507109,0.1076388888888889,0.8913043478260869,0.2777777777777778,0.5798319327731093,0.11,0.3852140077821012,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Neck,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.26,0.765625,0.2631578947368421,0.6666666666666666,0.21052631578947367,0.75,0.3333333333333333,0.8461538461538461,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Sheet Metal Features,0.125,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.09411764705882353,0.35,0.1875,0.25,0.0,0.0,0.11627906976744186,0.4166666666666667,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Step (Through / Blind Step),0.375,0.8648648648648649,1.0,0.88,0.18181818181818182,0.9,0.4,0.8275862068965517,MiniCPM,Exp_4a_Multi_View_Few_Shot
+Threaded Feature,0.1111111111111111,0.6666666666666666,0.0,0.0,0.25,0.5,0.0,1.0,MiniCPM,Exp_4a_Multi_View_Few_Shot
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.02,0.0,0.0,0.0,0.0,0.0,0.045454545454545456,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.9047619047619048,0.3333333333333333,0.9393939393939394,1.0,0.782608695652174,0.0,1.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Fillet / Round (Concave / Convex),0.028037383177570093,0.0,0.0,0.0,0.0,0.0,0.04477611940298507,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.9666666666666667,0.0,1.0,0.0,1.0,0.2,0.9090909090909091,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Gear Teeth,0.75,0.0,1.0,0.0,0.0,0.0,0.5,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Hole (Through / Blind Hole),0.523696682464455,0.11075949367088607,0.9130434782608695,0.3048780487804878,0.6890756302521008,0.09009009009009009,0.377431906614786,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Pocket (Blind / Through / Circular End Pocket),0.12,0.38461538461538464,0.0,0.0,0.3157894736842105,0.2727272727272727,0.0,1.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Sheet Metal Features,0.125,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Slot (Through / Blind / T-Slot / Dovetail),0.023529411764705882,0.0,0.125,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Step (Through / Blind Step),0.5,0.6388888888888888,0.6666666666666666,0.6666666666666666,0.2727272727272727,0.6666666666666666,0.7,0.6111111111111112,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_4b_Multi_View_Chain_of_Thougths
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.5,0.6212121212121212,0.5714285714285714,0.6363636363636364,0.5714285714285714,0.5862068965517241,0.4090909090909091,0.6538461538461539,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.9310344827586207,0.5,0.9347826086956522,0.8333333333333334,0.8627450980392157,0.0,1.0,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.3333333333333333,0.9607843137254902,0.0,1.0,0.0,1.0,0.4,0.9047619047619048,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gear Teeth,0.75,0.0,1.0,0.0,0.0,0.0,0.5,0.0,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.4052132701421801,0.09767441860465116,0.7391304347826086,0.23636363636363636,0.5462184873949579,0.09876543209876543,0.2801556420233463,0.0,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.42,0.7469879518072289,0.3684210526315789,0.65,0.5789473684210527,0.6333333333333333,0.25,0.9090909090909091,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.125,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.23529411764705882,0.4918032786885246,0.1875,0.4166666666666667,0.5384615384615384,0.45714285714285713,0.06976744186046512,0.6428571428571429,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.8333333333333334,0.7850467289719626,1.0,0.918918918918919,0.8181818181818182,0.717948717948718,0.8,0.7096774193548387,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Threaded Feature,0.0,1.0,0.0,1.0,0.0,0.0,0.0,1.0,MiniCPM,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.08,0.42857142857142855,0.0,0.0,0.09523809523809523,0.0,0.09090909090909091,0.6,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Chamfer / Bevel (Sharp Edge),0.4166666666666667,0.9318181818181818,0.3333333333333333,0.8235294117647058,0.5,0.9090909090909091,0.0,1.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Fillet / Round (Concave / Convex),0.06542056074766354,0.26666666666666666,0.0,1.0,0.03571428571428571,0.75,0.08955223880597014,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Hole (Through / Blind Hole),0.3341232227488152,0.10365853658536585,0.6739130434782609,0.2619047619047619,0.47058823529411764,0.09090909090909091,0.21011673151750973,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.16470588235294117,0.17647058823529413,0.125,0.5,0.0,1.0,0.27906976744186046,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Step (Through / Blind Step),0.08333333333333333,0.7142857142857143,0.6666666666666666,0.5,0.0,1.0,0.0,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+Threaded Feature,0.3333333333333333,0.0,0.0,0.0,0.5,0.0,0.3333333333333333,0.0,MiniCPM-V2.6,Exp_1_Basic_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.08,0.2222222222222222,0.0,0.0,0.09523809523809523,0.0,0.09090909090909091,0.2857142857142857,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.9058823529411765,0.5,0.9,0.8333333333333334,0.8148148148148148,0.0,1.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Hole (Through / Blind Hole),0.33649289099526064,0.11585365853658537,0.6956521739130435,0.26666666666666666,0.40336134453781514,0.12280701754385964,0.24124513618677043,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.011764705882352941,0.0,0.0,0.0,0.0,0.0,0.023255813953488372,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Step (Through / Blind Step),0.041666666666666664,0.8333333333333334,0.3333333333333333,0.6666666666666666,0.0,1.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+Threaded Feature,0.2222222222222222,0.0,0.0,0.0,0.5,0.0,0.0,0.0,MiniCPM-V2.6,Exp_2_Improved_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.14,0.6666666666666666,0.14285714285714285,0.6666666666666666,0.09523809523809523,0.7777777777777778,0.18181818181818182,0.5555555555555556,MiniCPM-V2.6,Exp_3_Multi_View
+Chamfer / Bevel (Sharp Edge),0.4166666666666667,0.9074074074074074,0.3333333333333333,0.8333333333333334,0.5,0.8695652173913043,0.0,1.0,MiniCPM-V2.6,Exp_3_Multi_View
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_3_Multi_View
+Fillet / Round (Concave / Convex),0.06542056074766354,0.5882352941176471,0.16666666666666666,0.7142857142857143,0.07142857142857142,0.7142857142857143,0.04477611940298507,0.0,MiniCPM-V2.6,Exp_3_Multi_View
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,1.0,0.0,1.0,0.0,0.0,MiniCPM-V2.6,Exp_3_Multi_View
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,MiniCPM-V2.6,Exp_3_Multi_View
+Gusset,0.08333333333333333,0.8,0.0,1.0,0.0,1.0,0.09090909090909091,0.5,MiniCPM-V2.6,Exp_3_Multi_View
+Hole (Through / Blind Hole),0.3696682464454976,0.1,0.6739130434782609,0.2558139534883721,0.4957983193277311,0.10294117647058823,0.25680933852140075,0.0,MiniCPM-V2.6,Exp_3_Multi_View
+Neck,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,MiniCPM-V2.6,Exp_3_Multi_View
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,MiniCPM-V2.6,Exp_3_Multi_View
+Pocket (Blind / Through / Circular End Pocket),0.06,0.4,0.05263157894736842,0.0,0.10526315789473684,0.5,0.0,0.0,MiniCPM-V2.6,Exp_3_Multi_View
+Rib,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,MiniCPM-V2.6,Exp_3_Multi_View
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_3_Multi_View
+Slot (Through / Blind / T-Slot / Dovetail),0.011764705882352941,0.6666666666666666,0.0,1.0,0.038461538461538464,0.5,0.0,0.0,MiniCPM-V2.6,Exp_3_Multi_View
+Step (Through / Blind Step),0.08333333333333333,0.8,0.0,1.0,0.18181818181818182,0.6666666666666666,0.0,1.0,MiniCPM-V2.6,Exp_3_Multi_View
+Threaded Feature,0.3333333333333333,0.25,0.5,0.5,0.5,0.0,0.0,0.0,MiniCPM-V2.6,Exp_3_Multi_View
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.2,0.21428571428571427,0.14285714285714285,0.0,0.3333333333333333,0.2,0.09090909090909091,0.3333333333333333,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.16666666666666666,0.9285714285714286,0.0,1.0,0.3333333333333333,0.8235294117647058,0.0,1.0,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.1588785046728972,0.43902439024390244,0.0,1.0,0.14285714285714285,0.47368421052631576,0.19402985074626866,0.2777777777777778,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.8888888888888888,0.0,1.0,0.0,1.0,0.2,0.6666666666666666,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Gear Teeth,0.75,0.0,1.0,0.0,0.0,0.0,0.5,0.0,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.3175355450236967,0.18072289156626506,0.6304347826086957,0.40816326530612246,0.35294117647058826,0.18867924528301888,0.245136186770428,0.0,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Pipe / Tube,0.07692307692307693,0.5,0.0,0.0,0.3333333333333333,0.5,0.0,0.0,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.28,0.38235294117647056,0.0,1.0,0.6842105263157895,0.09090909090909091,0.08333333333333333,0.9,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.2823529411764706,0.29411764705882354,0.1875,0.25,0.2692307692307692,0.36363636363636365,0.32558139534883723,0.2631578947368421,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Step (Through / Blind Step),0.625,0.41935483870967744,0.6666666666666666,0.6,0.8181818181818182,0.26666666666666666,0.4,0.5454545454545454,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+Threaded Feature,0.1111111111111111,0.9230769230769231,0.0,1.0,0.0,1.0,0.3333333333333333,0.8333333333333334,MiniCPM-V2.6,Exp_4a_Multi_View_Few_Shot
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.08,0.16666666666666666,0.0,0.0,0.09523809523809523,0.0,0.09090909090909091,0.3333333333333333,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Chamfer / Bevel (Sharp Edge),0.25,0.8421052631578947,0.0,1.0,0.5,0.5,0.0,1.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Fillet / Round (Concave / Convex),0.028037383177570093,0.0,0.0,0.0,0.03571428571428571,0.0,0.029850746268656716,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+"Freeform Features (Depression, Protrusion)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Hole (Through / Blind Hole),0.3696682464454976,0.15609756097560976,0.6521739130434783,0.3728813559322034,0.5210084033613446,0.12658227848101267,0.2490272373540856,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Pocket (Blind / Through / Circular End Pocket),0.02,0.0,0.0,0.0,0.05263157894736842,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Step (Through / Blind Step),0.041666666666666664,0.6666666666666666,0.3333333333333333,0.5,0.0,1.0,0.0,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+Threaded Feature,0.3333333333333333,0.0,0.0,0.0,0.5,0.0,0.3333333333333333,0.0,MiniCPM-V2.6,Exp_4b_Multi_View_Chain_of_Thougths
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.44,0.5636363636363636,0.14285714285714285,0.0,0.47619047619047616,0.6071428571428571,0.5,0.5384615384615384,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.92,0.5,0.9090909090909091,0.8333333333333334,0.8484848484848485,0.0,1.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.514018691588785,0.4788732394366197,0.25,0.8571428571428571,0.5714285714285714,0.5573770491803278,0.5373134328358209,0.26666666666666666,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.9761904761904762,0.0,1.0,0.0,1.0,0.2,0.95,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gear Teeth,0.75,0.0,0.5,0.0,0.0,0.0,1.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.33649289099526064,0.19095477386934673,0.6739130434782609,0.4,0.3949579831932773,0.18181818181818182,0.2490272373540856,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pipe / Tube,0.07692307692307693,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.34,0.6666666666666666,0.0,1.0,0.6842105263157895,0.5,0.3333333333333333,0.8666666666666667,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.75,0.7777777777777778,0.6666666666666666,0.9047619047619048,0.7272727272727273,0.7142857142857143,0.8,0.75,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Threaded Feature,0.2222222222222222,0.6,0.0,0.0,0.5,0.5,0.0,1.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.22,0.56,0.14285714285714285,0.875,0.3333333333333333,0.3,0.13636363636363635,0.5714285714285714,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Chamfer / Bevel (Sharp Edge),0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Fillet / Round (Concave / Convex),0.009345794392523364,0.0,0.0,0.0,0.03571428571428571,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Gear Teeth,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Hole (Through / Blind Hole),0.26066350710900477,0.16666666666666666,0.5,0.39473684210526316,0.31092436974789917,0.1702127659574468,0.19455252918287938,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Pipe / Tube,0.23076923076923078,0.4,0.0,1.0,0.3333333333333333,0.0,0.2,0.3333333333333333,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.04,0.3333333333333333,0.0,0.0,0.10526315789473684,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.07058823529411765,0.25,0.0625,0.0,0.07692307692307693,0.0,0.06976744186046512,0.4,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Step (Through / Blind Step),0.125,0.0,0.3333333333333333,0.0,0.09090909090909091,0.0,0.1,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.32,0.5428571428571428,0.2857142857142857,0.8,0.42857142857142855,0.3076923076923077,0.22727272727272727,0.5833333333333334,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Chamfer / Bevel (Sharp Edge),0.5833333333333334,0.9090909090909091,0.3333333333333333,0.9130434782608695,0.8333333333333334,0.8076923076923077,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Draft,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Fillet / Round (Concave / Convex),0.009345794392523364,0.5,0.0,0.0,0.03571428571428571,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Gear Teeth,0.25,0.5,0.0,0.0,0.0,0.0,0.5,0.5,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Gusset,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Hole (Through / Blind Hole),0.2156398104265403,0.13333333333333333,0.41304347826086957,0.36666666666666664,0.33613445378151263,0.06976744186046512,0.1245136186770428,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Neck,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Pipe / Tube,0.23076923076923078,0.5,0.0,1.0,0.3333333333333333,0.5,0.2,0.3333333333333333,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.1,0.5454545454545454,0.0,0.0,0.2631578947368421,0.2857142857142857,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Rib,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Sheet Metal Features,0.125,0.0,0.0,0.0,0.0,0.0,0.16666666666666666,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.25882352941176473,0.40540540540540543,0.3125,0.375,0.2692307692307692,0.2222222222222222,0.23255813953488372,0.5,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Step (Through / Blind Step),0.25,0.4,0.3333333333333333,0.6666666666666666,0.2727272727272727,0.4,0.2,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+Threaded Feature,0.0,1.0,0.0,0.0,0.0,1.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.52,0.5866666666666667,0.5714285714285714,0.75,0.5714285714285714,0.3684210526315789,0.45454545454545453,0.5416666666666666,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Chamfer / Bevel (Sharp Edge),0.4166666666666667,0.9056603773584906,0.16666666666666666,0.9230769230769231,0.6666666666666666,0.7777777777777778,0.0,1.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Draft,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Gear Teeth,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Hole (Through / Blind Hole),0.32701421800947866,0.19387755102040816,0.6739130434782609,0.3939393939393939,0.37815126050420167,0.1875,0.24124513618677043,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Neck,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Pocket (Blind / Through / Circular End Pocket),0.46,0.6101694915254238,0.47368421052631576,0.5,0.5789473684210527,0.45,0.25,0.8571428571428571,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Slot (Through / Blind / T-Slot / Dovetail),0.29411764705882354,0.5283018867924528,0.4375,0.5333333333333333,0.34615384615384615,0.47058823529411764,0.20930232558139536,0.5714285714285714,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Step (Through / Blind Step),0.5833333333333334,0.7307692307692307,0.6666666666666666,0.8666666666666667,0.6363636363636364,0.5882352941176471,0.5,0.75,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+Threaded Feature,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_3_Multi_View
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Chamfer / Bevel (Sharp Edge),0.4166666666666667,0.8888888888888888,0.3333333333333333,0.8666666666666667,0.5,0.8333333333333334,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Draft,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Fillet / Round (Concave / Convex),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Gear Teeth,0.25,0.5,0.0,0.0,0.0,0.0,0.5,0.5,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Gusset,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Hole (Through / Blind Hole),0.12559241706161137,0.3111111111111111,0.17391304347826086,0.6666666666666666,0.18487394957983194,0.2222222222222222,0.08949416342412451,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Neck,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Pipe / Tube,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Rib,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Sheet Metal Features,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Step (Through / Blind Step),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+Threaded Feature,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4a_Multi_View_Few_Shot
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.22,0.5853658536585366,0.7142857142857143,0.47619047619047616,0.047619047619047616,0.8571428571428571,0.22727272727272727,0.6153846153846154,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Chamfer / Bevel (Sharp Edge),0.5,0.9090909090909091,0.5,0.85,0.5,0.875,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Draft,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Fillet / Round (Concave / Convex),0.3644859813084112,0.5411764705882353,0.16666666666666666,0.9130434782608695,0.5,0.48148148148148145,0.34328358208955223,0.34285714285714286,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.9,0.0,0.0,0.0,1.0,0.2,0.875,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Gear Teeth,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Gusset,0.08333333333333333,0.9,0.0,0.0,0.0,1.0,0.09090909090909091,0.875,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Hole (Through / Blind Hole),0.25355450236966826,0.11347517730496454,0.45652173913043476,0.2631578947368421,0.35294117647058826,0.10909090909090909,0.17120622568093385,0.0,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Neck,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Pipe / Tube,0.23076923076923078,0.7272727272727273,0.0,0.0,0.0,1.0,0.3,0.625,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Pocket (Blind / Through / Circular End Pocket),0.38,0.6545454545454545,0.2631578947368421,0.5833333333333334,0.5789473684210527,0.45,0.25,0.8695652173913043,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Rib,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Sheet Metal Features,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Slot (Through / Blind / T-Slot / Dovetail),0.2823529411764706,0.52,0.4375,0.5,0.38461538461538464,0.375,0.16279069767441862,0.65,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Step (Through / Blind Step),0.20833333333333334,0.375,0.0,0.0,0.36363636363636365,0.2,0.1,0.6666666666666666,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+Threaded Feature,0.2222222222222222,0.875,0.0,1.0,0.25,0.75,0.3333333333333333,0.9090909090909091,Llava_v1_6_mistral_7b,Exp_4b_Multi_View_Chain_of_Thougths
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.02,0.9090909090909091,0.14285714285714285,0.6666666666666666,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.5,0.9090909090909091,0.3333333333333333,0.9166666666666666,0.6666666666666666,0.8148148148148148,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Draft,1.0,0.9777777777777777,0.0,1.0,1.0,0.9166666666666666,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.056074766355140186,0.7333333333333333,0.0,1.0,0.07142857142857142,0.5,0.05970149253731343,0.7142857142857143,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gear Teeth,0.5,0.9555555555555556,0.0,1.0,0.0,1.0,1.0,0.8888888888888888,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gusset,0.3333333333333333,0.9111111111111111,0.0,1.0,1.0,0.9166666666666666,0.2727272727272727,0.8333333333333334,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.12559241706161137,0.3111111111111111,0.17391304347826086,0.6666666666666666,0.18487394957983194,0.2222222222222222,0.08949416342412451,0.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Neck,1.0,0.9777777777777777,1.0,0.9333333333333333,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pipe / Tube,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Rib,0.0,1.0,0.0,1.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.125,0.9777777777777777,0.0,1.0,0.0,1.0,0.16666666666666666,0.9444444444444444,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Threaded Feature,0.5555555555555556,0.8809523809523809,1.0,0.8666666666666667,0.25,0.9090909090909091,0.6666666666666666,0.875,Llava_v1_6_mistral_7b,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts

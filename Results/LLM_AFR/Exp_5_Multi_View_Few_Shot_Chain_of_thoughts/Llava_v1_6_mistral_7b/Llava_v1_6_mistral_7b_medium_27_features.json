@@ -1,0 +1,76 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Pocket",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Boss (Circular / Obround / Irregular / Rectangular, etc)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Neck",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Pipe / Tube",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Freeform Features (Depression, Protrusion)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Rib",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Gusset",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Draft",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "on the top surface."
+    },
+    {
+      "feature_name": "Sheet Metal Features",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "on the top surface."
+    }
+  ]
+}

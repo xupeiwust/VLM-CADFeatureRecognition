@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "There are 4 holes visible on the faces of the part, likely through holes based on the geometry."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "The part has rounded corners, likely from fillet operations, on 4 edges."
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two of the holes appear to be threaded based on the cross-sectional view."
+    }
+  ]
+}

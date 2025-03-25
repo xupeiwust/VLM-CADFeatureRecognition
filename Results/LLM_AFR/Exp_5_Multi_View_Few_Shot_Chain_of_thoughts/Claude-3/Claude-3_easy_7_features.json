@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Chamfer / Bevel (Sharp Edge)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A chamfer is clearly visible on one edge of the block in the third view."
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Pocket",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Boss",
+      "exists": true,
+      "quantity": 1
+    },
+    {
+      "feature_name": "Chamfer",
+      "exists": true,
+      "quantity": 1
+    }
+  ]
+}

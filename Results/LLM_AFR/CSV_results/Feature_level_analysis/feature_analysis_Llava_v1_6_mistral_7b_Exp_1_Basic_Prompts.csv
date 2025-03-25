@@ -1,0 +1,16 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.22,0.56,0.14285714285714285,0.875,0.3333333333333333,0.3,0.13636363636363635,0.5714285714285714,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Chamfer / Bevel (Sharp Edge),0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Fillet / Round (Concave / Convex),0.009345794392523364,0.0,0.0,0.0,0.03571428571428571,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+"Freeform Features (Depression, Protrusion)",0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Gear Teeth,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Hole (Through / Blind Hole),0.26066350710900477,0.16666666666666666,0.5,0.39473684210526316,0.31092436974789917,0.1702127659574468,0.19455252918287938,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Pipe / Tube,0.23076923076923078,0.4,0.0,1.0,0.3333333333333333,0.0,0.2,0.3333333333333333,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.04,0.3333333333333333,0.0,0.0,0.10526315789473684,0.0,0.0,1.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.07058823529411765,0.25,0.0625,0.0,0.07692307692307693,0.0,0.06976744186046512,0.4,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Step (Through / Blind Step),0.125,0.0,0.3333333333333333,0.0,0.09090909090909091,0.0,0.1,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts
+Threaded Feature,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Llava_v1_6_mistral_7b,Exp_1_Basic_Prompts

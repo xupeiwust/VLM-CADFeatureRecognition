@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 16,
+      "reasoning": "The part is a gear with 16 evenly spaced external teeth."
+    }
+  ]
+}

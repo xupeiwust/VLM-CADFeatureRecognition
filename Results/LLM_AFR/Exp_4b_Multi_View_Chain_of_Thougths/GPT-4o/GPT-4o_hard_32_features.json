@@ -1,0 +1,22 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 5,
+      "reasoning": "Observed one large through hole and four smaller through holes on the left surface."
+    },
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Noticed two through slots on the right surface."
+    },
+    {
+      "feature_name": "Gusset",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Observed one gusset connecting the two surfaces."
+    }
+  ]
+}

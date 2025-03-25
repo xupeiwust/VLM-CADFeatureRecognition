@@ -1,0 +1,10 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "The top and bottom edges of the cylinder are rounded, forming convex fillets."
+    }
+  ]
+}

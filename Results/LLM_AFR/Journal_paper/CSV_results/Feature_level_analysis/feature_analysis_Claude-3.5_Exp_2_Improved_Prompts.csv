@@ -1,0 +1,17 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.7,0.25,1.0,0.3076923076923077,0.47619047619047616,0.3333333333333333,0.8181818181818182,0.17857142857142858,Claude-3.5,Exp_2_Improved_Prompts
+Chamfer / Bevel (Sharp Edge),0.25,0.875,0.16666666666666666,0.8888888888888888,0.3333333333333333,0.75,0.0,1.0,Claude-3.5,Exp_2_Improved_Prompts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Fillet / Round (Concave / Convex),0.4672897196261682,0.13559322033898305,0.6666666666666666,0.18181818181818182,0.25,0.4166666666666667,0.5223880597014925,0.027777777777777776,Claude-3.5,Exp_2_Improved_Prompts
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.5,0.0,0.0,0.0,1.0,0.2,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Gear Teeth,1.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Hole (Through / Blind Hole),0.6800947867298578,0.044585987261146494,0.8695652173913043,0.14,0.8403361344537815,0.06086956521739131,0.5719844357976653,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Neck,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,Claude-3.5,Exp_2_Improved_Prompts
+Pipe / Tube,0.7692307692307693,0.3333333333333333,0.0,1.0,0.3333333333333333,0.6666666666666666,0.9,0.18181818181818182,Claude-3.5,Exp_2_Improved_Prompts
+Pocket (Blind / Through / Circular End Pocket),0.2,0.14285714285714285,0.3684210526315789,0.0,0.15789473684210525,0.0,0.0,1.0,Claude-3.5,Exp_2_Improved_Prompts
+Rib,0.0,1.0,0.0,0.0,0.0,0.0,0.0,1.0,Claude-3.5,Exp_2_Improved_Prompts
+Sheet Metal Features,0.75,0.14285714285714285,0.0,0.0,1.0,0.3333333333333333,0.6666666666666666,0.0,Claude-3.5,Exp_2_Improved_Prompts
+Slot (Through / Blind / T-Slot / Dovetail),0.611764705882353,0.12857142857142856,0.6875,0.0,0.34615384615384615,0.3076923076923077,0.7441860465116279,0.10869565217391304,Claude-3.5,Exp_2_Improved_Prompts
+Step (Through / Blind Step),0.5,0.5357142857142857,0.3333333333333333,0.8,0.36363636363636365,0.6153846153846154,0.7,0.3,Claude-3.5,Exp_2_Improved_Prompts
+Threaded Feature,0.4444444444444444,0.0,0.5,0.0,0.5,0.0,0.3333333333333333,0.0,Claude-3.5,Exp_2_Improved_Prompts

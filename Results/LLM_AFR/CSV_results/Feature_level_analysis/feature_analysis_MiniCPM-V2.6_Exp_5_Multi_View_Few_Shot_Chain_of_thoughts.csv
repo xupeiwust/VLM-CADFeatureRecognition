@@ -1,0 +1,16 @@
+Feature name,Overall Accuracy,Overall Hallucination Rate,Easy Accuracy,Easy Hallucination Rate,Medium Accuracy,Medium Hallucination Rate,Hard Accuracy,Hard Hallucination Rate,Model,Experiment
+"Boss (Circular / Obround / Irregular / Rectangular, etc)",0.44,0.5636363636363636,0.14285714285714285,0.0,0.47619047619047616,0.6071428571428571,0.5,0.5384615384615384,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Chamfer / Bevel (Sharp Edge),0.6666666666666666,0.92,0.5,0.9090909090909091,0.8333333333333334,0.8484848484848485,0.0,1.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Draft,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Fillet / Round (Concave / Convex),0.514018691588785,0.4788732394366197,0.25,0.8571428571428571,0.5714285714285714,0.5573770491803278,0.5373134328358209,0.26666666666666666,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+"Freeform Features (Depression, Protrusion)",0.16666666666666666,0.9761904761904762,0.0,1.0,0.0,1.0,0.2,0.95,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gear Teeth,0.75,0.0,0.5,0.0,0.0,0.0,1.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Gusset,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Hole (Through / Blind Hole),0.33649289099526064,0.19095477386934673,0.6739130434782609,0.4,0.3949579831932773,0.18181818181818182,0.2490272373540856,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Neck,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pipe / Tube,0.07692307692307693,0.0,0.0,0.0,0.3333333333333333,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Pocket (Blind / Through / Circular End Pocket),0.34,0.6666666666666666,0.0,1.0,0.6842105263157895,0.5,0.3333333333333333,0.8666666666666667,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Sheet Metal Features,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Slot (Through / Blind / T-Slot / Dovetail),0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Step (Through / Blind Step),0.75,0.7777777777777778,0.6666666666666666,0.9047619047619048,0.7272727272727273,0.7142857142857143,0.8,0.75,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts
+Threaded Feature,0.2222222222222222,0.6,0.0,0.0,0.5,0.5,0.0,1.0,MiniCPM-V2.6,Exp_5_Multi_View_Few_Shot_Chain_of_thoughts

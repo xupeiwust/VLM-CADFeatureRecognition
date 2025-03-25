@@ -1,0 +1,5 @@
+category,true_positive_quantity,ground_truth_quantity,hallucinated_quantity,predicted_quantity,total_absolute_error,total_correctly_identified_names,total_ground_truth_names,accuracy,feature_name_matching_rate,hallucination_rate,mae,Model,Experiment
+easy,29,115,47,76,133,28,67,25.217391304347824,41.7910447761194,61.8421052631579,1.9850746268656716,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+hard,53,448,56,109,451,50,121,11.830357142857142,41.32231404958678,51.37614678899083,3.727272727272727,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+medium,71,241,44,115,214,53,104,29.460580912863072,50.96153846153846,38.26086956521739,2.0576923076923075,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts
+overall,153,804,147,300,798,131,292,19.029850746268657,44.86301369863014,49.0,7.98,Llava_v1_6_mistral_7b,Exp_2_Improved_Prompts

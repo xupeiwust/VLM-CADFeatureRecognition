@@ -1,0 +1,14 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Slot (Through / Blind / T-Slot / Dovetail)",
+      "exists": true,
+      "quantity": 10
+    },
+    {
+      "feature_name": "Gear Teeth",
+      "exists": true,
+      "quantity": 10
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Hole (Through / Blind Hole)",
+      "exists": true,
+      "quantity": 4,
+      "reasoning": "Two threaded holes visible on the vertical face and two smaller holes on the horizontal surface."
+    },
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "The part has a 90-degree angle forming a step between the vertical and horizontal surfaces."
+    },
+    {
+      "feature_name": "Pocket (Blind / Through / Circular End Pocket)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "Large circular pocket visible on the horizontal surface."
+    },
+    {
+      "feature_name": "Threaded Feature",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two threaded holes visible on the vertical face."
+    }
+  ]
+}

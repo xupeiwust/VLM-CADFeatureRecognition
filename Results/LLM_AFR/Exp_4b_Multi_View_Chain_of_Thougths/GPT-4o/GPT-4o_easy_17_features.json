@@ -1,0 +1,16 @@
+{
+  "identified_features": [
+    {
+      "feature_name": "Step (Through / Blind Step)",
+      "exists": true,
+      "quantity": 1,
+      "reasoning": "A step is observed on the top surface of the model."
+    },
+    {
+      "feature_name": "Fillet / Round (Concave / Convex)",
+      "exists": true,
+      "quantity": 2,
+      "reasoning": "Two fillets are observed on the edges of the model."
+    }
+  ]
+}

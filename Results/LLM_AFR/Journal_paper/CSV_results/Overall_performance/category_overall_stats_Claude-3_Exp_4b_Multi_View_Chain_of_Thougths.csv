@@ -1,0 +1,5 @@
+category,true_positive_quantity,ground_truth_quantity,hallucinated_quantity,predicted_quantity,total_absolute_error,total_correctly_identified_names,total_ground_truth_names,accuracy,feature_name_matching_rate,hallucination_rate,mae,Model,Experiment
+easy,57,115,28,113,114,27,67,49.56521739130435,40.298507462686565,24.778761061946902,1.7014925373134329,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+hard,124,448,23,191,391,50,121,27.67857142857143,41.32231404958678,12.041884816753926,3.231404958677686,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+medium,101,241,16,134,173,34,104,41.90871369294606,32.69230769230769,11.940298507462686,1.6634615384615385,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
+overall,282,804,67,438,678,111,292,35.07462686567165,38.013698630136986,15.296803652968036,6.78,Claude-3,Exp_4b_Multi_View_Chain_of_Thougths
