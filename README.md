@@ -4,7 +4,7 @@
 
 This repository contains the code and resources accompanying the paper "[Leveraging Vision-Language Models for Manufacturing Feature Recognition in CAD Designs](https://arxiv.org/abs/2411.02810)". The study explores the application of vision-language models (VLMs) to automate the recognition of various manufacturing features in CAD designs without extensive training datasets or predefined rules.
 
-**Dataset Used:** The dataset used in this study is available in the 'Dataset' folder..
+**Dataset Used:** The dataset used in this study is available in the `Dataset` folder.
 
 **Authors:** [Chen Lequn](https://github.com/Davidlequnchen), [Muhammad Tayyab Khan](https://github.com/tayyabkhan3)
 
